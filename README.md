@@ -1,11 +1,17 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+Initial work in Skolt Sami treebank.
 
 
 # Introduction
 
-...
+This includes 20 sentences originally presented at
+http://ilazki.thinkgeek.co.uk/brat/#/uralic/sms with UD 1. dependencies.
+
+The translation were made by Hilkka Fofonoff from the Finnish texts:
+http://ilazki.thinkgeek.co.uk/brat/#/uralic/fin
+
+[https://github.com/rueter/erme-ud-skolt-sami](https://github.com/rueter/erme-ud-skolt-sami)
 
 
 # Acknowledgments
