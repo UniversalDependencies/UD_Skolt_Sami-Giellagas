@@ -3,7 +3,8 @@
 UD Skolt Sami is the original annotation (CoNLL-U) for texts in the Skolt Sami language,
 it originally consists of twenty translated sentences made by Hilkka Fofonoff from the 
 Finnish texts: [here](http://ilazki.thinkgeek.co.uk/brat/#/uralic/fin). Subsequent sentences
-come from transcribed spoken materials at the Giellagas Institute in Oulu, Finland.
+come from transcribed spoken materials at the Giellagas Institute in Oulu, Finland, which, in part, 
+include research materials transferred from «Kotus» 'Institute for the Languages of Finland'.
 
 
 # Introduction
@@ -26,7 +27,7 @@ the linguistic consultation of Merja Fofonoff and Eino Koponen.
 The tools used have been facilitated through the open-source Giella infrastructure at the Norwegian Arctic University in Tromsø.
 
 Work with the Skolt Sami treebank builds upon previous experience with the UD_Erzya-JR treebank as well as growing discussions
-with Francis Tyers, Tommi Pirinen, Jonathan Washington and Niko Partanen. Without the Skolt Sami speakers and writers themselves, 
+with Francis Tyers, Tommi Pirinen, Jonathan Washington, Mika Hämäläinen and Niko Partanen. Without the Skolt Sami speakers and writers themselves, 
 however, we would be no where…
 
 
