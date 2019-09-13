@@ -3,7 +3,7 @@
 UD Skolt Sami is the original annotation (CoNLL-U) for texts in the Skolt Sami language,
 it originally consists of twenty translated sentences made by Hilkka Fofonoff from the 
 Finnish texts: [here](http://ilazki.thinkgeek.co.uk/brat/#/uralic/fin). Subsequent sentences
-come from transcribed spoken materials at the Giellagas Institute in Oulu, Finland, which, in part, 
+come from the Giellagas Corpus of Spoken Saami Languages of the University of Oulu, Finland, which, in part, 
 include research materials transferred from «Kotus» 'Institute for the Languages of Finland'.
 
 
