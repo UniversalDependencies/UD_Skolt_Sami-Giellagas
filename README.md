@@ -4,7 +4,7 @@ UD Skolt Sami is the original annotation (CoNLL-U) for texts in the Skolt Sami l
 it originally consists of twenty translated sentences made by Hilkka Fofonoff from the 
 Finnish texts: [here](http://ilazki.thinkgeek.co.uk/brat/#/uralic/fin). Subsequent sentences
 come from the Giellagas Corpus of Spoken Saami Languages of the University of Oulu, Finland, which, in part, 
-include research materials transferred from «Kotus» 'Institute for the Languages of Finland'.
+include research materials transferred from (Kotimaisten kielten keskus) «Kotus»  'Institute for the Languages of Finland'.
 
 
 # Introduction
@@ -13,6 +13,8 @@ This treebank includes 20 sentences originally presented at
 http://ilazki.thinkgeek.co.uk/brat/#/uralic/sms with UD 1. dependencies.
 The translation were made by Hilkka Fofonoff from the Finnish texts:
 http://ilazki.thinkgeek.co.uk/brat/#/uralic/fin
+
+Treebank sentences marked with text id beginning in [kotus-skak2010] originate from the publication Sääʹmǩiõll, äʹrbbǩiõll, for which the publisher 'Institute for the Languages of Finland' (Kotimaisten kielten keskus) has granted written permission to include in the treebank. Citation of the original publication should be included when the treebank is used (see References section below).
 
 [https://github.com/rueter/erme-ud-skolt-sami](https://github.com/rueter/erme-ud-skolt-sami)
 
@@ -31,7 +33,11 @@ with Francis Tyers, Tommi Pirinen, Jonathan Washington, Mika Hämäläinen and N
 however, we would be no where…
 
 
+
 ## References
+
+Eino Koponen, Jouni Moshnikoff & Satu Moshnikoff. 2010: Sääʹmǩiõll, äʹrbbǩiõll.Helsinki: (Kotimaisten kielten keskus) Institute for the Languages of Finland. Dommjânnmlaž ǩiõli tuʹtǩǩeemkõõskõs. Online publications of the Institute for the Languages of Finland, 14. ISSN 1796-041X. URL: http://scripta.kotus.fi/www/verkkojulkaisut/julk14/
+
 
 * (citation)
 
