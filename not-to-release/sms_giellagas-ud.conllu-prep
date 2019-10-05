@@ -1,365 +1,104 @@
 # -:- coding= UTF-8 -:-
-# sent_id = FofonoffHilkka_brat_2018:1
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="1" # storyID="brat"
-# text = Tõt nijdd ǩeeʹrjti ǩeeʹrj taaurõššʼses.
-# text_fi = Se tyttö kirjoitti kirjeen kaverilleen.
-1	Tõt	tõt	DET	Det	Case=Nom|Number=Sing|PronType=Dem	2	det	_	GTtags=Dem,Sg,Nom
-2	nijdd	nijdd	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	3	nsubj	_	GTtags=Sem/Kin,Sg,Nom
-3	ǩeeʹrjti	ǩeeʹrjted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
-4	ǩeeʹrj	ǩeʹrjj	NOUN	N	Case=Acc|Number=Sing	3	obj	_	GTtags=Sg,Acc
-5	taaurõššʼses	taaurõš	NOUN	N	Case=Ill|Number=Sing|Person[psor]=3|Number[psor]=Sing	3	obl	_	GTtags=Sg,Ill,PxSg3|SpaceAfter=No
-6	.	.	PUNCT	CLB	_	3	punct	_	_
+# sent_id = kotus-skak2010-1-1:1-1
+# aannotation="no" begintime="" endtime="" # paragID="1" # pgNo="9" # sentID="1" # storyID="KÄMMǤA MAAINÂS"
+# text = Vuõššân leäi källsaž, källsaž leäi de son jåått âʹtte meʹccest.
 
-# sent_id = FofonoffHilkka_brat_2018:2
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="2" # storyID="brat"
-# text = Joordam što âbrr.
-# text_fi = Luulen että sataa.
-1	Joordam	juʹrdded	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg1
-2	što	što	SCONJ	CS	_	3	mark	_	_
-3	âbrr	âʹbrred	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	ccomp	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
-4	.	.	PUNCT	CLB	_	1	punct	_	_
+# sent_id = kotus-skak2010-1-1:1-2
+# aannotation="no" begintime="" endtime="" # paragID="1" # pgNo="9" # sentID="2" # storyID="KÄMMǤA MAAINÂS"
+# text = Son jåått mieʹccest... son lij ooumžen vuâlggjam, mâŋŋa näuʹdden suõʹppjââtt.
 
-# sent_id = FofonoffHilkka_brat_2018:3
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="3" # storyID="brat"
-# text = Son ǩiččlõõddi looppted tääbbaǩ puälddmõõžž da veeiʹn juukkmõõžž.
-# text_fi = Hän yritti lopettaa tupakoinnin ja juomisen.
-1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	ǩiččlõõddi	ǩiččlõddâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
-3	looppted	looppted	VERB	V	VerbForm=Inf	2	xcomp	_	GTtags=Inf
-4	tääbbaǩ	tääbbaǩ	NOUN	N	Case=Gen|Number=Sing	5	obl	_	GTtags=Sg,Gen
-5	puälddmõõžž	puälddmõš	NOUN	N	Case=Acc|Number=Sing	3	obj	_	GTtags=Sg,Acc
-6	da	da	CCONJ	CC	_	8	cc	_	_
-7	veeiʹn	veiʹnn	NOUN	N	Case=Gen|Number=Sing	8	obj	_	GTtags=Sg,Gen
-8	juukkmõõžž	juukkmõš	NOUN	N	Case=Acc|Number=Sing	5	conj	_	GTtags=Sg,Acc|SpaceAfter=No
-9	.	.	PUNCT	CLB	_	2	punct	_	_
+# sent_id = kotus-skak2010-1-1:1-3
+# aannotation="no" begintime="" endtime="" # paragID="1" # pgNo="9" # sentID="3" # storyID="KÄMMǤA MAAINÂS"
+# text = Näʹde näuʹdden suõʹppjââtt, kämmǥižžen âʹtte måttmešt ja kueʹllen vuâjj.
 
-# sent_id = FofonoffHilkka_brat_2018:4
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="4" # storyID="brat"
-# text = Haaʹlääk-a mõõnnâd?
-# text_fi = Haluatko mennä?
-1	Haaʹlääk-a	haaʹleed	AUX	V	Mood=Ind|Number=Sing|Person=2|Qst/a|Tense=Pres	2	aux	_	GTtags=Ind,Prs,Sg2,Qst/a
-2	mõõnnâd	mõõnnâd	VERB	V	VerbForm=Inf	0	root	_	GTtags=Inf|SpaceAfter=No
-3	?	?	PUNCT	CLB	_	2	punct	_	_
+# sent_id = kotus-skak2010-1-1:1-4
+# aannotation="no" begintime="" endtime="" # paragID="1" # pgNo="9" # sentID="4" # storyID="KÄMMǤA MAAINÂS"
+# text = Kueʹllen vuâjj ja låʹdden ǩeârdd.
 
-# sent_id = FofonoffHilkka_brat_2018:5
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="5" # storyID="brat"
-# text = Ääʹved ikkân Sam!
-# text_fi = Avaa ikkuna Sam!
-1	Ääʹved	ääʹveed	VERB	V	Mood=Imp|Number=Sing|Person=2	0	root	_	GTtags=Imprt,Sg2
-2	ikkân	ikkân	NOUN	N	Case=Acc|Number=Sing	1	obj	_	GTtags=Sg,Acc
-3	Sam	Sam	NOUN	N	Case=Nom|Number=Sing	1	vocative	_	GTtags=Prop,Sg,Nom|SpaceAfter=No
-4	!	!	PUNCT	CLB	_	1	punct	_	_
+# sent_id = kotus-skak2010-1-1:2-1
+# aannotation="no" begintime="" endtime="" # paragID="2" # pgNo="9" # sentID="1" # storyID="KÄMMǤA MAAINÂS"
+# text = De måttmešt vaaʹldi de... suʹst liâ kueʹhtt pääʹrn, kueʹhtt mââʹnj liâ, kueʹhtt kaappi.
 
-# sent_id = FofonoffHilkka_brat_2018:6
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="6" # storyID="brat"
-# text = Son piiji kuõjâs põõssâd aaut.
-# text_fi = Hän pani miehensä pesemään auton.
-1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	piiji	piijjâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
-3	kuõjâs	kuõjj	NOUN	N	Animacy=Hum|Case=Acc|Number=Sing|Person[psor]=3|Number[psor]=Sing	2	obj	_	Acc|GTtags=Sem/Kin,Sg,PxSg3
-4	põõssâd	põõssâd	VERB	V	VerbForm=Inf	2	xcomp	_	GTtags=Inf
-5	aaut	autt	NOUN	N	Case=Acc|Number=Sing	4	obj	_	GTtags=Sg,Acc|SpaceAfter=No
-6	.	.	PUNCT	CLB	_	2	punct	_	_
+# sent_id = kotus-skak2010-1-1:2-2
+# aannotation="no" begintime="" endtime="" # paragID="2" # pgNo="9" # sentID="2" # storyID="KÄMMǤA MAAINÂS"
+# text = Näʹde muõrid räʹjje, räʹjje, räʹjje.
 
-# sent_id = FofonoffHilkka_brat_2018:7
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="7" # storyID="brat"
-# text = Peter räʹjjlaž kälkkii čuâl.
-# text_fi = Peterin naapuri maalasi aidan.
-1	Peter	Peter	NOUN	N	Case=Gen|Number=Sing	2	nmod	_	GTtags=Prop,Sem/Mal,Sg,Gen
-2	räʹjjlaž	räʹjjlaž	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	GTtags=Sg,Nom
-3	kälkkii	kälkkeed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
-4	čuâl	čuâll	NOUN	N	Acc|Number=Sing	3	obj	_	GTtags=Sg,Acc|SpaceAfter=No
-5	.	.	PUNCT	CLB	_	3	punct	_	_
+# sent_id = kotus-skak2010-1-1:2-3
+# aannotation="no" begintime="" endtime="" # paragID="2" # pgNo="9" # sentID="3" # storyID="KÄMMǤA MAAINÂS"
+# text = Räʹjje, räʹjje muõrid de son ceälkk što ”ååʹn tij mõõnnâd kuätta ja mon vuâlǥam”, ceälkk ”vâl viǯǯled vuâlǥam muõrid”.
 
-# sent_id = FofonoffHilkka_brat_2018:8
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
-# text = Eččad lij luândstes lääʹđesmiõllsab ǥu eččan.
-# text_fi = Isäsi on viileämpi kuin minun.
-1	Eččad	eʹčč	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Person[psor]=2|Number[psor]=Sing	4	nsubj	_	GTtags=Sem/Kin,Sg,Nom,PxSg2
-2	lij	leeʹd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	4	cop	_	GTtags=IV,Ind,Prs,Sg3
-3	luândstes	luândd	NOUN	N	Case=Loc|Number=Sing|Person[psor]=3|Number[psor]=Sing	4	obl	_	GTtags=Sg,Loc,PxSg3
-4	lääʹđesmiõllsab	lääʹđesmiõllsaž	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	0	root	_	GTtags=Comp,Sg,Nom
-5	ǥu	ǥu	ADV	Adv	_	6	mark	_	_
-6	eččan	eʹčč	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Person[psor]=1|Number[psor]=Sing	4	obl	_	GTtags=Sem/Kin,Sg,Nom,PxSg1|SpaceAfter=No
-7	.	.	PUNCT	CLB	_	4	punct	_	_
+# sent_id = kotus-skak2010-1-1:2-4
+# aannotation="no" begintime="" endtime="" # paragID="2" # pgNo="9" # sentID="4" # storyID="KÄMMǤA MAAINÂS"
+# text = No vuâlgg, vuõʹlji.
 
-# sent_id = FofonoffHilkka_brat_2018:9
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="9" # storyID="brat"
-# text = Mary vuäǯǯai proons, Peter siilb da Jane kååʹll.
-# text_fi = Mary voitti pronssin , Peter hopean ja Jane kultaa.
-1	Mary	Mary	NPROP	N	Case=Nom|Number=Sing|Sem/Fem	2	nsubj	_	GTtags=Prop,Sem/Fem,Sg,Nom
-2	vuäǯǯai	vuäǯǯad	VERB	V	Mood=Ind|Number=Sing|Person=3|Prt	0	root	_	GTtags=Ind,Prt,Sg3
-3	proons	pronss	NOUN	N	Acc|Number=Sing	2	obj	_	GTtags=Sg,Acc|SpaceAfter=No
-4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	Peter	Peter	NPROP	N	Case=Nom|Number=Sing|Sem/Mal	2	conj	_	GTtags=Prop,Sem/Mal,Sg,Nom
-6	siilb	silbb	NOUN	N	Acc|Number=Sing	5	orphan	_	GTtags=Sg,Acc
-7	da	da	CONJ	CC	_	8	cc	_	_
-8	Jane	Jane	NPROP	N	Case=Nom|Number=Sing|Sem/Fem	2	conj	_	GTtags=Prop,Sem/Fem,Sg,Nom
-9	kååʹll	kåʹll	NOUN	N	Acc|Number=Sing	8	orphan	_	GTtags=Sg,Acc|SpaceAfter=No
-10	.	.	PUNCT	CLB	_	2	punct	_	_
+# sent_id = kotus-skak2010-1-1:3-1
+# aannotation="no" begintime="" endtime="" # paragID="3" # pgNo="9" # sentID="1" # storyID="KÄMMǤA MAAINÂS"
+# text = No nuʹbb kaav mieʹldd väʹʒʒlõõʹtti, mieʹldd vaaʹʒʒi, vaaʹʒʒi de ǩeäčč mäʹhtt tõt mâânn.
 
-# sent_id = FofonoffHilkka_brat_2018:10
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="10" # storyID="brat"
-# text = Lij-a Iguazu jõnn avi uʹcc jânnam?
-# text_fi = Onko Iguazu iso vai pieni maa?
-1	Lij-a	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Qst/a|Tense=Pres|Valency=1	6	cop	_	GTtags=IV,Ind,Prs,Sg3,Qst/a
-2	Iguazu	Iguazu	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	GTtags=Prop,Sg,Nom
-3	jõnn	jõnn	ADJ	A	_	6	amod	_	GTtags=Attr
-4	avi	avi	CCONJ	CC	_	5	cc	_	_
-5	uʹcc	uʹcc	ADJ	A	_	3	conj	_	GTtags=Attr
-6	jânnam	jânnam	NOUN	N	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom|SpaceAfter=No
-7	?	?	PUNCT	CLB	_	6	punct	_	_
+# sent_id = kotus-skak2010-1-1:3-2
+# aannotation="no" begintime="" endtime="" # paragID="3" # pgNo="9" # sentID="2" # storyID="KÄMMǤA MAAINÂS"
+# text = Son mõõni, ääušas lueʹšti, tõzz kuõʹđi, pirr njikkõnj täävtõõđi, kooum vuâra jåårǥli de oʹlvvji, kämmǥižžen šõõddi, di mõõni teâđast.
 
-# sent_id = FofonoffHilkka_brat_2018:11
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="11" # storyID="brat"
-# text = Nuʹtt kuâđđje vaʹlljeeǩâni Peter Smith diǥu še Mary Brown.
-# text_fi = Ei voitu valita Peter Smithiä eikä Mary Brownia.
-1	Nuʹtt	nuʹtt	ADV	Adv	_	2	advmod	_	_
-2	kuâđđje	kuâđđjed	VERB	V	Mood=Ind|Number=Plur|Person=3|Prt	0	root	_	GTtags=Ind,Prt,Pl3
-3	vaʹlljeeǩâni	vaʹlljeed	VERB	V	VAbess	2	advcl	_	GTtags=VAbess
-4	Peter	Peter	PROPN	N	Prop	5	compound:nn	_	GTtags=Prop,Sem/Mal,Attr
-5	Smith	Smith	PROPN	N	Case=Nom|Number=Sing	2	nsubj		_	GTtags=Prop,Sem/Sur,Sg,Nom
-6	diǥu	diǥu	SCONJ	CS	_	9	mark		_	_
-7	še	še	ADV	       Pcle	_	9	advmod		_	_
-8	Mary	Mary	  PROPN	N	_|Prop	9	compound:nn	_	GTtags=Prop,Sem/Fem,Attr
-9	Brown	Brown	PROPN	N	Case=Nom|Number=Sing	5	conj		_	GTtags=Prop,Sem/Sur,Sg,Nom|SpaceAfter=No
-10	.	.	PUNCT	CLB	_	2	punct	_	_
+# sent_id = kotus-skak2010-1-1:3-3
+# aannotation="no" begintime="" endtime="" # paragID="3" # pgNo="9" # sentID="3" # storyID="KÄMMǤA MAAINÂS"
+# text = No kaav tõt seämmanalla mõõni tõn njikkõnja ja piirâs jåårǥli âʹtte kooum vuâra oʹlvvji, de son še šõõddi kämmǥižžen, de son mieʹldd mõõni.
 
-# sent_id = FofonoffHilkka_brat_2018:12
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="12" # storyID="brat"
-# text = Seeʹst jeäʹla  ǩeeʹrjteeʹjest võl ni måkam jurddi. 
-# text_fi = Heillä ei ole ideaa siitä kuka sen kirjoitti.
-1	Seeʹst	son	PRON	Pron	Case=Loc|Number=Plur|Person=3|PronType=Prs	2	obl	_	GTtags=Pers,Pl3,Loc
-2	jeäʹla	jeäʹla	VERB	V	_	0	root	_	GTtags=V
-3	ǩeeʹrjteeʹjest	ǩeeʹrjteei	NOUN	N	Case=Loc|Number=Sing	2	obl	_	GTtags=Sg,Loc
-4	võl	võl	ADV	Adv	AdvType=Tim	2	advmod	_	GTtags=Sem/Time
-5	ni	ni	AUX	Aux	_	6	aux:neg	_	_
-6	måkam	måkam	DET	Det	_	7	det	_	GTtags=Attr
-7	jurddi	juurd	NOUN	N	Case=Nom|Number=Plur	2	nsubj	_	GTtags=Pl,Nom|SpaceAfter=No
-8	.	.	PUNCT	CLB	_	2	punct	_	_
+# sent_id = kotus-skak2010-1-1:4-1
+# aannotation="no" begintime="" endtime="" # paragID="4" # pgNo="9" # sentID="1" # storyID="KÄMMǤA MAAINÂS"
+# text = Mõõni, mõõni de kueʹtt lij, kämmǥa kueʹtt lij, di son mõõni tõzz de tut ceälkk što: ”No mõõzz ton puõʹttiǩ.
 
-# sent_id = FofonoffHilkka_brat_2018:13
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="13" # storyID="brat"
-# text = Mâiʹd ǩiõččak?
-# text_fi = Mitä katsot?
-1	Mâiʹd	mâiʹd	PRON	Pron	Acc|Number=Sing|PronType=Int	2	obj	_	GTtags=Interr,Sg,Acc
-2	ǩiõččak	ǩiõččâd	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg2|SpaceAfter=No
-3	?	?	PUNCT	CLB	_	2	punct	_	_
+# sent_id = kotus-skak2010-1-1:4-2
+# aannotation="no" begintime="" endtime="" # paragID="4" # pgNo="9" # sentID="2" # storyID="KÄMMǤA MAAINÂS"
+# text = A mäʹhtt šât ton še puõʹttiǩ.”
 
-# sent_id = FofonoffHilkka_brat_2018:14
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="14" # storyID="brat"
-# text = Mâiʹd joordak što kuäʹss piâzzčiǩ?
-# text_fi = Milloin luulet voivasi tulla?
-1	Mâiʹd	mâiʹd	PRON	Pron	Acc|PronType=Int	2	obj	_	GTtags=Interr,Acc
-2	joordak	juʹrdded	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg2
-3	što	što	SCONJ	CS	_	5	mark	_	_
-4	kuäʹss	kuäʹss	ADV	Adv	_	5	advmod	_	_
-5	piâzzčiǩ	piâssâd	VERB	V	Mood=Cnd|Number=Sing|Person=2	2	xcomp	_	GTtags=Cond,Sg2|SpaceAfter=No
-6	?	?	PUNCT	CLB	_	2	punct	_	_
+# sent_id = kotus-skak2010-1-1:4-3
+# aannotation="no" begintime="" endtime="" # paragID="4" # pgNo="9" # sentID="3" # storyID="KÄMMǤA MAAINÂS"
+# text = De son jeeʹres tõzz-e tok kuäʹđ... jiijjâs kuäʹđ jeeʹres årra tok raaji pääiʹǩi ja de tok pääkkai mõõnnâd.
 
-# sent_id = FofonoffHilkka_brat_2018:15
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="15" # storyID="brat"
-# text = Son vueʹsti aaut da väʹst viʹlljes pâi tanccâmvuâjan.
-# text_fi = Hän osti auton mutta veljensä vain pyörän.
-1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	vueʹsti	vuäʹstted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
-3	aaut	autt	NOUN	N	Acc|Number=Sing	2	obj	_	GTtags=Sg,Acc
-4	da	da	CCONJ	CC	_	6	cc	_	_
-5	väʹst	väʹst	ADV	Adv	_	6	orphan	_	_
-6	viʹlljes	villj	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Person[psor]=3|Number[psor]=Sing	2	conj	_	GTtags=Sem/Kin,Sg,Nom,PxSg3
-7	pâi	pâi	ADV	Adv	_	6	orphan	_	_
-8	tanccâmvuâjan	tanccâmvuâjan	NOUN	N	Acc|Number=Sing	6	orphan	_	GTtags=Sg,Acc|SpaceAfter=No
-9	.	.	PUNCT	CLB	_	2	punct	_	_
+# sent_id = kotus-skak2010-1-1:4-4
+# aannotation="no" begintime="" endtime="" # paragID="4" # pgNo="10" # sentID="4" # storyID="KÄMMǤA MAAINÂS"
+# text = Leša mõõni de nääiʹt ǩiõđâs piiji, källsaž piiji, ceälkk: kulddâl mâka peeʹlljin tän suu ǩiõđ âʹlnn.
 
-# sent_id = FofonoffHilkka_brat_2018:16
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="16" # storyID="brat"
-# text = Peter da Mary âskkõʹlle da liõʹhtte meädda lõõnjâst.
-# text_fi = Peter ja Mary halasivat toisiaan ja lähtivät huoneesta.
-1	Peter	Peter	PROPN	N	Case=Nom|Number=Sing|Sem/Mal	4	nsubj	_	GTtags=Prop,Sem/Mal,Sg,Nom
-2	da	da	CCONJ	CC	_	3	cc	_	_
-3	Mary	Mary	PROPN	N	Case=Nom|Number=Sing|Sem/Fem	1	conj	_	GTtags=Prop,Sem/Fem,Sg,Nom
-4	âskkõʹlle	âskkõõllâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Prt	0	root	_	GTtags=Ind,Prt,Pl3
-5	da	da	CCONJ	CC	_	6	cc	_	_
-6	liõʹhtte	liõhttâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Prt	4	conj	_	GTtags=Ind,Prt,Pl3
-7	meädda	meädda	ADV	Adv	_	8	advmod	_	_
-8	lõõnjâst	lõnnj	NOUN	N	Case=Loc|Number=Sing	6	obl	_	GTtags=Sg,Loc|SpaceAfter=No
-9	.	.	PUNCT	CLB	_	4	punct	_	_
+# sent_id = kotus-skak2010-1-1:5-1
+# aannotation="no" begintime="" endtime="" # paragID="5" # pgNo="10" # sentID="1" # storyID="KÄMMǤA MAAINÂS"
+# text = Son kulddleškuõʹđi, toʹb koll’je, ruuʹdid täkka da tõid.
 
-# sent_id = FofonoffHilkka_brat_2018:17
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="17" # storyID="brat"
-# text = Suʹst leäi õlggâm leeʹd tõn peeiʹv čååǥǥâʹttmen vuõptees, leša mii leežž šõddâm ǥu ij tâʹl ni vuäittam. 
-# text_fi = Hänen olisi pitänyt olla laittamassa kampaustaan mutta jostain syystä ei voinutkaan sinä päivänä
-1	Suʹst	son	PRON	Pron	Case=Loc|Number=Sing|Person=3|PronType=Prs	4	obl	_	GTtags=Pers,Sg3,Loc
-2	leäi	leeʹd	VERB	V	Mood=Ind|Number=Sing|Person=3|Prt|Valency=1	4	aux	_	GTtags=IV,Ind,Prt,Sg3
-3	õlggâm	õlggâd	AUX	Aux	_|PrfPrc	4	aux	_	GTtags=Act,PrfPrc
-4	leeʹd	leeʹd	VERB	V	Valency=1|VerbForm=Inf	0	root	_	GTtags=IV,Inf
-5	tõn	tõt	DET	Det	Case=Gen|Number=Sing|PronType=Dem	6	det	_	GTtags=Dem,Sg,Gen
-6	peeiʹv	peiʹvv	NOUN	N	Case=Gen|Number=Sing	4	obl	_	GTtags=Sg,Gen
-7	čååǥǥâʹttmen	čååǥǥâʹttmen	VERB	V	_	4	xcomp	_	_
-8	vuõptees	vuõptt	NOUN	N	Case=Acc|Number=Plur|Person[psor]=3|Number[psor]=Sing	7	obj	_	Acc|GTtags=Pl,PxSg3
-9	,	,	PUNCT	CLB	_	13	punct	_	_
-10	leša	leša	CCONJ	CC	_	13	mark	_	_
-11	mii	mii	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	13	nsubj	_	GTtags=Rel,Sg,Nom
-12	leežž	leeʹd	AUX	Aux	Mood=Pot|Number=Sing|Person=3|Valency=1	13	aux	_	GTtags=IV,Pot,Sg3
-13	šõddâm	šõddâd	VERB	V	_|PrfPrc	4	advcl	_	GTtags=Act,PrfPrc
-14	ǥu	ǥu	SCONJ	CS	_	18	mark	_	_
-15	ij	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	18	aux:neg	_	GTtags=Neg,Ind,Sg3
-16	tâʹl	tâʹl	ADV	Adv	AdvType=Tim	18	advmod	_	GTtags=Sem/Time
-17	ni	ni	AUX	Aux	_	18	aux:neg	_	_
-18	vuäittam	vueiʹtted	VERB	V	_|PrfPrc	13	advcl	_	GTtags=Act,PrfPrc|SpaceAfter=No
-19	.	.	PUNCT	CLB	_	4	punct	_	_
+# sent_id = kotus-skak2010-1-1:5-2
+# aannotation="no" begintime="" endtime="" # paragID="5" # pgNo="10" # sentID="2" # storyID="KÄMMǤA MAAINÂS"
+# text = Källsaž ceälkk tõt što ”ååʹn muännaid kåʹdde”.
 
-# sent_id = FofonoffHilkka_brat_2018:18
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="18" # storyID="brat"
-# text = Jiõm pâsttam seuʹrrjed suu urččmõõžž ǥu son leäi samai jåʹttel.
-# text_fi = En pystynyt seuraamaan koska hän juoksi liian nopeasti.
-1	Jiõm	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	3	aux:neg	_	GTtags=Neg,Ind,Sg1
-2	pâsttam	pâʹstted	AUX	Aux	Connegative=Yes|Mood=Ind|Prt	3	aux	_	GTtags=Ind,Prt,ConNeg
-3	seuʹrrjed	seuʹrrjed	VERB	V	VerbForm=Inf	0	root	_	GTtags=Inf
-4	suu	son	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	det	_	GTtags=Pers,Sg3,Gen
-5	urččmõõžž	urččmõš	AUX	Aux	Acc|Number=Sing	3	obj	_	GTtags=Sg,Acc
-6	ǥu	ǥu	SCONJ	CS	_	10	mark	_	_
-7	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	GTtags=Pers,Sg3,Nom
-8	leäi	leeʹd	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Prt|Valency=1	10	cop	_	GTtags=IV,Ind,Prt,Sg3
-9	samai	samai	ADV	Adv	_	10	advmod	_	_
-10	jåʹttel	jåʹttel	ADJ	A	Case=Nom|Number=Sing	3	advcl	_	GTtags=Sg,Nom|SpaceAfter=No
-11	.	.	PUNCT	CLB	_	3	punct	_	_
+# sent_id = kotus-skak2010-1-1:5-3
+# aannotation="no" begintime="" endtime="" # paragID="5" # pgNo="10" # sentID="3" # storyID="KÄMMǤA MAAINÂS"
+# text = No son mâʹst teâtt ...
 
-# sent_id = FofonoffHilkka_brat_2018:19
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="19" # storyID="brat"
-# text = Tät jåhtta tuåimtum ǩeʹrjj lij Peter vuõltteem.
-# text_fi = Tämä on kirje Peteriltä ja se toimitettiin eilen
-1	Tät	tät	DET	Det	Case=Nom|Number=Sing|PronType=Dem	4	det	_	GTtags=Dem,Sg,Nom
-2	jåhtta	jåhtta	ADV	Adv	AdvType=Tim	3	advmod	_	GTtags=Sem/Time
-3	tuåimtum	tuåimted	VERB	V	Pass|PrfPrc	4	advcl	_	GTtags=Pass,PrfPrc
-4	ǩeʹrjj	ǩeʹrjj	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	GTtags=Sg,Nom
-5	lij	leeʹd	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	7	cop	_	GTtags=IV,Ind,Prs,Sg3
-6	Peter	Peter	PROPN	N	Case=Nom|Number=Sing|Sem/Mal	7	obl	_	GTtags=Prop,Sem/Mal,Sg,Nom
-7	vuõltteem	vuõltteed	VERB	V	_|PrfPrc	0	root	_	GTtags=Act,PrfPrc|SpaceAfter=No
-8	.	.	PUNCT	CLB	_	7	punct	_	_
+# sent_id = kotus-skak2010-1-1:5-4
+# aannotation="no" begintime="" endtime="" # paragID="5" # pgNo="10" # sentID="4" # storyID="KÄMMǤA MAAINÂS"
+# text = Na källsaž ceälkk: ”Muu ko kooʹddže ton jiõk õõlǥ käggõõttâd vuõʹste.
 
-# sent_id = FofonoffHilkka_brat_2018:20
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="20" # storyID="brat"
-# text = Son jälsti čõõđ ääiʹj Pariizzâst, Franskkjânnam vueiʹvvgåårdest.
-# text_fi = Hän kasvoi Pariisissa, joka on Ranksan pääkaupunki.
-1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	jälsti	jälsted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
-3-4	čõõđ ääiʹj	_	_	_	_	_	_	_	_
-3	čõõđ čõõđ	ADP	Adp	_	4	case	_	_
-4	ääiʹj	äiʹǧǧ	NOUN	N	Case=Gen|Number=Sing	2	obl	_	GTtags=Sg,Gen
-5	Pariizzâst	Pariizzâst	PROPN	N	Case=Loc|Number=Sing|Sem/Plc	2	obl	_	GTtags=Prop,Sem/Plc,Sg,Loc|SpaceAfter=No
-6	,	,	PUNCT	CLB	_	8	punct	_	_
-7	Franskkjânnam	Franskkjânnam	PROPN	N	Case=Gen|Number=Sing|Sem/Plc	8	nmod	_	GTtags=Prop,Sem/Plc,Sg,Gen
-8	vueiʹvvgåårdest	vueiʹvvgåårad	NOUN	N	Case=Loc|Number=Sing	5	appos	_	GTtags=Sg,Loc|SpaceAfter=No
-9	.	.	PUNCT	CLB	_	2	punct	_	_
+# sent_id = kotus-skak2010-1-1:5-5
+# aannotation="no" begintime="" endtime="" # paragID="5" # pgNo="10" # sentID="5" # storyID="KÄMMǤA MAAINÂS"
+# text =  Muu ko kooʹddže de aaudže de tueʹllj piijže dõõzz-e kuäʹttnjälmma de näʹde ton õõk njuiʹǩǩeed pâʹjjel tõn tueʹllj õõk njuiʹǩǩeed, di jos piâzzžiǩ pâʹjjel tueʹllj de teʹl jiâ kååʹdd tuu.”
 
-# sent_id = NA2_00635_1az::0:39:13
-# aannotation="no" begintime="0:39:13" endtime=""
-# text = Ij kuuʹǩǩ leämmaž mieʹccest, iʹttli kuʹmpp väʹst mååust.
-# text_fi = Ei ollut kauaa metsässä, susi ilmestyi takaisin.
-1	Ij	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	3	aux:neg	_	GTtags=Neg,Ind,Sg3
-2	kuuʹǩǩ	kuʹǩǩ	ADV	Adv	Case=Nom|Number=Sing	3	advmod	_	GTtags=Sg,Nom
-3	leämmaž	leeʹd	VERB	V	_|PrfPrc|Valency=1	0	root	_	GTtags=IV,Act,PrfPrc
-4	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	3	obl	_	GTtags=Sg,Loc
-5	,	,	PUNCT	CLB	_	6	punct	_	_
-6	iʹttli	iʹttled	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	3	advcl	_	GTtags=Ind,Prt,Sg3
-7	kuʹmpp	kuʹmpp	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	GTtags=Sg,Nom
-8	väʹst	väʹst	ADV	Adv	_	6	advmod	_	_
-9	mååust	mååust	ADV	Adv	_	6	advmod	_	SpaceAfter=No
-10	.	.	PUNCT	CLB	_	3	punct	_	_
+# sent_id = kotus-skak2010-1-1:6-1
+# aannotation="no" begintime="" endtime="" # paragID="6" # pgNo="10" # sentID="1" # storyID="KÄMMǤA MAAINÂS"
+# text = No son âʹtte vaaʹldi, teä koll’je, puõʹtte teâđast kaarbivuiʹm käʹrbbe, šeʹlle, puõʹtte.
 
-# sent_id = 11308_1a::0:01:32-0:01:36
-# aannotation="no" begintime="0:01:32" endtime="0:01:36"
-# text = tõt sluužbäiʹǧǧ leäi kuâhttlovitt eeʹjj.
-# text_fi = se palvelusaika oli 25 vuotta.
-1	tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	2	det	_	GTtags=Dem,Sg,Nom
-2	sluužbäiʹǧǧ	sluuʹžbäiʹǧǧ	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	GTtags=Sg,Nom
-3	leäi	leeʹd	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Prt|Valency=1	5	cop	_	GTtags=IV,Ind,Prt,Sg3
-4	kuâhttlovitt	kuâhttlovitt	NUM	Num	_	5	nummod	_	_
-5	eeʹjj	eeʹǩǩ	NOUN	N	Case=Gen|Number=Sing	0	root	_	GTtags=Sg,Gen|SpaceAfter=No
-6	.	.	PUNCT	CLB	_	5	punct	_	_
+# sent_id = kotus-skak2010-1-1:6-2
+# aannotation="no" begintime="" endtime="" # paragID="6" # pgNo="10" # sentID="2" # storyID="KÄMMǤA MAAINÂS"
+# text = De suu teâđast ... son käggõõđi teä suu koʹdde, pačču di koʹdde.
 
-# sent_id = 11308_1a::0:02:12-0:02:18
-# aannotation="no" begintime="0:02:12" endtime="0:02:18"
-# text = kõõjji, štõ leäk-a tiõrvâs, jiõk leäkku tiõrvâs, lij-a piâr vai iʹlla.
-# text_fi = että oletko terve, et ole terve, onko perhettä vai eikö ole.
-1	kõõjji	kõõččâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	_	_	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
-2	,	,	PUNCT	CLB	_	5	punct	_	_
-3	štõ	što	SCONJ	CS	_	5	mark	_	_
-4	leäk-a	leeʹd	AUX	Aux	Mood=Ind|Number=Sing|Person=2|Qst/a|Tense=Pres|Valency=1	5	cop	_	GTtags=IV,Ind,Prs,Sg2,Qst/a
-5	tiõrvâs	tiõrvâs	ADJ	A	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom|SpaceAfter=No
-6	,	,	PUNCT	CLB	_	9	punct	_	_
-7	jiõk	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	9	aux:neg	_	GTtags=Neg,Ind,Sg2
-8	leäkku	leeʹd	AUX	Aux	Connegative=Yes|Mood=Ind|Tense=Pres|Valency=1	9	aux	_	GTtags=IV,Ind,Prs,ConNeg
-9	tiõrvâs	tiõrvâs	ADJ	A	Case=Nom|Number=Sing	5	conj	_	GTtags=Sg,Nom|SpaceAfter=No
-10	,	,	PUNCT	CLB	_	12	punct	_	_
-11	lij-a	leeʹd	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Qst/a|Tense=Pres|Valency=1	12	cop	_	GTtags=IV,Ind,Prs,Sg3,Qst/a
-12	piâr	piâr	NOUN	N	Case=Nom|Number=Sing	5	conj	_	GTtags=N,Sg,Nom
-13	vai	vai	CCONJ	CC	_	14	cc	_	_
-14	iʹlla	iʹlla	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Polarity=Neg	12	conj	_	GTtags=Neg,Ind,Prs,Sg3|SpaceAfter=No
-15	.	.	PUNCT	CLB	_	5	punct	_	_
+# sent_id = kotus-skak2010-1-1:6-3
+# aannotation="no" begintime="" endtime="" # paragID="6" # pgNo="10" # sentID="3" # storyID="KÄMMǤA MAAINÂS"
+# text = Na aʹhtte... kueʹhtt oummu liâ, aʹhtte di tueʹllj leâvvje, son ǩiiččad, ǩiiččad mäʹhtt.
 
-# sent_id = 11308_1a::0:02:39-0:02:44
-# aannotation="no" begintime="0:02:39" endtime="0:02:44"
-# text = teʹl piʹjje čiččâm ekka sluužba
-# text_fi = silloin laittoivat seitsemäksi vuodeksi palvelukseen
-1	teʹl	teʹl	ADV	Adv	_	2	advmod:tmod	_	_
-2	piʹjje	piijjâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Pl3
-3	čiččâm	čiččâm	NUM	Num	Case=Nom|Number=Sing	4	nummod	_	GTtags=Sg,Nom
-4	ekka	eeʹǩǩ	NOUN	N	Case=Ill|Number=Sing	2	obl	_	GTtags=Sg,Ill
-5	sluužba	sluuʹžb	NOUN	N	Case=Ill|Number=Sing	2	obl	_	GTtags=Sg,Ill|SpaceAfter=No
-6	.	.	PUNCT	CLB	_	2	punct	_	_
+# sent_id = kotus-skak2010-1-1:6-4
+# aannotation="no" begintime="" endtime="" # paragID="6" # pgNo="10" # sentID="4" # storyID="KÄMMǤA MAAINÂS"
+# text = Na son njuiʹǩǩii pâʹjjel tõn tueʹllj, njuiʹǩǩii de kuåsti mutta õhtt peäʹlǧǧ kuõski de tõt šõõddi kämmǥa peäʹlǧǧ.
 
-# sent_id = 11308_1a::0:02:50-0:02:53
-# aannotation="no" begintime="0:02:50" endtime="0:02:53"
-# text = čiččâm eeʹǩǩed mâânn ouddâl ko peäss.
-# text_fi = seitsemän vuotta menee ennen kuin pääsee.
-1	čiččâm	čiččâm	NUM	Num	Case=Nom|Number=Sing	2	nummod	_	GTtags=Sg,Nom
-2	eeʹǩǩed	eeʹǩǩ	NOUN	N	Case=Par	3	nsubj	_	GTtags=Par
-3	mâânn	mõõnnâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
-4	ouddâl	ouddâl	ADV	Adv	_	6	mark	_	_
-5	ko	ko	SCONJ	CS	_	4	flat	_	_
-6	peäss	piâssâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	advcl	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
-7	.	.	PUNCT	CLB	_	3	punct	_	_
+# sent_id = kotus-skak2010-1-1:7-1
+# aannotation="no" begintime="" endtime="" # paragID="7" # pgNo="10" # sentID="1" # storyID="KÄMMǤA MAAINÂS"
+# text = Ceälkk: ”No mõõzz eeʹjjed kooʹddid.”
 
-# sent_id = 11308_1a::0:03:29-0:03:34
-# aannotation="no" begintime="0:03:29" endtime="0:03:34"
-# text = Na teʹl âʹtte čiččâm eeʹjj feʹrttji leeʹd säldten ja vasta puätt mååust.
-# text_fi = No silloinhan seitsemän vuotta täytyi olla sotilaana ja vasta sitten tulee takaisin.
-1	Na	na	INTJ	Interj	Interj	8	advmod	_	GTtags=Interj
-2	teʹl	teʹl	ADV	Adv	_	8	advmod:tmod	_	_
-3	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	2	advmod	_	GTtags=Sem/Time
-4	čiččâm	čiččâm	NUM	Num	Case=Nom|Number=Sing	5	nummod	_	GTtags=Sg,Nom
-5	eeʹjj	eeʹǩǩ	NOUN	N	Acc|Number=Sing	8	obl:tmod	_	GTtags=Sg,Acc
-6	feʹrttji	feʹrttjed	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Prt	8	aux	_	GTtags=Ind,Prt,Sg3
-7	leeʹd	leeʹd	AUX	Aux	Valency=1|VerbForm=Inf	8	cop	_	GTtags=IV,Inf
-8	säldten	säldten	NOUN	N	Case=Ess	0	root	_	GTtags=Ess
-9	ja	ja	CCONJ	CC	_	11	cc	_	_
-10	vasta	vasta	ADV	Adv	_	11	advmod:tmod	_	_
-11	puätt	pueʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	conj	_	GTtags=Ind,Prs,Sg3
-12	mååust	mååust	ADV	Adv	_	11	advmod	_	SpaceAfter=No
-13	.	.	PUNCT	CLB	_	8	punct	_	_
-
-# sent_id = 11308_1a::0:06:30-0:06:35
-# aannotation="no" begintime="0:06:30" endtime="0:06:35"
-# text = Ja seeʹst vueʹppes leäi Laurikainen
-# text_fi = Ja heillä opas oli Laurikainen
-1	Ja	ja	CCONJ	CC	_	5	cc	_	_
-2	seeʹst	son	PRON	Pron	Case=Loc|Number=Plur|Person=3|PronType=Prs	5	obl	_	GTtags=Pers,Pl3,Loc
-3	vueʹppes	vueʹppes	NOUN	N	_	5	nsubj	_	_
-4	leäi	leeʹd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt|Valency=1	5	cop	_	GTtags=IV,Ind,Prt,Sg3
-5	Laurikainen	Laurikainen	PROPN	N	_	0	root	_	_
-
-# sent_id = 11308_1a::0:09:13-0:09:18
-# aannotation="no" begintime="0:09:13" endtime="0:09:18"
-# text = Oummu vuejjle de mõʹnne de mieʹldd čuõiggle.
-# text_fi = Miehet lähtivät ajamaan sitten menivät ja lähtivät perään hiihtämään.
-1	Oummu	ooumaž	NOUN	N	Case=Nom|Number=Plur	2	nsubj	_	GTtags=Pl,Nom
-2	vuejjle	vuejjled	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Pl3
-3	de	de	CCONJ	CC	_	4	cc	_	_
-4	mõʹnne	mõõnnâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Prt	2	conj	_	GTtags=Ind,Prt,Pl3
-5	de	de	CCONJ	CC	_	7	cc	_	_
-6	mieʹldd	mieʹldd	ADV	Adv	_	7	advmod	_	_
-7	čuõiggle	čuõiggled	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Prt	2	conj	_	GTtags=Ind,Prt,Pl3|SpaceAfter=No
-8	.	.	PUNCT	CLB	_	2	punct	_	_
-
+# sent_id = kotus-skak2010-1-1:7-2
+# aannotation="no" begintime="" endtime="" # paragID="7" # pgNo="10" # sentID="2" # storyID="KÄMMǤA MAAINÂS"
+# text = Na tuk ceäʹlǩǩe: ”Gu lij nåkkam nuʹt lij šõddâm ja tok-i ton še leʹjjiǩ mõõnnâd mutta jeäʹp teâttam.”

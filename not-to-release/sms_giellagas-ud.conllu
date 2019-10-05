@@ -3,6 +3,8 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="1" # storyID="brat"
 # text = Tõt nijdd ǩeeʹrjti ǩeeʹrj taaurõššʼses.
 # text_fi = Se tyttö kirjoitti kirjeen kaverilleen.
+# text_olo = Se tyttö kirjutti kirjazen dovarishalles.
+# text_mdf = Стирсь сёрмадсь сёрма ялганцты.
 1	Tõt	tõt	DET	Det	Case=Nom|Number=Sing|PronType=Dem	2	det	_	GTtags=Dem,Sg,Nom
 2	nijdd	nijdd	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	3	nsubj	_	GTtags=Sem/Kin,Sg,Nom
 3	ǩeeʹrjti	ǩeeʹrjted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
@@ -14,6 +16,8 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="2" # storyID="brat"
 # text = Joordam što âbrr.
 # text_fi = Luulen että sataa.
+# text_olo = Smietin, ku vihmuu.
+# text_mdf = Арьсян, пизем туй.
 1	Joordam	juʹrdded	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg1
 2	što	što	SCONJ	CS	_	3	mark	_	_
 3	âbrr	âʹbrred	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	ccomp	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
@@ -23,6 +27,8 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="3" # storyID="brat"
 # text = Son ǩiččlõõddi looppted tääbbaǩ puälddmõõžž da veeiʹn juukkmõõžž.
 # text_fi = Hän yritti lopettaa tupakoinnin ja juomisen.
+# text_olo = Häi oppi heittiä kurindan da juondan.
+# text_mdf = Сон тяряфтсь кадомс таргаманц и симоманц.
 1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
 2	ǩiččlõõddi	ǩiččlõddâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
 3	looppted	looppted	VERB	V	VerbForm=Inf	2	xcomp	_	GTtags=Inf
@@ -37,6 +43,8 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="4" # storyID="brat"
 # text = Haaʹlääk-a mõõnnâd?
 # text_fi = Haluatko mennä?
+# text_olo = Tahtotgo mennä?
+# text_mdf = Молелексолеть?
 1	Haaʹlääk-a	haaʹleed	AUX	V	Mood=Ind|Number=Sing|Person=2|Qst/a|Tense=Pres	2	aux	_	GTtags=Ind,Prs,Sg2,Qst/a
 2	mõõnnâd	mõõnnâd	VERB	V	VerbForm=Inf	0	root	_	GTtags=Inf|SpaceAfter=No
 3	?	?	PUNCT	CLB	_	2	punct	_	_
@@ -45,6 +53,8 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="5" # storyID="brat"
 # text = Ääʹved ikkân Sam!
 # text_fi = Avaa ikkuna Sam!
+# text_olo = Avua ikkun, Sam!
+# text_mdf = Панчк-ка вальмять, Самсон!
 1	Ääʹved	ääʹveed	VERB	V	Mood=Imp|Number=Sing|Person=2	0	root	_	GTtags=Imprt,Sg2
 2	ikkân	ikkân	NOUN	N	Case=Acc|Number=Sing	1	obj	_	GTtags=Sg,Acc
 3	Sam	Sam	NOUN	N	Case=Nom|Number=Sing	1	vocative	_	GTtags=Prop,Sg,Nom|SpaceAfter=No
@@ -54,6 +64,8 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="6" # storyID="brat"
 # text = Son piiji kuõjâs põõssâd aaut.
 # text_fi = Hän pani miehensä pesemään auton.
+# text_olo = Häi pani ukon pezemäh mašinua.
+# text_mdf = Сон кошардозе мирденц машинань штама.
 1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
 2	piiji	piijjâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
 3	kuõjâs	kuõjj	NOUN	N	Animacy=Hum|Case=Acc|Number=Sing|Person[psor]=3|Number[psor]=Sing	2	obj	_	Acc|GTtags=Sem/Kin,Sg,PxSg3
@@ -65,6 +77,8 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="7" # storyID="brat"
 # text = Peter räʹjjlaž kälkkii čuâl.
 # text_fi = Peterin naapuri maalasi aidan.
+# text_olo = Peteran susiedu kruassi aijan.
+# text_mdf = Петять шабрац архтозе перяфксть.
 1	Peter	Peter	NOUN	N	Case=Gen|Number=Sing	2	nmod	_	GTtags=Prop,Sem/Mal,Sg,Gen
 2	räʹjjlaž	räʹjjlaž	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	GTtags=Sg,Nom
 3	kälkkii	kälkkeed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
@@ -75,6 +89,8 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
 # text = Eččad lij luândstes lääʹđesmiõllsab ǥu eččan.
 # text_fi = Isäsi on viileämpi kuin minun.
+# text = Minun tuatto on kylmyverizembi migu sinun.
+# text_mdf = Алязе тонь алядот крутой.
 1	Eččad	eʹčč	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Person[psor]=2|Number[psor]=Sing	4	nsubj	_	GTtags=Sem/Kin,Sg,Nom,PxSg2
 2	lij	leeʹd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	4	cop	_	GTtags=IV,Ind,Prs,Sg3
 3	luândstes	luândd	NOUN	N	Case=Loc|Number=Sing|Person[psor]=3|Number[psor]=Sing	4	obl	_	GTtags=Sg,Loc,PxSg3
@@ -87,6 +103,8 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="9" # storyID="brat"
 # text = Mary vuäǯǯai proons, Peter siilb da Jane kååʹll.
 # text_fi = Mary voitti pronssin , Peter hopean ja Jane kultaa.
+# text_olo = Mary voitti bronzumedalin, Peter hobjumedalin da Jane kuldumedalin.
+# text_mdf = Марья сявозе бронзать, Петя – сияннеть, а Джейн – зрняннеть.
 1	Mary	Mary	NPROP	N	Case=Nom|Number=Sing|Sem/Fem	2	nsubj	_	GTtags=Prop,Sem/Fem,Sg,Nom
 2	vuäǯǯai	vuäǯǯad	VERB	V	Mood=Ind|Number=Sing|Person=3|Prt	0	root	_	GTtags=Ind,Prt,Sg3
 3	proons	pronss	NOUN	N	Acc|Number=Sing	2	obj	_	GTtags=Sg,Acc|SpaceAfter=No
@@ -102,6 +120,8 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="10" # storyID="brat"
 # text = Lij-a Iguazu jõnn avi uʹcc jânnam?
 # text_fi = Onko Iguazu iso vai pieni maa?
+# text_olo = Ongo Iguazu suuri vai pieni mua?
+# text_mdf = Игуазсь оцю или ёмла мастор?
 1	Lij-a	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Qst/a|Tense=Pres|Valency=1	6	cop	_	GTtags=IV,Ind,Prs,Sg3,Qst/a
 2	Iguazu	Iguazu	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	GTtags=Prop,Sg,Nom
 3	jõnn	jõnn	ADJ	A	_	6	amod	_	GTtags=Attr
@@ -114,6 +134,8 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="11" # storyID="brat"
 # text = Nuʹtt kuâđđje vaʹlljeeǩâni Peter Smith diǥu še Mary Brown.
 # text_fi = Ei voitu valita Peter Smithiä eikä Mary Brownia.
+# text_olo = Ei voidu vallita Peter Smithua, eigo Mary Brownii.
+# text_mdf = Аф Петя Смит, аф Марья Браун ашесть кочкав.
 1	Nuʹtt	nuʹtt	ADV	Adv	_	2	advmod	_	_
 2	kuâđđje	kuâđđjed	VERB	V	Mood=Ind|Number=Plur|Person=3|Prt	0	root	_	GTtags=Ind,Prt,Pl3
 3	vaʹlljeeǩâni	vaʹlljeed	VERB	V	VAbess	2	advcl	_	GTtags=VAbess
@@ -129,6 +151,8 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="12" # storyID="brat"
 # text = Seeʹst jeäʹla  ǩeeʹrjteeʹjest võl ni måkam jurddi. 
 # text_fi = Heillä ei ole ideaa siitä kuka sen kirjoitti.
+# text_olo = Heil ei ole ovvostustu sit, ken sen kirjutti.
+# text_mdf = Синь мялезост-ка ашезь кунда, кие тянь сёрмадозе.
 1	Seeʹst	son	PRON	Pron	Case=Loc|Number=Plur|Person=3|PronType=Prs	2	obl	_	GTtags=Pers,Pl3,Loc
 2	jeäʹla	jeäʹla	VERB	V	_	0	root	_	GTtags=V
 3	ǩeeʹrjteeʹjest	ǩeeʹrjteei	NOUN	N	Case=Loc|Number=Sing	2	obl	_	GTtags=Sg,Loc
@@ -142,6 +166,8 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="13" # storyID="brat"
 # text = Mâiʹd ǩiõččak?
 # text_fi = Mitä katsot?
+# text_olo = Midäbo kačot?
+# text_mdf = Мезень лангс ванат?
 1	Mâiʹd	mâiʹd	PRON	Pron	Acc|Number=Sing|PronType=Int	2	obj	_	GTtags=Interr,Sg,Acc
 2	ǩiõččak	ǩiõččâd	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg2|SpaceAfter=No
 3	?	?	PUNCT	CLB	_	2	punct	_	_
@@ -150,6 +176,8 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="14" # storyID="brat"
 # text = Mâiʹd joordak što kuäʹss piâzzčiǩ?
 # text_fi = Milloin luulet voivasi tulla?
+# text_olo = Konzubo duumaičet voit tulla?
+# text_mdf = Кода арьсят, мзярда тон сават?
 1	Mâiʹd	mâiʹd	PRON	Pron	Acc|PronType=Int	2	obj	_	GTtags=Interr,Acc
 2	joordak	juʹrdded	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg2
 3	što	što	SCONJ	CS	_	5	mark	_	_
@@ -161,6 +189,8 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="15" # storyID="brat"
 # text = Son vueʹsti aaut da väʹst viʹlljes pâi tanccâmvuâjan.
 # text_fi = Hän osti auton mutta veljensä vain pyörän.
+# text_olo = Häi osti mašinan, ga hänen velleh pyörän.
+# text_mdf = Сон рамась машина, а брадоц  аньцек велосипед.
 1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
 2	vueʹsti	vuäʹstted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
 3	aaut	autt	NOUN	N	Acc|Number=Sing	2	obj	_	GTtags=Sg,Acc
@@ -175,6 +205,8 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="16" # storyID="brat"
 # text = Peter da Mary âskkõʹlle da liõʹhtte meädda lõõnjâst.
 # text_fi = Peter ja Mary halasivat toisiaan ja lähtivät huoneesta.
+# text_olo = Peter da Mari sevättihes da lähtiettih pertispäi.
+# text_mdf = Петя и Маря ашкордасть и  лиссть комнатаста.
 1	Peter	Peter	PROPN	N	Case=Nom|Number=Sing|Sem/Mal	4	nsubj	_	GTtags=Prop,Sem/Mal,Sg,Nom
 2	da	da	CCONJ	CC	_	3	cc	_	_
 3	Mary	Mary	PROPN	N	Case=Nom|Number=Sing|Sem/Fem	1	conj	_	GTtags=Prop,Sem/Fem,Sg,Nom
@@ -189,6 +221,8 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="17" # storyID="brat"
 # text = Suʹst leäi õlggâm leeʹd tõn peeiʹv čååǥǥâʹttmen vuõptees, leša mii leežž šõddâm ǥu ij tâʹl ni vuäittam. 
 # text_fi = Hänen olisi pitänyt olla laittamassa kampaustaan mutta jostain syystä ei voinutkaan sinä päivänä
+# text_olo = Hänel olis pidänyh olla prichoskua luadimas, ga häi erähien syylöin periä ei voinnuh sinä piän.
+# text_mdf = Сондеенза эрявсть тиемс шяяренза, аньцек ся шиня сонь ашель мялец.
 1	Suʹst	son	PRON	Pron	Case=Loc|Number=Sing|Person=3|PronType=Prs	4	obl	_	GTtags=Pers,Sg3,Loc
 2	leäi	leeʹd	VERB	V	Mood=Ind|Number=Sing|Person=3|Prt|Valency=1	4	aux	_	GTtags=IV,Ind,Prt,Sg3
 3	õlggâm	õlggâd	AUX	Aux	_|PrfPrc	4	aux	_	GTtags=Act,PrfPrc
@@ -213,6 +247,8 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="18" # storyID="brat"
 # text = Jiõm pâsttam seuʹrrjed suu urččmõõžž ǥu son leäi samai jåʹttel.
 # text_fi = En pystynyt seuraamaan koska hän juoksi liian nopeasti.
+# text_olo = En ehtinyh hänele jälles, sendäh ku häi juoksi ylen terväh.
+# text_mdf = Мондейне сон ашезь сатов, сяс мес ласьксь пяк вишкста.
 1	Jiõm	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	3	aux:neg	_	GTtags=Neg,Ind,Sg1
 2	pâsttam	pâʹstted	AUX	Aux	Connegative=Yes|Mood=Ind|Prt	3	aux	_	GTtags=Ind,Prt,ConNeg
 3	seuʹrrjed	seuʹrrjed	VERB	V	VerbForm=Inf	0	root	_	GTtags=Inf
@@ -229,6 +265,8 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="19" # storyID="brat"
 # text = Tät jåhtta tuåimtum ǩeʹrjj lij Peter vuõltteem.
 # text_fi = Tämä on kirje Peteriltä ja se toimitettiin eilen
+# text_olo = Tämä on kirjaine Peteras da se tuodih egläi.
+# text_mdf = Тя сёрмась Петянь эзда, и кандозь сонь исяк.
 1	Tät	tät	DET	Det	Case=Nom|Number=Sing|PronType=Dem	4	det	_	GTtags=Dem,Sg,Nom
 2	jåhtta	jåhtta	ADV	Adv	AdvType=Tim	3	advmod	_	GTtags=Sem/Time
 3	tuåimtum	tuåimted	VERB	V	Pass|PrfPrc	4	advcl	_	GTtags=Pass,PrfPrc
@@ -242,6 +280,7 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="20" # storyID="brat"
 # text = Son jälsti čõõđ ääiʹj Pariizzâst, Franskkjânnam vueiʹvvgåårdest.
 # text_fi = Hän kasvoi Pariisissa, joka on Ranksan pääkaupunki.
+# text_mdf = Сон кассь Парижса. Парижсь – тя Франциять ине ошец.
 1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
 2	jälsti	jälsted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
 3-4	čõõđ ääiʹj	_	_	_	_	_	_	_	_
