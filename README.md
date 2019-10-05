@@ -1,22 +1,20 @@
 # Summary
 
-UD Skolt Sami is the original annotation (CoNLL-U) for texts in the Skolt Sami language,
-it originally consists of twenty translated sentences made by Hilkka Fofonoff from the 
-Finnish texts: [here](http://ilazki.thinkgeek.co.uk/brat/#/uralic/fin). Subsequent sentences
-come from the Giellagas Corpus of Spoken Saami Languages of the University of Oulu, Finland, which, in part, 
-include research materials transferred from (Kotimaisten kielten keskus) «Kotus»  'Institute for the Languages of Finland'.
+The UD Skolt Sami Giellagas treebank is based almost entirely on spoken Skolt Sami corpora.
 
 
 # Introduction
 
-This treebank includes 20 sentences originally presented at
-http://ilazki.thinkgeek.co.uk/brat/#/uralic/sms with UD 1. dependencies.
-The translation were made by Hilkka Fofonoff from the Finnish texts:
-http://ilazki.thinkgeek.co.uk/brat/#/uralic/fin
+UD Skolt Sami is the original annotation (CoNLL-U) for texts in the Skolt Sami language.
+It originally consists of twenty translated sentences http://ilazki.thinkgeek.co.uk/brat/#/uralic/sms made by Hilkka Fofonoff from the 
+Finnish texts: [here](http://ilazki.thinkgeek.co.uk/brat/#/uralic/fin) with UD 1. dependencies.
+Subsequent sentences come from the Giellagas Corpus of Spoken Saami Languages of the University of Oulu, Finland, which, in part, 
+include research materials transferred from (Kotimaisten kielten keskus) «Kotus»  'Institute for the Languages of Finland'.
 
 Treebank sentences marked with text id beginning in [kotus-skak2010] originate from the publication Sääʹmǩiõll, äʹrbbǩiõll, for which the publisher 'Institute for the Languages of Finland' (Kotimaisten kielten keskus) has granted written permission to include in the treebank. Citation of the original publication should be included when the treebank is used (see References section below).
 
 [https://github.com/rueter/erme-ud-skolt-sami](https://github.com/rueter/erme-ud-skolt-sami)
+
 
 
 # Acknowledgments
