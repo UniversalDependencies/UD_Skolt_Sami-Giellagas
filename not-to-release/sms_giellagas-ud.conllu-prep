@@ -2,6 +2,18 @@
 # sent_id = kotus-skak2010-1-1:1-1
 # aannotation="no" begintime="" endtime="" # paragID="1" # pgNo="9" # sentID="1" # storyID="KÄMMǤA MAAINÂS"
 # text = Vuõššân leäi källsaž, källsaž leäi de son jåått âʹtte meʹccest.
+1	Vuõššân	vuõššân	ADV	_	Sem/Time|@ADVL>	2	advmod	_	_
+2	leäi	leeʹd	VERB	V	Ind|Prt|Sg3|@+FMAINV	0	root	_	_
+3	källsaž	källsaž	NOUN	_	Sg|Nom	2	nsubj	_	_
+4	,	,	PUNCT	CLB	_	6	punct	_	_
+5	källsaž	källsaž	NOUN	N	Sg|Nom|@<SUBJ	6	nsubj	_	_
+6	leäi	leeʹd	AUX	V	Ind|Prt|Sg3|@+FMAINV	2	conj	_	_
+7	de	de	CC	CC	_	9	cc	_	_
+8	son	son	PRON	Pron	Pers|Sg3|Nom|@<SUBJ	9	nsubj	_	_
+9	jåått	jååʹtted	VERB	V	Ind|Prs|Sg3|@+FMAINV	2	conj	_	_
+10	âʹtte	âʹtte	ADV	Adv	Sem/Time|@<ADVL	9	advmod	_	_
+11	meäʹccest	meäʹcc	NOUN	N	Sg|Loc	9	obl	_	_
+12	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = kotus-skak2010-1-1:1-2
 # aannotation="no" begintime="" endtime="" # paragID="1" # pgNo="9" # sentID="2" # storyID="KÄMMǤA MAAINÂS"
