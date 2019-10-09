@@ -2,19 +2,91 @@
 # sent_id = kotus-skak2010-1-1:1-1
 # aannotation="no" begintime="" endtime="" # paragID="1" # pgNo="9" # sentID="1" # storyID="KÄMMǤA MAAINÂS"
 # text = Vuõššân leäi källsaž, källsaž leäi de son jåått âʹtte meʹccest.
+1	Vuõššân	vuõššân	ADV	_	Sem/Time|@ADVL>	2	advmod	_	_
+2	leäi	leeʹd	VERB	V	Ind|Prt|Sg3|@+FMAINV	0	root	_	_
+3	källsaž	källsaž	NOUN	_	Sg|Nom	2	nsubj	_	_
+4	,	,	PUNCT	CLB	_	6	punct	_	_
+5	källsaž	källsaž	NOUN	N	Sg|Nom|@<SUBJ	6	nsubj	_	_
+6	leäi	leeʹd	AUX	V	Ind|Prt|Sg3|@+FMAINV	2	conj	_	_
+7	de	de	CC	CC	_	9	cc	_	_
+8	son	son	PRON	Pron	Pers|Sg3|Nom|@<SUBJ	9	nsubj	_	_
+9	jåått	jååʹtted	VERB	V	Ind|Prs|Sg3|@+FMAINV	2	conj	_	_
+10	âʹtte	âʹtte	ADV	Adv	Sem/Time|@<ADVL	9	advmod	_	_
+11	mieʹccest	meäʹcc	NOUN	N	Sg|Loc	9	obl	_	_
+12	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = kotus-skak2010-1-1:1-2
 # aannotation="no" begintime="" endtime="" # paragID="1" # pgNo="9" # sentID="2" # storyID="KÄMMǤA MAAINÂS"
 # text = Son jåått mieʹccest... son lij ooumžen vuâlggjam, mâŋŋa näuʹdden suõʹppjââtt.
+"<Son>"
+	"son" Pron _ Pers Sg3 Nom
+"<jåått>"
+	"jååʹtted" V _ Ind Prs Sg3 @+FMAINV
+"<mieʹccest>"
+	"meäʹcc" N N Sg Loc
+"<...>"
+	"..." CLB
+"<son>"
+	"son" Pron <sms> Pers Sg3 Nom
+"<lij>"
+	"leeʹd" V <sms> Ind Prs Sg3 @+FMAINV
+"<ooumžen>"
+	"ooumaž" N N <sms> Ess
+"<vuâlggjam>"
+	"vuâlggjam" V PrfPrc
+"<,>"
+	"," CLB
+"<mâŋŋa>"
+	"mâŋŋa" Adv
+"<näuʹdden>"
+	"näuʹdd" N <sms> Ess
+"<suõʹppjââtt>"
+	"suõʹppjõõttâd" V <sms> Ind Prs Sg3 @+FMAINV
+"<.>"
+	"." CLB
 
 # sent_id = kotus-skak2010-1-1:1-3
 # aannotation="no" begintime="" endtime="" # paragID="1" # pgNo="9" # sentID="3" # storyID="KÄMMǤA MAAINÂS"
 # text = Näʹde näuʹdden suõʹppjââtt, kämmǥižžen âʹtte måttmešt ja kueʹllen vuâjj.
-
+"<Näʹde>"
+	"näʹde" Interj
+"<näuʹdden>"
+	"näuʹdd" N <sms> Ess
+"<suõʹppjââtt>"
+	"suõʹppjõõttâd" V <sms> Ind Prs Sg3 @+FMAINV
+"<,>"
+	"," CLB
+"<kämmǥižžen>"
+	"kämmǥaž" N Ess
+"<âʹtte>"
+	"âʹtte" Adv
+"<måttmešt>"
+	"måttmešt" Adv
+"<ja>"
+	"ja" CC
+"<kueʹllen>"
+	"kueʹll" N <sms> Ess
+"<vuâjj>"
+	"vuõjjâd" V <sms> Ind Prs Sg3 @+FMAINV
+"<.>"
+	"." CLB
+  
 # sent_id = kotus-skak2010-1-1:1-4
 # aannotation="no" begintime="" endtime="" # paragID="1" # pgNo="9" # sentID="4" # storyID="KÄMMǤA MAAINÂS"
 # text = Kueʹllen vuâjj ja låʹdden ǩeârdd.
-
+"<Kueʹllen>"
+	"kueʹll" N <sms> Ess
+"<vuâjj>"
+	"vuõjjâd" V <sms> Ind Prs Sg3 @+FMAINV
+"<ja>"
+	"ja" CC
+"<låʹdden>"
+	"låʹdd" N <sms> Ess
+"<ǩeârdd>"
+	"ǩiõrddâd" V <sms> Ind Prs Sg3 @+FMAINV
+"<.>"
+	"." CLB
+  
 # sent_id = kotus-skak2010-1-1:2-1
 # aannotation="no" begintime="" endtime="" # paragID="2" # pgNo="9" # sentID="1" # storyID="KÄMMǤA MAAINÂS"
 # text = De måttmešt vaaʹldi de... suʹst liâ kueʹhtt pääʹrn, kueʹhtt mââʹnj liâ, kueʹhtt kaappi.
