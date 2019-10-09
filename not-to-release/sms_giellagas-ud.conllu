@@ -89,7 +89,7 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
 # text = Eččad lij luândstes lääʹđesmiõllsab ǥu eččan.
 # text_fi = Isäsi on viileämpi kuin minun.
-# text = Minun tuatto on kylmyverizembi migu sinun.
+# text_olo = Minun tuatto on kylmyverizembi migu sinun.
 # text_mdf = Алязе тонь алядот крутой.
 1	Eččad	eʹčč	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Person[psor]=2|Number[psor]=Sing	4	nsubj	_	GTtags=Sem/Kin,Sg,Nom,PxSg2
 2	lij	leeʹd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	4	cop	_	GTtags=IV,Ind,Prs,Sg3
@@ -279,7 +279,7 @@
 # sent_id = FofonoffHilkka_brat_2018:20
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="20" # storyID="brat"
 # text = Son jälsti čõõđ ääiʹj Pariizzâst, Franskkjânnam vueiʹvvgåårdest.
-# text_fi = Hän kasvoi Pariisissa, joka on Ranksan pääkaupunki.
+# text_fi = Hän kasvoi Pariisissa, joka on Ranskan pääkaupunki.
 # text_mdf = Сон кассь Парижса. Парижсь – тя Франциять ине ошец.
 1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
 2	jälsti	jälsted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3

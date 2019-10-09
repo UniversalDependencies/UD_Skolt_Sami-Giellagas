@@ -241,7 +241,7 @@
 # sent_id = FofonoffHilkka_brat_2018:20
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="20" # storyID="brat"
 # text = Son jälsti čõõđ ääiʹj Pariizzâst, Franskkjânnam vueiʹvvgåårdest.
-# text_fi = Hän kasvoi Pariisissa, joka on Ranksan pääkaupunki.
+# text_fi = Hän kasvoi Pariisissa, joka on Ranskan pääkaupunki.
 1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
 2	jälsti	jälsted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
 3-4	čõõđ ääiʹj	_	_	_	_	_	_	_	_
