@@ -139,12 +139,12 @@
 1	Nuʹtt	nuʹtt	ADV	Adv	_	2	advmod	_	_
 2	kuâđđje	kuâđđjed	VERB	V	Mood=Ind|Number=Plur|Person=3|Prt	0	root	_	GTtags=Ind,Prt,Pl3
 3	vaʹlljeeǩâni	vaʹlljeed	VERB	V	VAbess	2	advcl	_	GTtags=VAbess
-4	Peter	Peter	PROPN	N	Prop	5	compound:nn	_	GTtags=Prop,Sem/Mal,Attr
-5	Smith	Smith	PROPN	N	Case=Nom|Number=Sing	2	nsubj		_	GTtags=Prop,Sem/Sur,Sg,Nom
+4	Peter	Peter	PROPN	N	Prop	2	nsubj	_	GTtags=Prop,Sem/Mal,Attr
+5	Smith	Smith	PROPN	N	Case=Nom|Number=Sing	5	flat:name		_	GTtags=Prop,Sem/Sur,Sg,Nom
 6	diǥu	diǥu	SCONJ	CS	_	9	mark		_	_
 7	še	še	ADV	       Pcle	_	9	advmod		_	_
-8	Mary	Mary	  PROPN	N	_|Prop	9	compound:nn	_	GTtags=Prop,Sem/Fem,Attr
-9	Brown	Brown	PROPN	N	Case=Nom|Number=Sing	5	conj		_	GTtags=Prop,Sem/Sur,Sg,Nom|SpaceAfter=No
+8	Mary	Mary	  PROPN	N	_|Prop	5	conj	_	GTtags=Prop,Sem/Fem,Attr
+9	Brown	Brown	PROPN	N	Case=Nom|Number=Sing	8	flat:name		_	GTtags=Prop,Sem/Sur,Sg,Nom|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = FofonoffHilkka_brat_2018:12
