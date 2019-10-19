@@ -105,14 +105,14 @@
 # text_fi = Mary voitti pronssin , Peter hopean ja Jane kultaa.
 # text_olo = Mary voitti bronzumedalin, Peter hobjumedalin da Jane kuldumedalin.
 # text_mdf = Марья сявозе бронзать, Петя – сияннеть, а Джейн – зрняннеть.
-1	Mary	Mary	NPROP	N	Case=Nom|Number=Sing|Sem/Fem	2	nsubj	_	GTtags=Prop,Sem/Fem,Sg,Nom
+1	Mary	Mary	NPROP	N	Animacy=Hum|Case=Nom|Number=Sing	2	nsubj	_	GTtags=Prop,Sem/Fem,Sg,Nom
 2	vuäǯǯai	vuäǯǯad	VERB	V	Mood=Ind|Number=Sing|Person=3|Prt	0	root	_	GTtags=Ind,Prt,Sg3
 3	proons	pronss	NOUN	N	Acc|Number=Sing	2	obj	_	GTtags=Sg,Acc|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	Peter	Peter	NPROP	N	Case=Nom|Number=Sing|Sem/Mal	2	conj	_	GTtags=Prop,Sem/Mal,Sg,Nom
+5	Peter	Peter	NPROP	N	Animacy=Hum|Case=Nom|Number=Sing	2	conj	_	GTtags=Prop,Sem/Mal,Sg,Nom
 6	siilb	silbb	NOUN	N	Acc|Number=Sing	5	orphan	_	GTtags=Sg,Acc
 7	da	da	CONJ	CC	_	8	cc	_	_
-8	Jane	Jane	NPROP	N	Case=Nom|Number=Sing|Sem/Fem	2	conj	_	GTtags=Prop,Sem/Fem,Sg,Nom
+8	Jane	Jane	NPROP	N	Animacy=Hum|Case=Nom|Number=Sing	2	conj	_	GTtags=Prop,Sem/Fem,Sg,Nom
 9	kååʹll	kåʹll	NOUN	N	Acc|Number=Sing	8	orphan	_	GTtags=Sg,Acc|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -139,12 +139,12 @@
 1	Nuʹtt	nuʹtt	ADV	Adv	_	2	advmod	_	_
 2	kuâđđje	kuâđđjed	VERB	V	Mood=Ind|Number=Plur|Person=3|Prt	0	root	_	GTtags=Ind,Prt,Pl3
 3	vaʹlljeeǩâni	vaʹlljeed	VERB	V	VAbess	2	advcl	_	GTtags=VAbess
-4	Peter	Peter	PROPN	N	Prop	2	nsubj	_	GTtags=Prop,Sem/Mal,Attr
-5	Smith	Smith	PROPN	N	Case=Nom|Number=Sing	5	flat:name		_	GTtags=Prop,Sem/Sur,Sg,Nom
+4	Peter	Peter	PROPN	N	Animacy=Hum|Case=Nom|Number=Sing	2	nsubj	_	GTtags=Prop,Sem/Mal,Attr
+5	Smith	Smith	PROPN	N	Animacy=Hum|Case=Nom|Number=Sing	5	flat:name		_	GTtags=Prop,Sem/Sur,Sg,Nom
 6	diǥu	diǥu	SCONJ	CS	_	9	mark		_	_
-7	še	še	ADV	       Pcle	_	9	advmod		_	_
-8	Mary	Mary	  PROPN	N	_|Prop	5	conj	_	GTtags=Prop,Sem/Fem,Attr
-9	Brown	Brown	PROPN	N	Case=Nom|Number=Sing	8	flat:name		_	GTtags=Prop,Sem/Sur,Sg,Nom|SpaceAfter=No
+7	še	še	ADV	Pcle	_	9	advmod		_	_
+8	Mary	Mary	  PROPN	N	Animacy=Hum|Case=Nom|Number=Sing	5	conj	_	GTtags=Prop,Sem/Fem,Attr
+9	Brown	Brown	PROPN	N	Animacy=Hum|Case=Nom|Number=Sing	8	flat:name		_	GTtags=Prop,Sem/Sur,Sg,Nom|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = FofonoffHilkka_brat_2018:12
@@ -168,7 +168,7 @@
 # text_fi = Mitä katsot?
 # text_olo = Midäbo kačot?
 # text_mdf = Мезень лангс ванат?
-1	Mâiʹd	mâiʹd	PRON	Pron	Acc|Number=Sing|PronType=Int	2	obj	_	GTtags=Interr,Sg,Acc
+1	Mâiʹd	mâiʹd	PRON	Pron	Case=Acc|Number=Sing|PronType=Int	2	obj	_	GTtags=Interr,Sg,Acc
 2	ǩiõččak	ǩiõččâd	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg2|SpaceAfter=No
 3	?	?	PUNCT	CLB	_	2	punct	_	_
 
@@ -178,7 +178,7 @@
 # text_fi = Milloin luulet voivasi tulla?
 # text_olo = Konzubo duumaičet voit tulla?
 # text_mdf = Кода арьсят, мзярда тон сават?
-1	Mâiʹd	mâiʹd	PRON	Pron	Acc|PronType=Int	2	obj	_	GTtags=Interr,Acc
+1	Mâiʹd	mâiʹd	PRON	Pron	Case=Acc|PronType=Int	2	obj	_	GTtags=Interr,Acc
 2	joordak	juʹrdded	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg2
 3	što	što	SCONJ	CS	_	5	mark	_	_
 4	kuäʹss	kuäʹss	ADV	Adv	_	5	advmod	_	_
@@ -193,12 +193,12 @@
 # text_mdf = Сон рамась машина, а брадоц  аньцек велосипед.
 1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
 2	vueʹsti	vuäʹstted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
-3	aaut	autt	NOUN	N	Acc|Number=Sing	2	obj	_	GTtags=Sg,Acc
+3	aaut	autt	NOUN	N	Case=Acc|Number=Sing	2	obj	_	GTtags=Sg,Acc
 4	da	da	CCONJ	CC	_	6	cc	_	_
 5	väʹst	väʹst	ADV	Adv	_	6	orphan	_	_
 6	viʹlljes	villj	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Person[psor]=3|Number[psor]=Sing	2	conj	_	GTtags=Sem/Kin,Sg,Nom,PxSg3
 7	pâi	pâi	ADV	Adv	_	6	orphan	_	_
-8	tanccâmvuâjan	tanccâmvuâjan	NOUN	N	Acc|Number=Sing	6	orphan	_	GTtags=Sg,Acc|SpaceAfter=No
+8	tanccâmvuâjan	tanccâmvuâjan	NOUN	N	Case=Acc|Number=Sing	6	orphan	_	GTtags=Sg,Acc|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = FofonoffHilkka_brat_2018:16
@@ -207,9 +207,9 @@
 # text_fi = Peter ja Mary halasivat toisiaan ja lähtivät huoneesta.
 # text_olo = Peter da Mari sevättihes da lähtiettih pertispäi.
 # text_mdf = Петя и Маря ашкордасть и  лиссть комнатаста.
-1	Peter	Peter	PROPN	N	Case=Nom|Number=Sing|Sem/Mal	4	nsubj	_	GTtags=Prop,Sem/Mal,Sg,Nom
+1	Peter	Peter	PROPN	N	Animacy=Hum|Case=Nom|Number=Sing	4	nsubj	_	GTtags=Prop,Sem/Mal,Sg,Nom
 2	da	da	CCONJ	CC	_	3	cc	_	_
-3	Mary	Mary	PROPN	N	Case=Nom|Number=Sing|Sem/Fem	1	conj	_	GTtags=Prop,Sem/Fem,Sg,Nom
+3	Mary	Mary	PROPN	N	Animacy=Hum|Case=Nom|Number=Sing	1	conj	_	GTtags=Prop,Sem/Fem,Sg,Nom
 4	âskkõʹlle	âskkõõllâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Prt	0	root	_	GTtags=Ind,Prt,Pl3
 5	da	da	CCONJ	CC	_	6	cc	_	_
 6	liõʹhtte	liõhttâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Prt	4	conj	_	GTtags=Ind,Prt,Pl3
@@ -230,7 +230,7 @@
 5	tõn	tõt	DET	Det	Case=Gen|Number=Sing|PronType=Dem	6	det	_	GTtags=Dem,Sg,Gen
 6	peeiʹv	peiʹvv	NOUN	N	Case=Gen|Number=Sing	4	obl	_	GTtags=Sg,Gen
 7	čååǥǥâʹttmen	čååǥǥâʹttmen	VERB	V	_	4	xcomp	_	_
-8	vuõptees	vuõptt	NOUN	N	Case=Acc|Number=Plur|Person[psor]=3|Number[psor]=Sing	7	obj	_	Acc|GTtags=Pl,PxSg3
+8	vuõptees	vuõptt	NOUN	N	Case=Acc|Number=Plur|Person[psor]=3|Number[psor]=Sing	7	obj	_	GTtags=Pl,Acc,PxSg3
 9	,	,	PUNCT	CLB	_	13	punct	_	_
 10	leša	leša	CCONJ	CC	_	13	mark	_	_
 11	mii	mii	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	13	nsubj	_	GTtags=Rel,Sg,Nom
@@ -253,7 +253,7 @@
 2	pâsttam	pâʹstted	AUX	Aux	Connegative=Yes|Mood=Ind|Prt	3	aux	_	GTtags=Ind,Prt,ConNeg
 3	seuʹrrjed	seuʹrrjed	VERB	V	VerbForm=Inf	0	root	_	GTtags=Inf
 4	suu	son	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	det	_	GTtags=Pers,Sg3,Gen
-5	urččmõõžž	urččmõš	AUX	Aux	Acc|Number=Sing	3	obj	_	GTtags=Sg,Acc
+5	urččmõõžž	urččmõš	AUX	Aux	Case=Acc|Number=Sing	3	obj	_	GTtags=Sg,Acc
 6	ǥu	ǥu	SCONJ	CS	_	10	mark	_	_
 7	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	GTtags=Pers,Sg3,Nom
 8	leäi	leeʹd	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Prt|Valency=1	10	cop	_	GTtags=IV,Ind,Prt,Sg3
@@ -272,7 +272,7 @@
 3	tuåimtum	tuåimted	VERB	V	Pass|PrfPrc	4	advcl	_	GTtags=Pass,PrfPrc
 4	ǩeʹrjj	ǩeʹrjj	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	GTtags=Sg,Nom
 5	lij	leeʹd	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	7	cop	_	GTtags=IV,Ind,Prs,Sg3
-6	Peter	Peter	PROPN	N	Case=Nom|Number=Sing|Sem/Mal	7	obl	_	GTtags=Prop,Sem/Mal,Sg,Nom
+6	Peter	Peter	PROPN	N	Animacy=Hum|Case=Nom|Number=Sing	7	obl	_	GTtags=Prop,Sem/Mal,Sg,Nom
 7	vuõltteem	vuõltteed	VERB	V	_|PrfPrc	0	root	_	GTtags=Act,PrfPrc|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	7	punct	_	_
 
@@ -286,9 +286,9 @@
 3-4	čõõđ ääiʹj	_	_	_	_	_	_	_	_
 3	čõõđ čõõđ	ADP	Adp	_	4	case	_	_
 4	ääiʹj	äiʹǧǧ	NOUN	N	Case=Gen|Number=Sing	2	obl	_	GTtags=Sg,Gen
-5	Pariizzâst	Pariizzâst	PROPN	N	Case=Loc|Number=Sing|Sem/Plc	2	obl	_	GTtags=Prop,Sem/Plc,Sg,Loc|SpaceAfter=No
+5	Pariizzâst	Pariizzâst	PROPN	N	Case=Loc|Number=Sing	2	obl	_	GTtags=Prop,Sem/Plc,Sg,Loc|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	8	punct	_	_
-7	Franskkjânnam	Franskkjânnam	PROPN	N	Case=Gen|Number=Sing|Sem/Plc	8	nmod	_	GTtags=Prop,Sem/Plc,Sg,Gen
+7	Franskkjânnam	Franskkjânnam	PROPN	N	Case=Gen|Number=Sing	8	nmod	_	GTtags=Prop,Sem/Plc,Sg,Gen
 8	vueiʹvvgåårdest	vueiʹvvgåårad	NOUN	N	Case=Loc|Number=Sing	5	appos	_	GTtags=Sg,Loc|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -367,9 +367,9 @@
 # text_fi = No silloinhan seitsemän vuotta täytyi olla sotilaana ja vasta sitten tulee takaisin.
 1	Na	na	INTJ	Interj	Interj	8	advmod	_	GTtags=Interj
 2	teʹl	teʹl	ADV	Adv	_	8	advmod:tmod	_	_
-3	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	2	advmod	_	GTtags=Sem/Time
+3	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	2	advmod:tmod	_	GTtags=Sem/Time
 4	čiččâm	čiččâm	NUM	Num	Case=Nom|Number=Sing	5	nummod	_	GTtags=Sg,Nom
-5	eeʹjj	eeʹǩǩ	NOUN	N	Acc|Number=Sing	8	obl:tmod	_	GTtags=Sg,Acc
+5	eeʹjj	eeʹǩǩ	NOUN	N	Case=Acc|Number=Sing	8	obl:tmod	_	GTtags=Sg,Acc
 6	feʹrttji	feʹrttjed	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Prt	8	aux	_	GTtags=Ind,Prt,Sg3
 7	leeʹd	leeʹd	AUX	Aux	Valency=1|VerbForm=Inf	8	cop	_	GTtags=IV,Inf
 8	säldten	säldten	NOUN	N	Case=Ess	0	root	_	GTtags=Ess
