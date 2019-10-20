@@ -340,7 +340,7 @@
 
 # sent_id = 11308_1a::0:02:39-0:02:44
 # aannotation="no" begintime="0:02:39" endtime="0:02:44"
-# text = teʹl piʹjje čiččâm ekka sluužba
+# text = teʹl piʹjje čiččâm ekka sluužba.
 # text_fi = silloin laittoivat seitsemäksi vuodeksi palvelukseen
 1	teʹl	teʹl	ADV	Adv	_	2	advmod:tmod	_	_
 2	piʹjje	piijjâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Pl3
@@ -356,8 +356,9 @@
 1	čiččâm	čiččâm	NUM	Num	Case=Nom|Number=Sing	2	nummod	_	GTtags=Sg,Nom
 2	eeʹǩǩed	eeʹǩǩ	NOUN	N	Case=Par	3	nsubj	_	GTtags=Par
 3	mâânn	mõõnnâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
+4-5	ouddâl ko	_	_	_	_	_	_	_	_
 4	ouddâl	ouddâl	ADV	Adv	_	6	mark	_	_
-5	ko	ko	SCONJ	CS	_	4	flat	_	_
+5	ko	ko	SCONJ	CS	_	4	fixed	_	_
 6	peäss	piâssâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	advcl	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	3	punct	_	_
 
@@ -365,7 +366,7 @@
 # aannotation="no" begintime="0:03:29" endtime="0:03:34"
 # text = Na teʹl âʹtte čiččâm eeʹjj feʹrttji leeʹd säldten ja vasta puätt mååust.
 # text_fi = No silloinhan seitsemän vuotta täytyi olla sotilaana ja vasta sitten tulee takaisin.
-1	Na	na	INTJ	Interj	Interj	8	discourse	_	GTtags=Interj
+1	Na	na	INTJ	Interj	_	8	discourse	_	GTtags=Interj
 2	teʹl	teʹl	ADV	Adv	_	8	advmod:tmod	_	_
 3	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	2	advmod:tmod	_	GTtags=Sem/Time
 4	čiččâm	čiččâm	NUM	Num	Case=Nom|Number=Sing	5	nummod	_	GTtags=Sg,Nom
