@@ -106,7 +106,7 @@
 # text_olo = Mary voitti bronzumedalin, Peter hobjumedalin da Jane kuldumedalin.
 # text_mdf = Марья сявозе бронзать, Петя – сияннеть, а Джейн – зрняннеть.
 1	Mary	Mary	NPROP	N	Animacy=Hum|Case=Nom|Number=Sing	2	nsubj	_	GTtags=Prop,Sem/Fem,Sg,Nom
-2	vuäǯǯai	vuäǯǯad	VERB	V	Mood=Ind|Number=Sing|Person=3|Prt	0	root	_	GTtags=Ind,Prt,Sg3
+2	vuäǯǯai	vuäǯǯad	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
 3	proons	pronss	NOUN	N	Acc|Number=Sing	2	obj	_	GTtags=Sg,Acc|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	Peter	Peter	NPROP	N	Animacy=Hum|Case=Nom|Number=Sing	2	conj	_	GTtags=Prop,Sem/Mal,Sg,Nom
@@ -137,19 +137,19 @@
 # text_olo = Ei voidu vallita Peter Smithua, eigo Mary Brownii.
 # text_mdf = Аф Петя Смит, аф Марья Браун ашесть кочкав.
 1	Nuʹtt	nuʹtt	ADV	Adv	_	2	advmod	_	_
-2	kuâđđje	kuâđđjed	VERB	V	Mood=Ind|Number=Plur|Person=3|Prt	0	root	_	GTtags=Ind,Prt,Pl3
+2	kuâđđje	kuâđđjed	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Pl3
 3	vaʹlljeeǩâni	vaʹlljeed	VERB	V	VAbess	2	advcl	_	GTtags=VAbess
 4	Peter	Peter	PROPN	N	Animacy=Hum|Case=Nom|Number=Sing	2	nsubj	_	GTtags=Prop,Sem/Mal,Attr
-5	Smith	Smith	PROPN	N	Animacy=Hum|Case=Nom|Number=Sing	5	flat:name		_	GTtags=Prop,Sem/Sur,Sg,Nom
-6	diǥu	diǥu	SCONJ	CS	_	9	mark		_	_
-7	še	še	ADV	Pcle	_	9	advmod		_	_
-8	Mary	Mary	  PROPN	N	Animacy=Hum|Case=Nom|Number=Sing	5	conj	_	GTtags=Prop,Sem/Fem,Attr
-9	Brown	Brown	PROPN	N	Animacy=Hum|Case=Nom|Number=Sing	8	flat:name		_	GTtags=Prop,Sem/Sur,Sg,Nom|SpaceAfter=No
+5	Smith	Smith	PROPN	N	Animacy=Hum|Case=Nom|Number=Sing	5	flat:name	_	GTtags=Prop,Sem/Sur,Sg,Nom
+6	diǥu	diǥu	SCONJ	CS	_	9	mark	_	_
+7	še	še	ADV	Pcle	_	9	advmod	_	_
+8	Mary	Mary	PROPN	N	Animacy=Hum|Case=Nom|Number=Sing	5	conj	_	GTtags=Prop,Sem/Fem,Attr
+9	Brown	Brown	PROPN	N	Animacy=Hum|Case=Nom|Number=Sing	8	flat:name	_	GTtags=Prop,Sem/Sur,Sg,Nom|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = FofonoffHilkka_brat_2018:12
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="12" # storyID="brat"
-# text = Seeʹst jeäʹla  ǩeeʹrjteeʹjest võl ni måkam jurddi. 
+# text = Seeʹst jeäʹla  ǩeeʹrjteeʹjest võl ni måkam jurddi.
 # text_fi = Heillä ei ole ideaa siitä kuka sen kirjoitti.
 # text_olo = Heil ei ole ovvostustu sit, ken sen kirjutti.
 # text_mdf = Синь мялезост-ка ашезь кунда, кие тянь сёрмадозе.
@@ -210,21 +210,21 @@
 1	Peter	Peter	PROPN	N	Animacy=Hum|Case=Nom|Number=Sing	4	nsubj	_	GTtags=Prop,Sem/Mal,Sg,Nom
 2	da	da	CCONJ	CC	_	3	cc	_	_
 3	Mary	Mary	PROPN	N	Animacy=Hum|Case=Nom|Number=Sing	1	conj	_	GTtags=Prop,Sem/Fem,Sg,Nom
-4	âskkõʹlle	âskkõõllâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Prt	0	root	_	GTtags=Ind,Prt,Pl3
+4	âskkõʹlle	âskkõõllâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Pl3
 5	da	da	CCONJ	CC	_	6	cc	_	_
-6	liõʹhtte	liõhttâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Prt	4	conj	_	GTtags=Ind,Prt,Pl3
+6	liõʹhtte	liõhttâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Prt	4	conj	_	GTtags=Ind,Prt,Pl3
 7	meädda	meädda	ADV	Adv	_	8	advmod	_	_
 8	lõõnjâst	lõnnj	NOUN	N	Case=Loc|Number=Sing	6	obl	_	GTtags=Sg,Loc|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id = FofonoffHilkka_brat_2018:17
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="17" # storyID="brat"
-# text = Suʹst leäi õlggâm leeʹd tõn peeiʹv čååǥǥâʹttmen vuõptees, leša mii leežž šõddâm ǥu ij tâʹl ni vuäittam. 
+# text = Suʹst leäi õlggâm leeʹd tõn peeiʹv čååǥǥâʹttmen vuõptees, leša mii leežž šõddâm ǥu ij tâʹl ni vuäittam.
 # text_fi = Hänen olisi pitänyt olla laittamassa kampaustaan mutta jostain syystä ei voinutkaan sinä päivänä
 # text_olo = Hänel olis pidänyh olla prichoskua luadimas, ga häi erähien syylöin periä ei voinnuh sinä piän.
 # text_mdf = Сондеенза эрявсть тиемс шяяренза, аньцек ся шиня сонь ашель мялец.
 1	Suʹst	son	PRON	Pron	Case=Loc|Number=Sing|Person=3|PronType=Prs	4	obl	_	GTtags=Pers,Sg3,Loc
-2	leäi	leeʹd	VERB	V	Mood=Ind|Number=Sing|Person=3|Prt|Valency=1	4	aux	_	GTtags=IV,Ind,Prt,Sg3
+2	leäi	leeʹd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt|Valency=1	4	aux	_	GTtags=IV,Ind,Prt,Sg3
 3	õlggâm	õlggâd	AUX	Aux	_|PrfPrc	4	aux	_	GTtags=Act,PrfPrc
 4	leeʹd	leeʹd	VERB	V	Valency=1|VerbForm=Inf	0	root	_	GTtags=IV,Inf
 5	tõn	tõt	DET	Det	Case=Gen|Number=Sing|PronType=Dem	6	det	_	GTtags=Dem,Sg,Gen
@@ -250,13 +250,13 @@
 # text_olo = En ehtinyh hänele jälles, sendäh ku häi juoksi ylen terväh.
 # text_mdf = Мондейне сон ашезь сатов, сяс мес ласьксь пяк вишкста.
 1	Jiõm	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	3	aux:neg	_	GTtags=Neg,Ind,Sg1
-2	pâsttam	pâʹstted	AUX	Aux	Connegative=Yes|Mood=Ind|Prt	3	aux	_	GTtags=Ind,Prt,ConNeg
+2	pâsttam	pâʹstted	AUX	Aux	Connegative=Yes|Mood=Ind|Tense=Prt	3	aux	_	GTtags=Ind,Prt,ConNeg
 3	seuʹrrjed	seuʹrrjed	VERB	V	VerbForm=Inf	0	root	_	GTtags=Inf
 4	suu	son	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	det	_	GTtags=Pers,Sg3,Gen
 5	urččmõõžž	urččmõš	AUX	Aux	Case=Acc|Number=Sing	3	obj	_	GTtags=Sg,Acc
 6	ǥu	ǥu	SCONJ	CS	_	10	mark	_	_
 7	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	GTtags=Pers,Sg3,Nom
-8	leäi	leeʹd	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Prt|Valency=1	10	cop	_	GTtags=IV,Ind,Prt,Sg3
+8	leäi	leeʹd	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Prt|Valency=1	10	cop	_	GTtags=IV,Ind,Prt,Sg3
 9	samai	samai	ADV	Adv	_	10	advmod	_	_
 10	jåʹttel	jåʹttel	ADJ	A	Case=Nom|Number=Sing	3	advcl	_	GTtags=Sg,Nom|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	3	punct	_	_
