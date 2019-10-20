@@ -404,8 +404,8 @@
 8	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = kotus-skak2010-1-1:1-1
-# aannotation="yes" begintime="" endtime="" # paragID="1" # pgNo="9" # sentID="1" # storyID="KÄMMǤA MAAINÂS"
-# text = Vuõššân leäi källsaž, källsaž leäi de son jåått âʹtte meʹccest.
+# aannotation="no" begintime="" endtime="" # paragID="1" # pgNo="9" # sentID="1" # storyID="KÄMMǤA MAAINÂS"
+# text = Vuõššân leäi källsaž, källsaž leäi de son jåått âʹtte mieʹccest.
 1	Vuõššân	vuõššân	ADV	_	AdvType=Tim	2	advmod	_	GTtags=Sem/Time
 2	leäi	leeʹd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
 3	källsaž	källsaž	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	GTtags=Sg,Nom|SpaceAfter=No
@@ -415,12 +415,12 @@
 7	de	de	CC	CC	_	9	cc	_	_
 8	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	GTtags=Pers,Sg3,Nom
 9	jåått	jååʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3
-10	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	9	advmod	_	GTtags=Sem/Time
+10	âʹtte	âʹtte	ADV	ADV	AdvType=Tim	9	advmod	_	GTtags=Sem/Time
 11	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	9	obl	_	GTtags=Sg,Loc|SpaceAfter=No
 12	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = kotus-skak2010-1-1:1-2
-# aannotation="yes" begintime="" endtime="" # paragID="1" # pgNo="9" # sentID="2" # storyID="KÄMMǤA MAAINÂS"
+# aannotation="no" begintime="" endtime="" # paragID="1" # pgNo="9" # sentID="2" # storyID="KÄMMǤA MAAINÂS"
 # text = Son jåått mieʹccest... son lij ooumžen vuâlggjam, mâŋŋa näuʹdden suõʹppjââtt.
 1	Son	son	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
 2	jåått	jååʹtted	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
@@ -428,41 +428,41 @@
 4	...	...	PUNCT	CLB	_	8	punct	_	_
 5	son	son	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	GTtags=Pers,Sg3,Nom
 6	lij	leeʹd	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	aux	_	GTtags=Ind,Prs,Sg3
-7	ooumžen	ooumaž	NOUN	_	Ess	8	xcomp	_	GTtags=N,Ess
-8	vuâlggjam	vuâlggjam	VERB	_	PrfPrc	2	conj	_	GTtags=PrfPrc|SpaceAfter=No
+7	ooumžen	ooumaž	NOUN	_	Case=Ess	8	xcomp	_	GTtags=N,Ess
+8	vuâlggjam	vuâlggjam	VERB	_	Aspect=Perf|VerbForm=Part	2	conj	_	GTtags=PrfPrc|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	12	punct	_	_
 10	mâŋŋa	mâŋŋa	ADV	_	AdvType=Tim	12	advmod:tmod	_	_
-11	näuʹdden	näuʹdd	NOUN	_	Ess	12	xcomp	_	GTtags=Ess
+11	näuʹdden	näuʹdd	NOUN	_	Case=Ess	12	xcomp	_	GTtags=Ess
 12	suõʹppjââtt	suõʹppjõõttâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 13	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = kotus-skak2010-1-1:1-3
-# aannotation="yes" begintime="" endtime="" # paragID="1" # pgNo="9" # sentID="3" # storyID="KÄMMǤA MAAINÂS"
+# aannotation="no" begintime="" endtime="" # paragID="1" # pgNo="9" # sentID="3" # storyID="KÄMMǤA MAAINÂS"
 # text = Näʹde näuʹdden suõʹppjââtt, kämmǥižžen âʹtte måttmešt ja kueʹllen vuâjj.
 1	Näʹde	näʹde	ADV	_	_	3	advmod	_	_
-2	näuʹdden	näuʹdd	NOUN	_	Ess	3	xcomp	_	GTtags=Ess
+2	näuʹdden	näuʹdd	NOUN	_	Case=Ess	3	xcomp	_	GTtags=Ess
 3	suõʹppjââtt	suõʹppjõõttâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	kämmǥižžen	kämmǥaž	NOUN	_	Ess	3	conj	_	GTtags=Ess
+5	kämmǥižžen	kämmǥaž	NOUN	_	Case=Ess	3	conj	_	GTtags=Ess
 6	âʹtte	âʹtte	ADV	_	_	5	orphan	_	_
 7	måttmešt	måttmešt	ADV	_	_	5	orphan	_	_
 8	ja	ja	CCONJ	_	_	10	cc	_	_
-9	kueʹllen	kueʹll	NOUN	_	Ess	10	xcomp	_	GTtags=Ess
+9	kueʹllen	kueʹll	NOUN	_	Case=Ess	10	xcomp	_	GTtags=Ess
 10	vuâjj	vuõjjâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	3	punct	_	_
-  
+
 # sent_id = kotus-skak2010-1-1:1-4
-# aannotation="yes" begintime="" endtime="" # paragID="1" # pgNo="9" # sentID="4" # storyID="KÄMMǤA MAAINÂS"
+# aannotation="no" begintime="" endtime="" # paragID="1" # pgNo="9" # sentID="4" # storyID="KÄMMǤA MAAINÂS"
 # text = Kueʹllen vuâjj ja låʹdden ǩeârdd.
-1	Kueʹllen	kueʹll	NOUN	_	Ess	2	xcomp	_	GTtags=Ess
+1	Kueʹllen	kueʹll	NOUN	_	Case=Ess	2	xcomp	_	GTtags=Ess
 2	vuâjj	vuõjjâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
 3	ja	ja	CCONJ	_	_	5	cc	_	_
-4	låʹdden	låʹdd	NOUN	_	Ess	5	xcomp	_	GTtags=Ess
+4	låʹdden	låʹdd	NOUN	_	Case=Ess	5	xcomp	_	GTtags=Ess
 5	ǩeârdd	ǩeʹrdded	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	2	punct	_	_
-  
+
 # sent_id = kotus-skak2010-1-1:2-1
-# aannotation="yes" begintime="" endtime="" # paragID="2" # pgNo="9" # sentID="1" # storyID="KÄMMǤA MAAINÂS"
+# aannotation="no" begintime="" endtime="" # paragID="2" # pgNo="9" # sentID="1" # storyID="KÄMMǤA MAAINÂS"
 # text = De måttmešt vaaʹldi de... suʹst liâ kueʹhtt pääʹrn, kueʹhtt mââʹnj liâ, kueʹhtt kaappi.
 1	De	de	CCONJ	_	_	3	cc	_	_
 2	måttmešt	måttmešt	ADV	_	AdvType=Tim	3	advmod:tmod	_	_
@@ -483,7 +483,7 @@
 17	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = kotus-skak2010-1-1:2-2
-# aannotation="yes" begintime="" endtime="" # paragID="2" # pgNo="9" # sentID="2" # storyID="KÄMMǤA MAAINÂS"
+# aannotation="no" begintime="" endtime="" # paragID="2" # pgNo="9" # sentID="2" # storyID="KÄMMǤA MAAINÂS"
 # text = Näʹde muõrid räʹjje, räʹjje, räʹjje.
 1	Näʹde	näʹde	ADV	_	_	3	advmod	_	_
 2	muõrid	muõrr	NOUN	_	Case=Acc|Number=Plur	3	obj	_	GTtags=Pl,Acc
@@ -495,8 +495,8 @@
 8	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = kotus-skak2010-1-1:2-3
-# aannotation="yes" begintime="" endtime="" # paragID="2" # pgNo="9" # sentID="3" # storyID="KÄMMǤA MAAINÂS"
-# text = Räʹjje, räʹjje muõrid de son ceälkk što ”ååʹn tij mõõnnâd kuätta ja mon vuâlǥam”, ceälkk ”vâl viǯǯled vuâlǥam muõrid”.
+# aannotation="no" begintime="" endtime="" # paragID="2" # pgNo="9" # sentID="3" # storyID="KÄMMǤA MAAINÂS"
+# text = Räʹjje, räʹjje muõrid de son ceälkk što «ååʹn tij mõõnnâd kuätta ja mon vuâlǥam», ceälkk «vâl viǯǯled vuâlǥam muõrid».
 1	Räʹjje	raajjâd	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
 3	räʹjje	raajjâd	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	1	conj	_	GTtags=Ind,Prs,Pl3
@@ -513,19 +513,19 @@
 14	ja	ja	CCONJ	_	_	16	cc	_	_
 15	mon	mon	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	GTtags=Pers,Sg1,Nom
 16	vuâlǥam	vueʹlǧǧed	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	12	conj	_	GTtags=Ind,Prs,Sg1
-17	”	”	PUNCT	_	RIGHT	12	punct	_	GTtags=RIGHT|SpaceAfter=No
+17	»	»	PUNCT	_	RIGHT	12	punct	_	GTtags=RIGHT|SpaceAfter=No
 18	,	,	PUNCT	CLB	_	19	punct	_	_
 19	ceälkk	ceäʹlǩǩed	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	conj	_	GTtags=Ind,Prs,Sg3
 20	«	«	PUNCT	_	LEFT	23	punct	_	GTtags=LEFT|SpaceAfter=No
-21	vâl	vâl	Adv	_	AdvType=Tim	23	advmod:tmod	_	_
+21	vâl	vâl	ADV	_	AdvType=Tim	23	advmod:tmod	_	_
 22	viǯǯled	viǯǯled	VERB	_	VerbForm=Inf	23	ccomp	_	GTtags=Inf
 23	vuâlǥam	vueʹlǧǧed	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	19	ccomp	_	GTtags=Ind,Prs,Sg1
 24	muõrid	muõrr	NOUN	_	Case=Acc|Number=Plur	22	obj	_	GTtags=Pl,Acc
-25	”	”	PUNCT	_	RIGHT	23	punct	_	GTtags=RIGHT|SpaceAfter=No
+25	»	»	PUNCT	_	RIGHT	23	punct	_	GTtags=RIGHT|SpaceAfter=No
 26	.	.	PUNCT	CLB	_	1	punct	_	_
 
 # sent_id = kotus-skak2010-1-1:2-4
-# aannotation="yes" begintime="" endtime="" # paragID="2" # pgNo="9" # sentID="4" # storyID="KÄMMǤA MAAINÂS"
+# aannotation="no" begintime="" endtime="" # paragID="2" # pgNo="9" # sentID="4" # storyID="KÄMMǤA MAAINÂS"
 # text = No vuâlgg, vuõʹlji.
 1	No	no	INTJ	_	_	2	advmod	_	_
 2	vuâlgg	vueʹlǧǧed	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
