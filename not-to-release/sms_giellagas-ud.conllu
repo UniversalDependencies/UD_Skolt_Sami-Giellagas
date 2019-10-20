@@ -96,7 +96,7 @@
 3	luândstes	luândd	NOUN	N	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	_	GTtags=Sg,Loc,PxSg3
 4	lääʹđesmiõllsab	lääʹđesmiõllsaž	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	0	root	_	GTtags=Comp,Sg,Nom
 5	ǥu	ǥu	ADV	Adv	_	6	mark	_	_
-6	eččan	eʹčč	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Person[psor]=1|Number[psor]=Sing	4	obl	_	GTtags=Sem/Kin,Sg,Nom,PxSg1|SpaceAfter=No
+6	eččan	eʹčč	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	obl	_	GTtags=Sem/Kin,Sg,Nom,PxSg1|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id = FofonoffHilkka_brat_2018:9
@@ -230,7 +230,7 @@
 5	tõn	tõt	DET	Det	Case=Gen|Number=Sing|PronType=Dem	6	det	_	GTtags=Dem,Sg,Gen
 6	peeiʹv	peiʹvv	NOUN	N	Case=Gen|Number=Sing	4	obl	_	GTtags=Sg,Gen
 7	čååǥǥâʹttmen	čååǥǥâʹttmen	VERB	V	_	4	xcomp	_	_
-8	vuõptees	vuõptt	NOUN	N	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	7	obj	_	GTtags=Pl,Acc,PxSg3
+8	vuõptees	vuõptt	NOUN	N	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	7	obj	_	GTtags=Pl,Acc,PxSg3|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	13	punct	_	_
 10	leša	leša	CCONJ	CC	_	13	mark	_	_
 11	mii	mii	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	13	nsubj	_	GTtags=Rel,Sg,Nom
@@ -299,13 +299,13 @@
 1	Ij	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	4	aux:neg	_	GTtags=Neg,Ind,Sg3
 2	kuuʹǩǩ	kuʹǩǩ	ADV	Adv	Case=Nom|Number=Sing	4	advmod:tmod	_	GTtags=Sg,Nom
 3	leämmaž	leeʹd	AUX	V	Aspect=Perf|Valency=1|VerbForm=Part	4	cop	_	GTtags=IV,Act,PrfPrc
-4	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	0	root	_	GTtags=Sg,Loc
+4	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	0	root	_	GTtags=Sg,Loc|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
-6	iʹttli	iʹttled	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	3	advcl	_	GTtags=Ind,Prt,Sg3
+6	iʹttli	iʹttled	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	4	advcl	_	GTtags=Ind,Prt,Sg3
 7	kuʹmpp	kuʹmpp	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	GTtags=Sg,Nom
 8	väʹst	väʹst	ADV	Adv	_	6	advmod	_	_
 9	mååust	mååust	ADV	Adv	_	6	advmod	_	SpaceAfter=No
-10	.	.	PUNCT	CLB	_	3	punct	_	_
+10	.	.	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id = 11308_1a::0:01:32-0:01:36
 # aannotation="no" begintime="0:01:32" endtime="0:01:36"
