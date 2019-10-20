@@ -40,7 +40,7 @@
 3	suõʹppjââtt	suõʹppjõõttâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	kämmǥižžen	kämmǥaž	NOUN	_	Case=Ess	3	conj	_	GTtags=Ess
-6	âʹtte	âʹtte	ADV	_	_	5	orphan	_	_	_
+6	âʹtte	âʹtte	ADV	_	_	5	orphan	_	_
 7	måttmešt	måttmešt	ADV	_	_	5	orphan	_	_
 8	ja	ja	CCONJ	_	_	10	cc	_	_
 9	kueʹllen	kueʹll	NOUN	_	Case=Ess	10	xcomp	_	GTtags=Ess
