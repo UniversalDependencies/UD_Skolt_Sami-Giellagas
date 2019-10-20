@@ -140,10 +140,10 @@
 2	kuâđđje	kuâđđjed	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Pl3
 3	vaʹlljeeǩâni	vaʹlljeed	VERB	V	Case=Abe|VerbForm=Ger	2	advcl	_	GTtags=VAbess
 4	Peter	Peter	PROPN	N	Animacy=Hum|Case=Nom|Number=Sing	2	nsubj	_	GTtags=Prop,Sem/Mal,Attr
-5	Smith	Smith	PROPN	N	Animacy=Hum|Case=Nom|Number=Sing	5	flat:name	_	GTtags=Prop,Sem/Sur,Sg,Nom
+5	Smith	Smith	PROPN	N	Animacy=Hum|Case=Nom|Number=Sing	4	flat:name	_	GTtags=Prop,Sem/Sur,Sg,Nom
 6	diǥu	diǥu	SCONJ	CS	_	9	mark	_	_
 7	še	še	ADV	Pcle	_	9	advmod	_	_
-8	Mary	Mary	PROPN	N	Animacy=Hum|Case=Nom|Number=Sing	5	conj	_	GTtags=Prop,Sem/Fem,Attr
+8	Mary	Mary	PROPN	N	Animacy=Hum|Case=Nom|Number=Sing	4	conj	_	GTtags=Prop,Sem/Fem,Attr
 9	Brown	Brown	PROPN	N	Animacy=Hum|Case=Nom|Number=Sing	8	flat:name	_	GTtags=Prop,Sem/Sur,Sg,Nom|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 
