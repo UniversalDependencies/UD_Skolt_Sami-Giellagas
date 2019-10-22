@@ -6,9 +6,9 @@ The UD Skolt Sami Giellagas treebank is based almost entirely on spoken Skolt Sa
 # Introduction
 
 UD Skolt Sami is the original annotation (CoNLL-U) for texts in the Skolt Sami language.
-It originally consists of twenty translated sentences http://ilazki.thinkgeek.co.uk/brat/#/uralic/sms made by Hilkka Fofonoff from the 
+It originally consists of twenty translated sentences http://ilazki.thinkgeek.co.uk/brat/#/uralic/sms made by Hilkka Fofonoff from the
 Finnish texts: [here](http://ilazki.thinkgeek.co.uk/brat/#/uralic/fin) with UD 1. dependencies.
-Subsequent sentences come from the Giellagas Corpus of Spoken Saami Languages of the University of Oulu, Finland, which, in part, 
+Subsequent sentences come from the Giellagas Corpus of Spoken Saami Languages of the University of Oulu, Finland, which, in part,
 include research materials transferred from (Kotimaisten kielten keskus) «Kotus»  'Institute for the Languages of Finland'.
 
 Treebank sentences marked with text id beginning in [kotus-skak2010] originate from the publication Sääʹmǩiõll, äʹrbbǩiõll, for which the publisher 'Institute for the Languages of Finland' (Kotimaisten kielten keskus) has granted written permission to include in the treebank. Citation of the original publication should be included when the treebank is used (see References section below).
@@ -19,15 +19,15 @@ Treebank sentences marked with text id beginning in [kotus-skak2010] originate f
 
 # Acknowledgments
 
-The original annotations have been performed by Jack Rueter at the University of Helsinki and Markus Juutinen at the 
-Giellagas Institute (University of Oulu, Finland) using morphological tools developed with funding from a Kone Foundation 
-«Language Programme» funded project: «Skolt Sami Revitalization through Intelligent Computer-assisted Language Learning 
-means and the development of guidelines for transfering these methods to other threatened languages» (2015–2018) with 
+The original annotations have been performed by Jack Rueter at the University of Helsinki and Markus Juutinen at the
+Giellagas Institute (University of Oulu, Finland) using morphological tools developed with funding from a Kone Foundation
+«Language Programme» funded project: «Skolt Sami Revitalization through Intelligent Computer-assisted Language Learning
+means and the development of guidelines for transfering these methods to other threatened languages» (2015–2018) with
 the linguistic consultation of Merja Fofonoff and Eino Koponen.
 The tools used have been facilitated through the open-source Giella infrastructure at the Norwegian Arctic University in Tromsø.
 
 Work with the Skolt Sami treebank builds upon previous experience with the UD_Erzya-JR treebank as well as growing discussions
-with Francis Tyers, Tommi Pirinen, Jonathan Washington, Mika Hämäläinen and Niko Partanen. Without the Skolt Sami speakers and writers themselves, 
+with Francis Tyers, Tommi Pirinen, Jonathan Washington, Mika Hämäläinen and Niko Partanen. Without the Skolt Sami speakers and writers themselves,
 however, we would be no where…
 
 
@@ -57,7 +57,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Rueter, Jack; Juutinen, Markus; Tyers, Francis; Pirinen, Tommi; Mika Hämäläinen
+Contributors: Rueter, Jack; Juutinen, Markus; Tyers, Francis; Pirinen, Tommi; Hämäläinen, Mika
 Contributing: here
 Contact: rueter.jack@gmail.com
 ===============================================================================
