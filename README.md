@@ -57,7 +57,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Rueter, Jack; Juutinen, Markus; Tyers, Francis; Pirinen, Tommi; Hämäläinen, Mika
+Contributors: Rueter, Jack; Juutinen, Markus; Tyers, Francis; Pirinen, Tommi A; Hämäläinen, Mika
 Contributing: here
 Contact: rueter.jack@gmail.com
 ===============================================================================
