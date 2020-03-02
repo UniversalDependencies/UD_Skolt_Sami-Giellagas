@@ -266,42 +266,151 @@
 10	jeeʹres	jeeʹres·årra	DET	_	_	11	det	_	_
 11	årra	_	NOUN	_	_	13	obl	_	_
 12	tok	tok	ADV	_	_	13	advmod	_	_
-13	raaji	raajjâd	VERB	_	Ind|Prt|Sg3	_	_	_	_
+13	raaji	raajjâd	VERB	_	Ind|Prt|Sg3	0	root	_	_
 14	pääiʹǩi	päiʹǩǩ	NOUN	_	Pl|Gen	_	_	_	_
 15	ja	ja	CCONJ	_	_	18	cc	_	_
 16	de	de	CCONJ	_	_	18	cc	_	_
 17	tok	tok	ADV	_	_	18	advmod	_	_
 18	pääkkai	päkkad	VERB	_	Ind|Prt|Sg3	13	conj	_	_
 19	mõõnnâd	mõõnnâd	VERB	_	Inf	18	ccomp	_	_
-20	.	.	PUNCT	_	_	_	_	_	_
+20	.	.	PUNCT	_	_	13	punct	_	_
 
 # sent_id = kotus-skak2010-1-1:4-4
 # aannotation="no" begintime="" endtime="" # paragID="4" # pgNo="10" # sentID="4" # storyID="KÄMMǤA MAAINÂS"
 # text = Leša mõõni de nääiʹt ǩiõđâs piiji, källsaž piiji, ceälkk: kulddâl mâka peeʹlljin tän suu ǩiõđ âʹlnn.
+1	Leša	leša	SCONJ	_	_	2	mark	_	_
+2	mõõni	mõõnnâd	VERB	_	Ind|Prt|Sg3	6	advcl	_	_
+3	de	de	CCONJ	_	_	6	cc	_	_
+4	nääiʹt	nääiʹt	ADV	_	_	6	advmod	_	_
+5	ǩiõđâs	ǩiõtt	NOUN	_	Sem/Body|Sg|Acc|PxSg3	6	obj	_	_
+6	piiji	piijjâd	VERB	_	Ind|Prt|Sg3	0	root	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	källsaž	källsaž	NOUN	_	Sg|Nom	9	nsubj	_	_
+9	piiji	piijjâd	VERB	_	Ind|Prt|Sg3	6	conj	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	ceälkk	ceäʹlǩǩed	VERB	_	Ind|Prs|Sg3	6	conj	_	_
+12	:	:	PUNCT	_	_	11	punct	_	_
+13	kulddâl	kuvddled	VERB	_	Imprt|Sg2	11	parataxis	_	_
+14	mâka	mâka	ADV	_	_	13	advmod	_	_
+15	peeʹlljin	peʹllj	NOUN	_	Sem/Body|Sg|Com	13	obl	_	_
+16	tän	tät	PRON	_	Dem|Sg|Gen	13	obj	_	_
+17	suu	son	PRON	_	Pers|Sg3|Gen	18	nmod	_	_
+18	ǩiõđ	ǩiõtt	NOUN	_	Sg|Gen	13	obl	_	_
+19	âʹlnn	âʹlnn	ADP	_	_	18	case	_	_
+20	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = kotus-skak2010-1-1:5-1
 # aannotation="no" begintime="" endtime="" # paragID="5" # pgNo="10" # sentID="1" # storyID="KÄMMǤA MAAINÂS"
 # text = Son kulddleškuõʹđi, toʹb koll’je, ruuʹdid täkka da tõid.
+1	Son	son	PRON	_	Pers|Sg3|Nom	2	nsubj	_	_
+2	kulddleškuõʹđi	kulddleškueʹtted	VERB	_	Ind|Prt|Sg3	0	root	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	toʹb	toʹb	ADV	_	_	5	advmod	_	_
+5	koll’je	kollʼjed	VERB	_	Ind|Prt|Pl3	2	conj	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	ruuʹdid	ruʹvdd	NOUN	_	Pl|Acc	2	obj	_	_
+8	täkka	täkk	NOUN	_	Sg|Ill	2	obl	_	_
+9	da	da	CCONJ	_	_	10	cc	_	_
+10	tõid	tõt	PRON	_	Dem|Pl|Acc	7	conj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = kotus-skak2010-1-1:5-2
 # aannotation="no" begintime="" endtime="" # paragID="5" # pgNo="10" # sentID="2" # storyID="KÄMMǤA MAAINÂS"
 # text = Källsaž ceälkk tõt što ”ååʹn muännaid kåʹdde”.
+1	Källsaž	källsaž	NOUN	_	Sg|Nom	2	nsubj	_	_
+2	ceälkk	ceäʹlǩǩed	VERB	_	Ind|Prs|Sg3	_	_	_	_
+3	tõt	tõt	PRON	_	Dem|Sg|Nom	2	obl	_	_
+4	što	što	CS	_	_	8	mark	_	_
+5	”	”	PUNCT	_	RIGHT	8	punct	_	_
+6	ååʹn	ååʹn	ADV	_	Sem/Time	8	advmod:tmod	_	_
+7	muännaid	mon	PRON	_	Pers|Du1|Acc	8	obj	_	_
+8	kåʹdde	kåʹdded	VERB	_	Ind|Prs|Pl3	2	ccomp	_	_
+9	”	”	PUNCT	_	RIGHT	8	punct	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = kotus-skak2010-1-1:5-3
 # aannotation="no" begintime="" endtime="" # paragID="5" # pgNo="10" # sentID="3" # storyID="KÄMMǤA MAAINÂS"
 # text = No son mâʹst teâtt ...
+1	No	no	CCONJ	_	_	4	cc	_	_
+2	son	son	PRON	_	Pers|Sg3|Nom	4	nsubj	_	_
+3	mâʹst	mii	ADV	_	Rel|Sg|Loc	4	advmod	_	_
+4	teâtt	tieʹtted	VERB	_	Ind|Prs|Sg3	0	root	_	_
+5	...	...	PUNCT	_	_	4	punct	_	_
 
 # sent_id = kotus-skak2010-1-1:5-4
 # aannotation="no" begintime="" endtime="" # paragID="5" # pgNo="10" # sentID="4" # storyID="KÄMMǤA MAAINÂS"
 # text = Na källsaž ceälkk: ”Muu ko kooʹddže ton jiõk õõlǥ käggõõttâd vuõʹste.
+1	Na	na	ADV	_	_	_	_	_	_
+2	källsaž	källsaž	NOUN	_	Sg|Nom	3	nsubj	_	_
+3	ceälkk	ceäʹlǩǩed	VERB	_	Ind|Prs|Sg3	0	root	_	_
+4	:	:	PUNCT	_	_	3	punct	_	_
+5	”	”	PUNCT	_	RIGHT	11	punct	_	_
+6	Muu	mon	PRON	_	Pers|Sg1|Acc	8	obj	_	_
+7	ko	ko	SCONJ	_	_	8	mark	_	_
+8	kooʹddže	kåʹdded	VERB	_	Pot|Pl3	11	advcl	_	_
+9	ton	ton	PRON	_	Pers|Sg2|Nom	11	nsubj	_	_
+10	jiõk	ij	AUX	_	Neg|Ind|Sg2	11	aux:neg	_	_
+11	õõlǥ	õlggâd	VERB	_	Ind|Prs|ConNeg	3	ccomp	_	_
+12	käggõõttâd	käggõõttâd	VERB	_	Inf	11	ccomp	_	_
+13	vuõʹste	vuõʹste	ADV	_	_	12	advmod	_	_
+14	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = kotus-skak2010-1-1:5-5
 # aannotation="no" begintime="" endtime="" # paragID="5" # pgNo="10" # sentID="5" # storyID="KÄMMǤA MAAINÂS"
 # text = Muu ko kooʹddže de aaudže de tueʹllj piijže dõõzz-e kuäʹttnjälmma de näʹde ton õõk njuiʹǩǩeed pâʹjjel tõn tueʹllj õõk njuiʹǩǩeed, di jos piâzzžiǩ pâʹjjel tueʹllj de teʹl jiâ kååʹdd tuu.”
+1	Muu	mon	PRON	_	Pers|Sg1|Acc	3	obj	_	_
+2	ko	ko	SCONJ	_	_	3	mark	_	_
+3	kooʹddže	kåʹdded	VERB	_	Pot|Pl3	30	advcl	_	_
+4	de	de	CCONJ	_	_	5	cc	_	_
+5	aaudže	auddâd	VERB	_	Pot|Pl3	3	conj	_	_
+6	de	de	CCONJ	_	_	8	cc	_	_
+7	tueʹllj	tueʹllj	NOUN	_	Pl|Nom	8	obj	_	_
+8	piijže	piijjâd	VERB	_	Pot|Pl3	3	conj	_	_
+9	dõõzz-e	dõõzz-e	ADV	_	_	8	advmod	_	_
+10	kuäʹttnjälmma	kuäʹttnjälmma	NOUN	_	Sg|Ill	9	appos	_	_
+11	de	de	CCONJ	_	_	15	cc	_	_
+12	näʹde	näʹde	ADV	_	_	15	advmod	_	_
+13	ton	ton	PRON	_	Pers|Sg2|Nom	15	nsubj	_	_
+14	õõk	õõk	AUX	_	_	15	aux	_	_
+15	njuiʹǩǩeed	njuiʹǩǩeed	VERB	_	Inf	3	conj	_	_
+16	pâʹjjel	pâʹjjel	ADP	_	_	18	case	_	_
+17	tõn	tõt	DET	_	Dem|Sg|Gen	18	det	_	_
+18	tueʹllj	tueʹllj	NOUN	_	Sg|Gen	20	obl	_	_
+19	õõk	õõk	AUX	_	_	20	aux	_	_
+20	njuiʹǩǩeed	njuiʹǩǩeed	VERB	_	Inf	3	conj	_	_
+21	,	,	PUNCT	_	_	24	punct	_	_
+22	di	di	CCONJ	_	_	24	cc	_	_
+23	jos	jos	SCONJ	_	_	24	mark	_	_
+24	piâzzžiǩ	piâssâd	VERB	_	Pot|Sg2	3	conj	_	_
+25	pâʹjjel	pâʹjjel	ADP	_	_	26	case	_	_
+26	tueʹllj	tueʹllj	NOUN	_	Sg|Gen	24	obl	_	_
+27	de	de	CCONJ	_	_	30	cc	_	_
+28	teʹl	teʹl	ADV	_	Sem/Time	30	advmod:tmod	_	_
+29	jiâ	ij	AUX	_	Neg|Ind|Pl3	30	aux:neg	_	_
+30	kååʹdd	kåʹdded	VERB	_	Ind|Prs|ConNeg	0	root	_	_
+31	tuu	ton	PRON	_	Pers|Sg2|Acc	30	obj	_	_
+32	.	.	PUNCT	_	_	30	punct	_	_
 
 # sent_id = kotus-skak2010-1-1:6-1
 # aannotation="no" begintime="" endtime="" # paragID="6" # pgNo="10" # sentID="1" # storyID="KÄMMǤA MAAINÂS"
 # text = No son âʹtte vaaʹldi, teä koll’je, puõʹtte teâđast kaarbivuiʹm käʹrbbe, šeʹlle, puõʹtte.
+1	No	no	Interj	_	_	4	discourse	_	_
+2	son	son	PRON	_	Pers|Sg3|Nom	4	nsubj	_	_
+3	âʹtte	âʹtte	ADV	_	Sem/Time	4	advmod:tmod	_	_
+4	vaaʹldi	väʹldded	VERB	_	Ind|Prt|Sg3	0	root	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	teä	teä	ADV	_	Sem/Time|Sem/Time	7	advmod:tmod	_	_
+7	koll’je	kollʼjed	VERB	_	Ind|Prs|Pl3	4	parataxis	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	puõʹtte	pueʹtted	VERB	_	Ind|Prt|Pl3	7	conj	_	_
+10	teâđast	teâđast	ADV	_	_	9	discourse	_	_
+11	kaarbivuiʹm	käʹrbb	NOUN	_	Pl|Com	12	obl	_	_
+12	käʹrbbe	karbbâd	VERB	_	Ind|Prs|Pl3	7	conj	_	_
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	šeʹlle	šeeʹlled	VERB	_	Ind|Prs|Pl3	7	conj	_	_
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	puõʹtte	pueʹtted	VERB	_	Ind|Prt|Pl3	7	conj	_	_
+17	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = kotus-skak2010-1-1:6-2
 # aannotation="no" begintime="" endtime="" # paragID="6" # pgNo="10" # sentID="2" # storyID="KÄMMǤA MAAINÂS"
