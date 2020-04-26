@@ -986,7 +986,7 @@
 13	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	15	aux:neg	_	GTtags=Neg,Ind,Sg2
 14	õõlǥ	õlggâd	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres	15	aux	_	GTtags=Ind,Prs,ConNeg
 15	kooǯǯted	kooǯǯted	VERB	V	VerbForm=Inf	10	conj	_	GTtags=Inf|SpaceAfter=No
-16	”	”	PUNCT	PUNCT	_	10	punct	_	GTtags=RIGHT
+16	”	”	PUNCT	PUNCT	_	10	punct	_	GTtags=RIGHT|SpaceAfter=No
 17	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = kotus-skak2010-1-2:2-3
@@ -1139,7 +1139,7 @@
 8	”	”	PUNCT	PUNCT	_	2	punct	_	GTtags=RIGHT
 9	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	parataxis	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	9	punct	_	_
-11	”	”	PUNCT	PUNCT	_	12	punct	_	GTtags=RIGHT
+11	”	”	PUNCT	PUNCT	_	12	punct	_	GTtags=RIGHT|SpaceAfter=No
 12	oiʹǧǧe	oiggâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Prt	2	conj	_	GTtags=Ind,Prt,Pl3
 13	juâlǥad	jueʹlǧǧ	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=2	12	obj	_	GTtags=Sem/Body,Sg,Acc,PxSg2
 14	tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	15	det	_	GTtags=Dem,Sg,Gen
