@@ -885,7 +885,7 @@
 6	Gu	Gu	SCONJ	CS	AdvType=Tim	8	mark	_	GTtags=Temp
 7	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	cop	_	GTtags=Ind,Prs,Sg3
 8	nåkkam	nåkkam	PRON	Pron	Case=Nom|Number=Sing	11	advcl	_	GTtags=Sg,Nom
-9	nuʹt	nuʹtt	ADV	Adv	_	11	advmod	_	GTtags=Err/Orth
+9	nuʹt	nuʹtt	ADV	Adv	Typo=Yes	11	advmod	_	GTtags=Err/Orth|CorrectForm=nuʹtt
 10	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	aux	_	GTtags=Ind,Prs,Sg3
 11	šõddâm	šõddâd	VERB	V	Aspect=Perf|VerbForm=Part	3	ccomp	_	GTtags=Act,PrfPrc
 12	ja	ja	CCONJ	CC	_	14	cc	_	_
@@ -1202,7 +1202,7 @@
 9	”	”	PUNCT	PUNCT	_	11	punct	_	GTtags=RIGHT|SpaceAfter=No
 10	Eččad	eʹčč	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	11	nsubj	_	GTtags=Kin,Sem/Kin,Sg,Nom,PxSg2
 11	leäi	leeʹd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	4	conj	_	GTtags=Ind,Prt,Sg3
-12	nuʹt	nuʹtt	ADV	Adv	_	11	advmod	_	GTtags=Err/Orth|SpaceAfter=No
+12	nuʹt	nuʹtt	ADV	Adv	Typo=Yes	11	advmod	_	GTtags=Err/Orth|CorrectForm=nuʹtt|SpaceAfter=No
 13	...	...	PUNCT	CLB	_	11	punct	_	_
 14	eččad	eʹčč	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	16	nsubj	_	GTtags=Kin,Sem/Kin,Sg,Nom,PxSg2
 15	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	16	aux	_	GTtags=Ind,Prt,Sg3
@@ -1417,7 +1417,7 @@
 7	tät	tät	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	8	det	_	GTtags=Dem,Sg,Nom
 8	jeäʹnnes	jeäʹnn	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	nsubj	_	GTtags=Sem/Kin,Sg,Nom,PxSg3
 9	teâđast	teâđast	ADV	Adv	_	11	advmod	_	_
-10	nuʹt-i	nuʹtt	ADV	Adv	Clt	11	advmod	_	GTtags=Err/Orth,Clt
+10	nuʹt-i	nuʹtt	ADV	Adv	Clitic=AddI|Typo=Yes	11	advmod	_	GTtags=Err/Orth,Clt|CorrectForm=nuʹtt-i
 11	paaʹʒʒi	pääʹcced	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	4	conj	_	GTtags=Ind,Prt,Sg3
 12	pääʹltâʹstted	pääʹltâʹstted	VERB	V	VerbForm=Inf	11	advcl	_	GTtags=Inf|SpaceAfter=No
 13	,	,	PUNCT	CLB	_	17	punct	_	_
