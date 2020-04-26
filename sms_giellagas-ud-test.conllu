@@ -142,7 +142,7 @@
 # text_olo = Heil ei ole ovvostustu sit, ken sen kirjutti.
 # text_mdf = Синь мялезост-ка ашезь кунда, кие тянь сёрмадозе.
 1	Seeʹst	son	PRON	Pron	Case=Loc|Number=Plur|Person=3|PronType=Prs	2	obl	_	GTtags=Pers,Pl3,Loc
-2	jeäʹla	jeäʹla	VERB	V	_	0	root	_	GTtags=V
+2	jeäʹla	iʹlla	AUX	V	Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=V
 3	ǩeeʹrjteeʹjest	ǩeeʹrjteei	NOUN	N	Case=Loc|Number=Sing	2	obl	_	GTtags=Sg,Loc
 4	võl	võl	ADV	Adv	AdvType=Tim	2	advmod	_	GTtags=Sem/Time
 5	ni	ni	AUX	Aux	_	6	aux:neg	_	_
@@ -1044,7 +1044,7 @@
 6	kâʹl	kâʹl	ADV	Adv	_	10	advmod	_	_
 7	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	10	aux:neg	_	GTtags=Neg,Ind,Sg2
 8	teänab	teänab	ADV	Adv	_	10	advmod:tmod	_	_
-9	kuuʹǩǩ	kuuʹǩǩ	ADV	Adv	AdvType=Tim|Sem/Time	10	advmod:tmod	_	GTtags=Sem/Time,Sem/Time
+9	kuuʹǩǩ	kuuʹǩǩ	ADV	Adv	AdvType=Tim	10	advmod:tmod	_	GTtags=Sem/Time
 10	vueiʹn	vueiʹnned	VERB	V	Mood=Imp|Number=Sing|Person=2	2	ccomp	_	GTtags=Imprt,Sg2
 11	mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	GTtags=Pers,Sg1,Nom
 12	leäm	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	13	aux	_	GTtags=Ind,Prs,Sg1
@@ -1159,7 +1159,7 @@
 7	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	GTtags=Pers,Sg3,Nom
 8	ääušas	ähšš	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	obj	_	GTtags=Sg,Acc,PxSg3
 9	roʹttji	roʹttjed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	2	conj	_	GTtags=Ind,Prt,Sg3
-10	meädda	meädda	ADV	Adv	Sem/Plc	9	advmod:lmod	_	GTtags=Sem/Plc|SpaceAfter=No
+10	meädda	meädda	ADV	Adv	_	9	advmod:lmod	_	GTtags=Sem/Plc|SpaceAfter=No
 11	,	,	PUNCT	CLB	_	12	punct	_	_
 12	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	parataxis	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 13	:	:	PUNCT	CLB	_	12	punct	_	_
@@ -1184,7 +1184,7 @@
 32	jeäʹnn	jeäʹnn	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	31	vocative	_	GTtags=Kin,Sem/Kin,Sg,Nom
 33	ko	ko	SCONJ	CS	_	35	mark	_	_
 34	eʹčč	eʹčč	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	35	nsubj:cop	_	GTtags=Kin,Sem/Kin,Sg,Nom
-35	iʹlleäk	iʹlla	VERB	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	31	advcl	_	GTtags=Neg,Ind,Prs,Sg3|SpaceAfter=No
+35	iʹlleäk	iʹlla	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	31	advcl	_	GTtags=Neg,Ind,Prs,Sg3|SpaceAfter=No
 36	?	?	PUNCT	CLB	_	31	punct	_	SpaceAfter=No
 37	”	”	PUNCT	PUNCT	_	2	punct	_	GTtags=RIGHT
 
@@ -1232,7 +1232,7 @@
 # text = Di kaavân ǥu vaaʹldi de ton âʹtte šõʹddiǩ.
 1	Di	di	CCONJ	CC	_	4	cc	_	_
 2	kaavân	kaav	NOUN	N	Animacy=Hum|Case=Ess	4	xcomp	_	GTtags=Sem/Kin,Ess
-3	ǥu	ǥu	SCONJ	CS	_	4	advmod:tmod	_	_
+3	ǥu	ǥu	SCONJ	CS	_	4	mark	_	_
 4	vaaʹldi	väʹldded	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	8	advcl:tmod	_	GTtags=Ind,Prt,Sg3
 5	de	de	CCONJ	CC	_	8	cc	_	_
 6	ton	ton	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	GTtags=Pers,Sg2,Nom
@@ -1285,7 +1285,7 @@
 1	Måttmešt	måttmešt	ADV	Adv	_	2	advmod:tmod	_	_
 2	vaʹlddem	väʹldded	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg1
 3	di	di	CCONJ	CC	_	5	cc	_	_
-4	teä	teä	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	GTtags=Sem/Time,Sem/Time
+4	teä	teä	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	GTtags=Sem/Time
 5	koǯǯâm	koǯǯâd	VERB	V	Aspect=Perf|VerbForm=Part	2	conj	_	GTtags=Act,PrfPrc
 6	leäk	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	5	aux	_	GTtags=Ind,Prs,Sg2
 7	tueʹllj	tueʹllj	NOUN	N	Case=Acc|Number=Sing	5	obj	_	GTtags=Sg,Acc|SpaceAfter=No
