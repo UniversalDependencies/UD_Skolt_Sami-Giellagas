@@ -42,6 +42,9 @@ however, we would be no where…
 
 # Changelog
 
+* 2020-05-15 v2.6
+  * Adding two stories from Sääʹmǩiõll, äʹrbbǩiõll: Kämmǥa Maainâs, Kååʹdd Maainâs
+  * Expanding advmod:mmod, :lmod, :tmod and adding NameTypes.
 * 2019-11-15 v2.5
   * Initial release in Universal Dependencies.
 
