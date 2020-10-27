@@ -209,7 +209,7 @@
 1	Suʹst	son	PRON	Pron	Case=Loc|Number=Sing|Person=3|PronType=Prs	4	obl:agent	_	GTtags=Pers,Sg3,Loc
 2	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	4	aux	_	GTtags=IV,Ind,Prt,Sg3
 3	õlggâm	õlggâd	AUX	Aux	Aspect=Perf|VerbForm=Part	4	aux	_	GTtags=Act,PrfPrc
-4	leeʹd	leeʹd	VERB	V	Valency=1|VerbForm=Inf	0	root	_	GTtags=IV,Inf
+4	leeʹd	leeʹd	AUX	V	Valency=1|VerbForm=Inf	0	root	_	GTtags=IV,Inf
 5	tõn	tõt	DET	Det	Case=Gen|Number=Sing|PronType=Dem	6	det	_	GTtags=Dem,Sg,Gen
 6	peeiʹv	peiʹvv	NOUN	N	Case=Gen|Number=Sing	4	obl:tmod	_	GTtags=Sg,Gen
 7	čååǥǥâʹttmen	čååǥǥâʹttmen	VERB	V	_	4	xcomp	_	_
@@ -387,7 +387,7 @@
 # story_id = KÄMMǤA MAAINÂS:9:1:1
 # text = Vuõššân leäi källsaž, källsaž leäi de son jåått âʹtte mieʹccest.
 1	Vuõššân	vuõššân	ADV	_	AdvType=Tim	2	advmod	_	GTtags=Sem/Time
-2	leäi	leeʹd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
+2	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
 3	källsaž	källsaž	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	GTtags=Sg,Nom|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	källsaž	källsaž	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	GTtags=Sg,Nom
@@ -450,13 +450,13 @@
 4	de	de	CCONJ	_	_	7	cc	_	SpaceAfter=No
 5	...	...	PUNCT	CLB	_	7	punct	_	_
 6	suʹst	son	PRON	_	Case=Loc|Number=Sing|Person=3|PronType=Prs	7	obl	_	GTtags=Pers,Sg3,Loc
-7	liâ	leeʹd	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,Pl3
+7	liâ	leeʹd	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,Pl3
 8	kueʹhtt	kueʹhtt	NUM	_	Case=Nom|Number=Sing	9	nummod	_	GTtags=Sg,Nom
 9	pääʹrn	päʹrnn	NOUN	_	Animacy=Hum|Case=Nom|Number=Plur	7	nsubj	_	GTtags=Kin,Pl,Nom|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	13	punct	_	_
 11	kueʹhtt	kueʹhtt	NUM	_	Case=Nom|Number=Sing	12	nummod	_	GTtags=Sg,Nom
 12	mââʹnj	mââʹnnj	NOUN	_	Case=Nom|Number=Plur	13	nsubj	_	GTtags=Pl,Nom
-13	liâ	leeʹd	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
+13	liâ	leeʹd	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
 14	,	,	PUNCT	CLB	_	16	punct	_	_
 15	kueʹhtt	kueʹhtt	NUM	_	Case=Nom|Number=Sing	16	nummod	_	GTtags=Sg,Nom
 16	kaappi	kaav	NOUN	_	Animacy=Hum|Case=Nom|Number=Plur	3	conj	_	GTtags=Kin,Sem/Kin,Pl,Nom|SpaceAfter=No
@@ -601,11 +601,11 @@
 3	mõõni	mõõnnâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	1	conj	_	GTtags=Ind,Prt,Sg3
 4	de	de	CCONJ	CC	_	6	cc	_	_
 5	kueʹtt	kueʹtt	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	GTtags=Sg,Nom
-6	lij	leeʹd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
+6	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	10	punct	_	_
 8	kämmǥa	kämmǥaž	NOUN	N	Case=Gen|Number=Sing	9	nmod	_	GTtags=Sg,Gen
 9	kueʹtt	kueʹtt	NOUN	N	Case=Nom|Number=Sing	10	nsubj	_	GTtags=Sg,Nom
-10	lij	leeʹd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
+10	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	14	punct	_	_
 12	di	di	CCONJ	CC	_	14	cc	_	_
 13	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	GTtags=Pers,Sg3,Nom
@@ -913,9 +913,9 @@
 # story_id = KÅÅʹDD MAAINÂS:10:1:2
 # text = De leäi, leäi de ooumaž puõʹđi.
 1	De	de	CCONJ	CC	_	2	cc	_	_
-2	leäi	leeʹd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
+2	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	4	punct	_	_
-4	leäi	leeʹd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	2	conj	_	GTtags=Ind,Prt,Sg3
+4	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	2	conj	_	GTtags=Ind,Prt,Sg3
 5	de	de	CCONJ	CC	_	7	cc	_	_
 6	ooumaž	ooumaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	7	nsubj	_	GTtags=Sem/Hum,Sg,Nom
 7	puõʹđi	pueʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	2	conj	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
@@ -1194,14 +1194,14 @@
 1	No	no	INTJ	Interj	_	4	discourse	_	_
 2	jeäʹnnes	jeäʹnn	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	_	GTtags=Kin,Sem/Kin,Sg,Nom,PxSg3
 3	päkk	päkk	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	GTtags=Sg,Nom
-4	leäi	leeʹd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
+4	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
 5	särnnad	särnnad	VERB	V	VerbForm=Inf	4	advcl	_	GTtags=Inf|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
 7	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	parataxis	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 8	:	:	PUNCT	CLB	_	7	punct	_	_
 9	”	”	PUNCT	PUNCT	_	11	punct	_	GTtags=RIGHT|SpaceAfter=No
 10	Eččad	eʹčč	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	11	nsubj	_	GTtags=Kin,Sem/Kin,Sg,Nom,PxSg2
-11	leäi	leeʹd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	4	conj	_	GTtags=Ind,Prt,Sg3
+11	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	4	conj	_	GTtags=Ind,Prt,Sg3
 12	nuʹt	nuʹtt	ADV	Adv	Typo=Yes	11	advmod	_	GTtags=Err/Orth|CorrectForm=nuʹtt|SpaceAfter=No
 13	...	...	PUNCT	CLB	_	11	punct	_	_
 14	eččad	eʹčč	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	16	nsubj	_	GTtags=Kin,Sem/Kin,Sg,Nom,PxSg2
@@ -1424,7 +1424,7 @@
 14	di	di	CCONJ	CC	_	17	cc	_	_
 15	leuʹdd	leuʹdd	NOUN	N	Case=Nom|Number=Sing	17	nsubj	_	GTtags=Sg,Nom
 16	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	17	advmod:tmod	_	GTtags=Sem/Time
-17	leäi	leeʹd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	4	conj	_	GTtags=Ind,Prt,Sg3
+17	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	4	conj	_	GTtags=Ind,Prt,Sg3
 18	mâŋŋa	mâŋŋa	ADV	Adv	AdvType=Tim	17	advmod:tmod	_	GTtags=Sem/Time
 19	tõʹst	tõt	PRON	Pron	Case=Loc|Number=Sing|PronType=Dem	18	nmod	_	GTtags=Dem,Sg,Loc|SpaceAfter=No
 20	:	:	PUNCT	CLB	_	4	punct	_	_
@@ -1489,4 +1489,331 @@
 4	tiâr	tiârrâd	VERB	V	Mood=Imp|Number=Sing|Person=2	1	conj	_	GTtags=Imprt,Sg2
 5	olgglab	olgglab	ADV	Adv	_	4	advmod:lmod	_	SpaceAfter=No
 6	.	.	PUNCT	CLB	_	1	punct	_	_
+
+# -:- coding= UTF-8 -:-
+# sent_id = kotus-skak2010-1-3:1
+# story_id = ČEÄKKLEEMAAINÂS:12:1:1
+# text = Čeäkkleemaainâs lij nuʹt što ...
+1	Čeäkkleemaainâs	čeäkkleemaainâs	NOUN	N	Case=Nom|Number=Sing	3	nsubj:cop	_	GTtags=Sg,Nom
+2	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	GTtags=Ind,Prs,Sg3,@+FMAINV
+3	nuʹt	nuʹtt	ADV	Adv	_	0	root	_	GTtags=Err/Orth,@<ADVL
+4	što	što	SCONJ	CS	_	3	ccomp	_	GTtags=@CVP
+5	...	...	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = kotus-skak2010-1-3:2
+# story_id = ČEÄKKLEEMAAINÂS:12:1:1
+# text = Oummu liâ jååʹttmen di ǩeäzz ko son tätt čuäjtõõttâd de tõt-i vuâmmaš.
+1	Oummu	ooumaž	NOUN	N	Case=Nom|Number=Plur	3	nsubj	_	GTtags=Pl,Nom
+2	liâ	leeʹd	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	aux	_	GTtags=Ind,Prs,Pl3
+3	jååʹttmen	jååʹtted	VERB	V	Case=Ess|Derivation=Vnoun	0	root	_	GTtags=Actio,Ess
+4	di	di	CCONJ	CC	_	8	cc	_	_
+5	ǩeäzz	ǩii	PRON	Pron	Case=Ill|Number=Sing|PronType=Rel	9	obl	_	GTtags=Rel,Sg,Ill
+6	ko	ko	SCONJ	CS	_	8	mark	_	_
+7	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	GTtags=Pers,Sg3,Nom
+8	tätt	tättad	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,Sg3
+9	čuäjtõõttâd	čuäjtõõttâd	VERB	V	VerbForm=Inf	8	ccomp	_	GTtags=Inf
+10	de	de	CCONJ	CC	_	12	cc	_	_
+11	tõt-i	tõt	PRON	Pron	Case=Nom|Clitic=AddI|Number=Sing|PronType=Dem	12	nsubj	_	GTtags=Dem,Sg,Nom,Clt
+12	vuâmmaš	vuâmmšed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
+13	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = kotus-skak2010-1-3:3
+# story_id = ČEÄKKLEEMAAINÂS:12:1:1
+# text = Son âʹtte lij ko... nåkkam lij... suõvv älgg kueʹstted nåkkam, de tõn suõv luzz ko väʒʒ de ij ni mii kueʹst.
+1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj:cop	_	GTtags=Pers,Sg3,Nom
+2	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	3	advmod	_	GTtags=Sem/Time,@ADVL>
+3	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	reparandum	_	GTtags=Ind,Prs,Sg3,@+FMAINV
+4	ko	ko	SCONJ	CS	_	3	mark	_	GTtags=@CVP|SpaceAfter=No
+5	...	...	PUNCT	CLB	_	3	punct	_	_
+6	nåkkam	nåkkam	PRON	Pron	Case=Nom|Number=Sing	7	nsubj	_	GTtags=Sg,Nom
+7	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
+8	...	...	PUNCT	CLB	_	7	punct	_	_
+9	suõvv	suõvv	NOUN	N	Case=Nom|Number=Sing	10	nsubj	_	GTtags=Sg,Nom
+10	älgg	älgg	VERB	N	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom
+11	kueʹstted	kueʹstted	VERB	V	VerbForm=Inf	10	xcomp	_	GTtags=Inf
+12	nåkkam	nåkkam	PRON	Pron	Case=Nom|Number=Sing	11	reparandum	_	GTtags=Sg,Nom|SpaceAfter=No
+13	,	,	PUNCT	CLB	_	19	punct	_	_
+14	de	de	CCONJ	CC	_	19	cc	_	_
+15	tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	16	det	_	GTtags=Dem,Sg,Gen
+16	suõv	suõvv	NOUN	N	Case=Gen|Number=Sing	19	obl	_	GTtags=Sg,Gen
+17	luzz	luzz	ADP	Adp	AdpType=Post	16	case	_	GTtags=Po
+18	ko	ko	SCONJ	CS	_	19	mark	_	GTtags=@CVP
+19	väʒʒ	väʹʒʒed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	24	advcl	_	GTtags=Ind,Prs,Sg3,@+FMAINV
+20	de	de	CCONJ	CC	_	24	cc	_	_
+21	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	24	aux:neg	_	GTtags=Neg,Ind,Sg3,@+FAUXV
+22	ni	ni	AUX	Pcle	_	23	aux:neg	_	_
+23	mii	mii	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	24	nsubj	_	GTtags=Rel,Sg,Nom,@<SUBJ
+24	kueʹst	kueʹstted	VERB	V	Mood=Imp|Number=Sing|Person=2	10	conj	_	GTtags=Imprt,Sg2,@+FMAINV|SpaceAfter=No
+25	.	.	PUNCT	CLB	_	10	punct	_	_
+
+# sent_id = kotus-skak2010-1-3:4
+# story_id = ČEÄKKLEEMAAINÂS:12:1:1
+# text = Mutta tõn suõv luzz ko väʒʒ de vuõddjez nuâll de peejj, tõn suõv ool peejj juâlǥašm.
+1	Mutta	mutta	CCONJ	CC	_	6	cc	_	GTtags=CC
+2	tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	3	dep	_	GTtags=Dem,Sg,Gen
+3	suõv	suõvv	NOUN	N	Case=Gen|Number=Sing	6	obl:lmod	_	GTtags=Sg,Gen
+4	luzz	luzz	ADP	Adp	_	3	case	_	_
+5	ko	ko	SCONJ	CS	_	6	mark	_	GTtags=@CVP
+6	väʒʒ	väʹʒʒed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3,@+FMAINV
+7	de	de	CCONJ	CC	_	9	cc	_	GTtags=@CVP
+8	vuõddjez	vuõdd	NOUN	N	Case=Nom|Derivation=Dimin|Number=Plur|Number[psor]=Plur|Person[psor]=3	9	obj	_	GTtags=Der/Dimin,N,Pl,Nom,PxPl3,@<SUBJ
+9	nuâll	nuõllâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	conj	_	GTtags=Ind,Prs,Sg3,@+FMAINV
+10	de	de	CCONJ	CC	_	11	cc	_	GTtags=@CVP
+11	peejj	piijjâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	conj	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
+12	,	,	PUNCT	CLB	_	16	punct	_	_
+13	tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	14	det	_	GTtags=Dem,Sg,Gen
+14	suõv	suõvv	NOUN	N	Case=Gen|Number=Sing	16	obl:lmod	_	GTtags=Sg,Gen
+15	ool	ool	ADP	Adp	_	14	case	_	_
+16	peejj	piijjâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	appos	_	GTtags=Ind,Prs,Sg3,@+FMAINV
+17	juâlǥašm	juâlǥašm	NOUN	N	Case=Acc|Number=Sing	16	obj	_	GTtags=Sg,Acc,@<OBJ|SpaceAfter=No
+18	.	.	PUNCT	CLB	_	6	punct	_	_
+
+# sent_id = kotus-skak2010-1-3:5
+# story_id = ČEÄKKLEEMAAINÂS:12:1:1
+# text = Näʹde tok ... pâi-i nuâll, tok ǩeâss.
+1	Näʹde	näʹde	INTJ	Interj	_	5	discourse	_	_
+2	tok	tok	ADV	Adv	_	5	advmod:lmod	_	_
+3	...	...	PUNCT	CLB	_	5	punct	_	_
+4	pâi-i	pâi	ADV	Adv	_	5	advmod	_	GTtags=Clt,@ADVL>
+5	nuâll	nuõllâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
+6	,	,	PUNCT	CLB	_	8	punct	_	_
+7	tok	tok	ADV	Adv	_	8	advmod:lmod	_	GTtags=@ADVL>
+8	ǩeâss	ǩiõssâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	conj	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
+9	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = kotus-skak2010-1-3:6
+# story_id = ČEÄKKLEEMAAINÂS:12:1:1
+# text = ”Ǩiõzzam ǩiõzzam čuõlmmääm, ǩiõzzam ǩiõzzam čuõlmmääm” toʹb kollai “ǩiõzzam ǩiõzzam čuõlmmääm, ǩiõzzam ǩiõzzam čuõlmmääm.”
+1	”	”	PUNCT	PUNCT	_	2	punct	_	GTtags=RIGHT|SpaceAfter=No
+2	Ǩiõzzam	ǩiõssâd	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg1,@+FMAINV
+3	ǩiõzzam	ǩiõssâd	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg1,@+FMAINV
+4	čuõlmmääm	čuõlmmeed	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg1,@+FMAINV|SpaceAfter=No
+5	,	,	PUNCT	CLB	_	6	punct	_	_
+6	ǩiõzzam	ǩiõssâd	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg1,@+FMAINV
+7	ǩiõzzam	ǩiõssâd	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	conj	_	GTtags=Ind,Prs,Sg1,@+FMAINV
+8	čuõlmmääm	čuõlmmeed	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	conj	_	GTtags=Ind,Prs,Sg1,@+FMAINV|SpaceAfter=No
+9	”	”	PUNCT	PUNCT	_	6	punct	_	GTtags=RIGHT
+10	toʹb	toʹb	ADV	Adv	_	11	advmod:lmod	_	GTtags=@ADVL>
+11	kollai	kollʼjed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3,@+FMAINV
+12	“	“	PUNCT	PUNCT	_	13	punct	_	GTtags=LEFT|SpaceAfter=No
+13	ǩiõzzam	ǩiõssâd	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	11	conj	_	GTtags=Ind,Prs,Sg1,@+FMAINV
+14	ǩiõzzam	ǩiõssâd	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	13	conj	_	GTtags=Ind,Prs,Sg1,@+FMAINV
+15	čuõlmmääm	čuõlmmeed	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	13	conj	_	GTtags=Ind,Prs,Sg1,@+FMAINV|SpaceAfter=No
+16	,	,	PUNCT	CLB	_	17	punct	_	_
+17	ǩiõzzam	ǩiõssâd	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	13	conj	_	GTtags=Ind,Prs,Sg1,@+FMAINV
+18	ǩiõzzam	ǩiõssâd	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	17	conj	_	GTtags=Ind,Prs,Sg1,@+FMAINV
+19	čuõlmmääm	čuõlmmeed	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	17	conj	_	GTtags=Ind,Prs,Sg1,@+FMAINV|SpaceAfter=No
+20	.	.	PUNCT	CLB	_	2	punct	_	SpaceAfter=No
+21	”	”	PUNCT	PUNCT	_	2	punct	_	GTtags=RIGHT
+
+# sent_id = kotus-skak2010-1-3:7
+# story_id = ČEÄKKLEEMAAINÂS:12:1:1
+# text = De ko poott, tõt pââjas ko ǩieʹzzškuätt, de čeäkkli eett, puätt, son lij mâʹte ooumaž.
+1	De	de	CCONJ	CC	_	3	cc	_	_
+2	ko	ko	SCONJ	CS	_	3	mark	_	GTtags=@CVP
+3	poott	puuʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	advcl:tmod	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
+4	,	,	PUNCT	CLB	_	8	punct	_	_
+5	tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	8	nsubj	_	GTtags=Dem,Sg,Nom,@<SUBJ
+6	pââjas	pââjas	ADV	Adv	_	8	advmod	_	_
+7	ko	ko	SCONJ	CS	_	8	mark	_	GTtags=@CVP
+8	ǩieʹzzškuätt	ǩieʹzškueʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
+9	,	,	PUNCT	CLB	_	3	punct	_	_
+10	de	de	CCONJ	CC	_	12	advmod	_	GTtags=@CVP
+11	čeäkkli	čeäkkled	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	nsubj	_	GTtags=Ind,Prt,Sg3,@+FMAINV
+12	eett	eeʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
+13	,	,	PUNCT	CLB	_	14	punct	_	_
+14	puätt	pueʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	conj	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
+15	,	,	PUNCT	CLB	_	19	punct	_	_
+16	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	19	nsubj:cop	_	GTtags=Pers,Sg3,Nom,@<SUBJ
+17	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	cop	_	GTtags=Ind,Prs,Sg3,@+FMAINV
+18	mâʹte	mâʹte	ADV	Adv	_	19	advmod	_	GTtags=@<ADVL
+19	ooumaž	ooumaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	12	conj	_	GTtags=Sem/Hum,Sg,Nom,@<SUBJ|SpaceAfter=No
+20	.	.	PUNCT	CLB	_	12	punct	_	_
+
+# sent_id = kotus-skak2010-1-3:8
+# story_id = ČEÄKKLEEMAAINÂS:12:1:1
+# text = Puätt, de tõt ooumaž väldd dõnnõǥškuätt što ”mâiʹd pooutak?”
+1	Puätt	pueʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
+2	,	,	PUNCT	CLB	_	6	punct	_	_
+3	de	de	ADV	Adv	_	6	advmod	_	GTtags=@CVP
+4	tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	5	det	_	GTtags=Dem,Sg,Nom,@<SUBJ
+5	ooumaž	ooumaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	6	nsubj	_	GTtags=Sem/Hum,Sg,Nom
+6	väldd	väʹldd	NOUN	N	Case=Nom|Number=Sing	1	conj	_	GTtags=Sg,Nom
+7	dõnnõǥškuätt	dõnõõkkâd	VERB	V	Derivation=InchL|Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	conj	_	GTtags=Der/InchL,Ind,Prs,Sg3,@+FMAINV
+8	što	što	SCONJ	CS	_	11	mark	_	GTtags=@CVP
+9	”	”	PUNCT	PUNCT	_	11	punct	_	GTtags=RIGHT|SpaceAfter=No
+10	mâiʹd	mâiʹd	PRON	Pron	PronType=Int	11	obj	_	GTtags=Interr
+11	pooutak	puʹhtted	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	7	ccomp	_	GTtags=Ind,Prs,Sg2,@+FMAINV|SpaceAfter=No
+12	?	?	PUNCT	CLB	_	11	punct	_	SpaceAfter=No
+13	”	”	PUNCT	PUNCT	_	1	punct	_	GTtags=RIGHT
+
+# sent_id = kotus-skak2010-1-3:9
+# story_id = ČEÄKKLEEMAAINÂS:12:1:1
+# text = Na son âʹtte pohtt puk jällmõõžžâz toʹben, pohtt, pohtt, pohtt, pohtt tõzz ool de iʹlmstââvv.
+1	Na	na	INTJ	Interj	_	4	discourse	_	_
+2	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	GTtags=Pers,Sg3,Nom
+3	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	4	advmod:tmod	_	GTtags=Sem/Time,@ADVL>
+4	pohtt	puʹhtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3,@+FMAINV
+5	puk	puk	PRON	Pron	Case=Nom|Number=Sing	6	det	_	GTtags=Pron,Sg,Nom
+6	jällmõõžžâz	jällmõš	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Plur|Person[psor]=3	4	obj	_	GTtags=Sg,Acc,PxPl3,@OBJ>
+7	toʹben	toʹben	ADV	Adv	_	4	advmod:lmod	_	GTtags=@ADVL>|SpaceAfter=No
+8	,	,	PUNCT	CLB	_	9	punct	_	_
+9	pohtt	puʹhtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	conj	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
+10	,	,	PUNCT	CLB	_	11	punct	_	_
+11	pohtt	puʹhtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	conj	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
+12	,	,	PUNCT	CLB	_	13	punct	_	_
+13	pohtt	puʹhtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	conj	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
+14	,	,	PUNCT	CLB	_	15	punct	_	_
+15	pohtt	puʹhtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	conj	_	GTtags=Ind,Prs,Sg3,@+FMAINV
+16	tõzz	tõzz	ADV	Adv	_	15	obl:lmod	_	GTtags=@ADVL>
+17	ool	ool	ADV	Adv	_	16	appos	_	_
+18	de	de	CCONJ	CC	_	19	cc	_	GTtags=@CVP
+19	iʹlmstââvv	iʹlmstõõvvâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	conj	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
+20	.	.	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = kotus-skak2010-1-3:10
+# story_id = ČEÄKKLEEMAAINÂS:12:1:1
+# text = De ceälkk što ”jiânnai-a vääldak?”
+1	De	de	ADV	Adv	_	2	advmod	_	_
+2	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3,@+FMAINV
+3	što	što	SCONJ	CS	_	6	mark	_	GTtags=@CVP
+4	”	”	PUNCT	PUNCT	_	6	punct	_	GTtags=RIGHT|SpaceAfter=No
+5	jiânnai-a	jiânnai	PRON	Pron	Clitic=QstA	6	obj	_	GTtags=Qst/a,@ADVL>
+6	vääldak	väʹldded	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	2	ccomp	_	GTtags=Ind,Prs,Sg2,@+FMAINV|SpaceAfter=No
+7	?	?	PUNCT	CLB	_	6	punct	_	SpaceAfter=No
+8	”	”	PUNCT	PUNCT	_	2	punct	_	GTtags=RIGHT
+
+# sent_id = kotus-skak2010-1-3:11
+# story_id = ČEÄKKLEEMAAINÂS:12:1:1
+# text = Tõt ooumaž ceälkk, jos ij täätt puk väʹldded, ceälkk što ”no peäʹl vääldam, peäʹl jällmõõžž vääldam.”
+1	Tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	2	det	_	GTtags=Dem,Sg,Nom
+2	ooumaž	ooumaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	3	nsubj	_	GTtags=Sem/Hum,Sg,Nom
+3	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
+4	,	,	PUNCT	CLB	_	7	punct	_	_
+5	jos	jos	SCONJ	CS	_	7	mark	_	GTtags=@CVP
+6	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	7	aux:neg	_	GTtags=Neg,Ind,Sg3,@+FAUXV
+7	täätt	tättad	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	3	advcl	_	GTtags=Ind,Prs,ConNeg,@+FAUXV
+8	puk	puk	PRON	Pron	Case=Nom|Number=Sing	9	obj	_	GTtags=Pron,Sg,Nom,@<SUBJ
+9	väʹldded	väʹldded	VERB	V	VerbForm=Inf	7	xcomp	_	GTtags=Inf,@-FMAINV|SpaceAfter=No
+10	,	,	PUNCT	CLB	_	7	punct	_	_
+11	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,Sg3,@+FMAINV
+12	što	što	SCONJ	CS	_	16	mark	_	GTtags=@CVP
+13	”	”	PUNCT	PUNCT	_	16	punct	_	GTtags=RIGHT|SpaceAfter=No
+14	no	no	INTJ	Interj	_	16	discourse	_	_
+15	peäʹl	pieʹll	NOUN	N	Case=Acc|Number=Sing	16	obj	_	GTtags=Sg,Acc,@OBJ>
+16	vääldam	väʹldded	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	11	ccomp	_	GTtags=Ind,Prs,Sg1,@+FMAINV|SpaceAfter=No
+17	,	,	PUNCT	CLB	_	20	punct	_	_
+18	peäʹl	pieʹll	NOUN	N	Case=Acc|Number=Sing	19	nmod	_	GTtags=Sg,Acc,@OBJ>
+19	jällmõõžž	jällmõš	NOUN	N	Case=Acc|Number=Sing	20	obj	_	GTtags=Sg,Acc,@OBJ>
+20	vääldam	väʹldded	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	16	conj	_	GTtags=Ind,Prs,Sg1,@+FMAINV|SpaceAfter=No
+21	.	.	PUNCT	CLB	_	3	punct	_	SpaceAfter=No
+22	”	”	PUNCT	PUNCT	_	3	punct	_	GTtags=RIGHT
+
+# sent_id = kotus-skak2010-1-3:12
+# story_id = ČEÄKKLEEMAAINÂS:12:1:1
+# text = A kååʹtt ko lij... nuʹt še lij kaađâš ooumaž ko lij što ”mon puk-i vääldam”.
+1	A	a	CCONJ	CC	_	10	cc	_	_
+2	kååʹtt	kååʹtt	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	10	nsubj	_	GTtags=Rel,Sg,Nom
+3	ko	ko	SCONJ	CS	_	4	mark	_	GTtags=@CVP
+4	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	reparandum	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
+5	...	...	PUNCT	CLB	_	4	punct	_	_
+6	nuʹt	nuʹtt	ADV	Adv	_	10	advmod	_	GTtags=Err/Orth,@ADVL>
+7	še	še	ADV	Adv	_	6	discourse	_	GTtags=@ADVL>
+8	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	cop	_	GTtags=Ind,Prs,Sg3,@+FMAINV
+9	kaađâš	kaađâš	ADJ	A	_	10	amod	_	_
+10	ooumaž	ooumaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	0	root	_	GTtags=Sem/Hum,Sg,Nom,@<SUBJ
+11	ko	ko	SCONJ	CS	_	17	mark	_	GTtags=@CVP
+12	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	17	cop	_	GTtags=Ind,Prs,Sg3,@+FMAINV
+13	što	što	SCONJ	CS	_	17	mark	_	GTtags=@CVP
+14	”	”	PUNCT	PUNCT	_	17	punct	_	GTtags=RIGHT|SpaceAfter=No
+15	mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	GTtags=Pers,Sg1,Nom
+16	puk-i	puk	PRON	Pron	Case=Nom|Clitic=AddI|Number=Sing	17	obj	_	GTtags=Pron,Sg,Nom,Clt
+17	vääldam	väʹldded	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	10	conj	_	GTtags=Ind,Prs,Sg1,@+FMAINV|SpaceAfter=No
+18	”	”	PUNCT	PUNCT	_	17	punct	_	GTtags=RIGHT|SpaceAfter=No
+19	.	.	PUNCT	CLB	_	10	punct	_	_
+
+# sent_id = kotus-skak2010-1-3:13
+# story_id = ČEÄKKLEEMAAINÂS:12:1:1
+# text = Näʹde son âʹtte puk oudd, di jiõčč tietenki tok kuättses mâânn, leša tõʹst ij šõõdd šiõǥǥ jieʹllem, puk ku väldd čeäkklee jällmõõžž.
+1	Näʹde	näʹde	INTJ	Interj	_	5	discourse	_	_
+2	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	GTtags=Pers,Sg3,Nom
+3	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	GTtags=Sem/Time,@ADVL>
+4	puk	puk	PRON	Pron	Case=Nom|Number=Sing	5	obj	_	GTtags=Pron,Sg,Nom
+5	oudd	uʹvdded	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
+6	,	,	PUNCT	CLB	_	12	punct	_	_
+7	di	di	CCONJ	CC	_	12	cc	_	GTtags=@CVP
+8	jiõčč	jiõčč	PRON	Pron	Case=Nom|Number=Sing|PronType=Refl	12	nsubj	_	GTtags=Refl,Sg,Nom,@<SUBJ
+9	tietenki	tietenki	ADV	Adv	_	12	discourse	_	_
+10	tok	tok	ADV	Adv	_	12	advmod	_	GTtags=@ADVL>
+11	kuättses	kueʹtt	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	obl:lmod	_	GTtags=Sg,Ill,PxSg3,@ADVL>
+12	mâânn	mõõnnâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	conj	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
+13	,	,	PUNCT	CLB	_	17	punct	_	_
+14	leša	leša	CCONJ	CC	_	17	cc	_	GTtags=@CVP
+15	tõʹst	tõʹst	ADV	Adv	_	17	advmod:lmod	_	GTtags=@ADVL>
+16	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	17	aux:neg	_	GTtags=Neg,Ind,Sg3,@+FAUXV
+17	šõõdd	šõddâd	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	12	conj	_	GTtags=Ind,Prs,ConNeg,@+FMAINV
+18	šiõǥǥ	šiõǥǥ	ADJ	A	_	19	amod	_	GTtags=Attr
+19	jieʹllem	jieʹllem	NOUN	N	Case=Nom|Number=Sing	17	nsubj	_	GTtags=Sg,Nom,@<SUBJ|SpaceAfter=No
+20	,	,	PUNCT	CLB	_	23	punct	_	_
+21	puk	puk	PRON	Pron	Case=Nom|Number=Sing	23	nsubj	_	GTtags=Pron,Sg,Nom,@<SUBJ
+22	ku	ku	SCONJ	CS	_	23	mark	_	GTtags=@CVP
+23	väldd	väʹldded	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	17	advcl	_	GTtags=Ind,Prs,Sg3,@+FMAINV
+24	čeäkklee	čeäkkli	NOUN	N	Case=Gen|Number=Sing	25	nmod:poss	_	GTtags=Sg,Gen
+25	jällmõõžž	jällmõš	NOUN	N	Case=Acc|Number=Sing	23	obj	_	GTtags=Sg,Acc,@<OBJ|SpaceAfter=No
+26	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = kotus-skak2010-1-3:14
+# story_id = ČEÄKKLEEMAAINÂS:12:1:1
+# text = Tõzz ij šõõdd šiõǥǥ jieʹllem, mutta kååʹtt ko peäʹl väldd tai kuälmõõzz ko väldd ni tõt lij reeʹǧǧesvuõtt ja šiõǥǥ jieʹllem lij tõn oummust.
+1	Tõzz	tõzz	ADV	Adv	_	3	obl:lmod	_	GTtags=@ADVL>
+2	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	3	aux:neg	_	GTtags=Neg,Ind,Sg3,@+FAUXV
+3	šõõdd	šõddâd	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	0	root	_	GTtags=Ind,Prs,ConNeg,@+FMAINV
+4	šiõǥǥ	šiõǥǥ	ADJ	A	_	5	amod	_	GTtags=Attr
+5	jieʹllem	jieʹllem	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	GTtags=Sg,Nom,@<SUBJ|SpaceAfter=No
+6	,	,	PUNCT	CLB	_	11	punct	_	_
+7	mutta	mutta	CCONJ	_	_	11	cc	_	GTtags=CC
+8	kååʹtt	kååʹtt	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	11	nsubj	_	GTtags=Rel,Sg,Nom,@<SUBJ
+9	ko	ko	SCONJ	CS	_	11	mark	_	GTtags=@CVP
+10	peäʹl	pieʹll	NOUN	N	Case=Acc|Number=Sing	11	obj	_	GTtags=Sg,Acc,@OBJ>
+11	väldd	väʹldded	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	advcl	_	GTtags=Ind,Prs,Sg3,@+FMAINV
+12	tai	tai	CCONJ	CC	_	15	cc	_	_
+13	kuälmõõzz	kuälmõs	NOUN	N	Case=Acc|Number=Sing	15	obj	_	GTtags=Sg,Acc,@OBJ>
+14	ko	ko	SCONJ	CS	_	15	mark	_	GTtags=@CVP
+15	väldd	väʹldded	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	conj	_	GTtags=Ind,Prs,Sg3,@+FMAINV
+16	ni	ni	ADV	Adv	_	19	advmod	_	_
+17	tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	19	nsubj:cop	_	GTtags=Dem,Sg,Nom,@<SUBJ
+18	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	cop	_	GTtags=Ind,Prs,Sg3,@+FMAINV
+19	reeʹǧǧesvuõtt	reeʹǧǧesvuõtt	NOUN	N	Case=Nom|Number=Sing	3	conj	_	GTtags=Sg,Nom,@<SUBJ
+20	ja	ja	CCONJ	CC	_	25	cc	_	GTtags=@CVP
+21	šiõǥǥ	šiõǥǥ	ADJ	A	_	22	amod	_	GTtags=Attr
+22	jieʹllem	jieʹllem	NOUN	N	Case=Nom|Number=Sing	25	nsubj:cop	_	GTtags=Sg,Nom,@<SUBJ
+23	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	25	cop	_	GTtags=Ind,Prs,Sg3,@+FMAINV
+24	tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	25	det	_	GTtags=Dem,Sg,Gen
+25	oummust	ooumaž	NOUN	N	Case=Loc|Number=Sing	3	conj	_	GTtags=Sg,Loc|SpaceAfter=No
+26	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = kotus-skak2010-1-3:15
+# story_id = ČEÄKKLEEMAAINÂS:12:1:1
+# text = Joo mon tõn räjja teâđam, jäänab jiõm tieʹđ.
+1	Joo	joo	INTJ	Interj	_	5	discourse	_	_
+2	mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	GTtags=Pers,Sg1,Nom,@<SUBJ
+3	tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	5	obl	_	GTtags=Dem,Sg,Gen
+4	räjja	räjja	ADP	Po	_	3	case	_	_
+5	teâđam	tieʹtted	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg1,@+FMAINV|SpaceAfter=No
+6	,	,	PUNCT	CLB	_	9	punct	_	_
+7	jäänab	jäänab	DET	Det	_	9	obj	_	GTtags=@ADVL>
+8	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	9	aux:neg	_	GTtags=Neg,Ind,Sg1,@+FAUXV
+9	tieʹđ	tieʹtted	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	5	conj	_	GTtags=Ind,Prs,ConNeg,@+FMAINV|SpaceAfter=No
+10	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = kotus-skak2010-1-3:16
+# story_id = ČEÄKKLEEMAAINÂS:12:1:1
+# text = Mutta mon jiõm muuʹšt mainsted puârast.
+1	Mutta	mutta	CCONJ	_	_	4	cc	_	GTtags=CC
+2	mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	GTtags=Pers,Sg1,Nom
+3	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	4	aux:neg	_	GTtags=Neg,Ind,Sg1,@+FAUXV
+4	muuʹšt	muʹštted	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	0	root	_	GTtags=Ind,Prs,ConNeg,@+FMAINV
+5	mainsted	mainsted	VERB	V	VerbForm=Inf	4	xcomp	_	GTtags=Inf
+6	puârast	puârast	ADV	Adv	_	5	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	4	punct	_	_
 
