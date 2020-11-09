@@ -1247,23 +1247,17 @@
 2	jåått	jååʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
 3	di	di	CCONJ	CC	_	4	cc	_	_
 4	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
-5	,	,	PUNCT	CLB	_	11	punct	_	_
-6	što	što	SCONJ	CS	_	11	mark	_	_
-7	tueʹllj	tueʹllj	NOUN	N	Case=Acc|Number=Sing	11	nsubj:pass	_	GTtags=Sg,Acc
-8-10	i-ǥõl	_	_	_	_	_	_	_	_
-8	i	ij	AUX	_	_	11	aux:neg	_	_
-9	-	-	PUNCT	_	_	8	punct	_	_
-10	ǥõl	ǥõl	VERB	_	_	8	fixed	_	_
-11	kooǯǯted	kooǯǯted	VERB	V	VerbForm=Inf	4	ccomp	_	GTtags=Inf|SpaceAfter=No
-12	,	,	PUNCT	CLB	_	18	punct	_	_
-13	kåʹddtueʹllj	kåʹddtueʹllj	NOUN	N	Case=Acc|Number=Sing	18	nsubj:pass	_	GTtags=Sg,Acc
-14-16	i-ǥõl	_	_	_	_	_	_	_	_
-14	i	ij	AUX	_	_	18	aux:neg	_	_
-15	-	-	PUNCT	_	_	14	punct	_	_
-16	ǥõl	ǥõl	VERB	_	_	14	fixed	_	_
-17	pärnna	päʹrnn	NOUN	N	Animacy=Hum|Case=Ill|Number=Sing	18	obl:agent	_	GTtags=Sem/Kin,Sg,Ill
-18	kooǯǯted	kooǯǯted	VERB	V	VerbForm=Inf	11	appos	_	GTtags=Inf|SpaceAfter=No
-19	.	.	PUNCT	CLB	_	2	punct	_	_
+5	,	,	PUNCT	CLB	_	9	punct	_	_
+6	što	što	SCONJ	CS	_	9	mark	_	_
+7	tueʹllj	tueʹllj	NOUN	N	Case=Acc|Number=Sing	9	nsubj:pass	_	GTtags=Sg,Acc
+8	i-ǥõl	i-ǥõl	AUX	V	_	9	aux:neg	_	_
+9	kooǯǯted	kooǯǯted	VERB	V	VerbForm=Inf	4	ccomp	_	GTtags=Inf|SpaceAfter=No
+10	,	,	PUNCT	CLB	_	14	punct	_	_
+11	kåʹddtueʹllj	kåʹddtueʹllj	NOUN	N	Case=Acc|Number=Sing	14	nsubj:pass	_	GTtags=Sg,Acc
+12	i-ǥõl	i-ǥõl	AUX	_	_	14	aux	_	_
+13	pärnna	päʹrnn	NOUN	N	Animacy=Hum|Case=Ill|Number=Sing	14	obl:agent	_	GTtags=Sem/Kin,Sg,Ill
+14	kooǯǯted	kooǯǯted	VERB	V	VerbForm=Inf	9	appos	_	GTtags=Inf|SpaceAfter=No
+15	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = kotus-skak2010-1-2:5-4
 # story_id = KÅÅʹDD MAAINÂS:11:5:4
