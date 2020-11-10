@@ -1541,7 +1541,7 @@
 19	väʒʒ	väʹʒʒed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	24	advcl	_	GTtags=Ind,Prs,Sg3,@+FMAINV
 20	de	de	CCONJ	CC	_	24	cc	_	_
 21	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	24	aux:neg	_	GTtags=Neg,Ind,Sg3,@+FAUXV
-22	ni	ni	AUX	Pcle	_	23	aux:neg	_	_
+22	ni	ni	PART	Pcle	_	23	advmod:neg	_	_
 23	mii	mii	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	24	nsubj	_	GTtags=Rel,Sg,Nom,@<SUBJ
 24	kueʹst	kueʹstted	VERB	V	Mood=Imp|Number=Sing|Person=2	10	conj	_	GTtags=Imprt,Sg2,@+FMAINV|SpaceAfter=No
 25	.	.	PUNCT	CLB	_	10	punct	_	_
