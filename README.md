@@ -35,13 +35,15 @@ however, we would be no where…
 ## References
 
 * Eino Koponen, Jouni Moshnikoff & Satu Moshnikoff. 2010: Sääʹmǩiõll, äʹrbbǩiõll.Helsinki: (Kotimaisten kielten keskus) Institute for the Languages of Finland. Dommjânnmlaž ǩiõli tuʹtǩǩeemkõõskõs. Online publications of the Institute for the Languages of Finland, 14. ISSN 1796-041X. URL: http://scripta.kotus.fi/www/verkkojulkaisut/julk14/
-
+* Pekka Sammallahti, Jouni Moshnikoff. 1991: Suomi-Koltansaame sanakirja / Lääʹdd-sääʹm sääʹnnǩeʹrjj [Finnish-Skolt Sámi Dictionary]. Girjegiisá Oy. Ohcejohka.
 
 * (citation)
 
 
 # Changelog
 
+* 2020-11-15 v2.7
+  * Adding stories from Sääʹmǩiõll, äʹrbbǩiõll
 * 2020-05-15 v2.6
   * Adding two stories from Sääʹmǩiõll, äʹrbbǩiõll: Kämmǥa Maainâs, Kååʹdd Maainâs
   * Expanding advmod:mmod, :lmod, :tmod and adding NameTypes.

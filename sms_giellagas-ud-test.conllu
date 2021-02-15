@@ -1233,7 +1233,7 @@
 1	Di	di	CCONJ	CC	_	4	cc	_	_
 2	kaavân	kaav	NOUN	N	Animacy=Hum|Case=Ess	4	xcomp	_	GTtags=Sem/Kin,Ess
 3	ǥu	ǥu	SCONJ	CS	_	4	mark	_	_
-4	vaaʹldi	väʹldded	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	8	advcl:tmod	_	GTtags=Ind,Prt,Sg3
+4	vaaʹldi	väʹldded	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	8	advcl:tcl	_	GTtags=Ind,Prt,Sg3
 5	de	de	CCONJ	CC	_	8	cc	_	_
 6	ton	ton	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	GTtags=Pers,Sg2,Nom
 7	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	8	advmod:tmod	_	GTtags=Sem/Time
@@ -1611,7 +1611,7 @@
 # text = De ko poott, tõt pââjas ko ǩieʹzzškuätt, de čeäkkli eett, puätt, son lij mâʹte ooumaž.
 1	De	de	CCONJ	CC	_	3	cc	_	_
 2	ko	ko	SCONJ	CS	_	3	mark	_	GTtags=@CVP
-3	poott	puuʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	advcl:tmod	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
+3	poott	puuʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	advcl:tcl	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	8	punct	_	_
 5	tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	8	nsubj	_	GTtags=Dem,Sg,Nom,@<SUBJ
 6	pââjas	pââjas	ADV	Adv	_	8	advmod	_	_
