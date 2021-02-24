@@ -645,7 +645,7 @@
 5	tok	tok	DET	Det	Case=Nom|Number=Plur	13	advmod	_	GTtags=Pl,Nom
 6	kuäʹđ	kueʹtt	NOUN	N	Case=Nom|Number=Plur	13	obj	_	GTtags=Pl,Nom|SpaceAfter=No
 7	...	...	PUNCT	PUNCT	_	6	punct	_	_
-8	jiijjâs	jiõčč	ADJ	A	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	amod	_	GTtags=Refl,Acc,Sg3
+8	jiijjâs	jiõčč	DET	Det	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	amod	_	GTtags=Refl,Acc,Sg3
 9	kuäʹđ	kueʹtt	NOUN	N	Case=Acc|Number=Sing	6	reparandum	_	GTtags=Sg,Acc
 10	jeeʹres	jeeʹres·årra	DET	Det	_	11	det	_	_
 11	årra	_	NOUN	N	_	13	obl:lmod	_	_
@@ -857,7 +857,7 @@
 15	de	de	CCONJ	CC	_	17	cc	_	_
 16	tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	17	expl	_	GTtags=Dem,Sg,Nom
 17	šõõddi	šõddâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	14	conj	_	GTtags=Ind,Prt,Sg3
-18	kämmǥa	kämmǥaž	NOUN	N	Case=Gen|Number=Sing	19	nmod:part	_	GTtags=Sg,Gen
+18	kämmǥa	kämmǥaž	NOUN	N	Case=Gen|Number=Sing	19	nmod	_	GTtags=Sg,Gen
 19	peäʹlǧǧ	peäʹlǧǧ	NOUN	N	Case=Nom|Number=Sing	17	nsubj	_	GTtags=Sem/Body,Sg,Nom|SpaceAfter=No
 20	.	.	PUNCT	CLB	_	3	punct	_	_
 
