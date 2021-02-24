@@ -30,7 +30,7 @@
 2	ǩiččlõõddi	ǩiččlõddâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 3	looppted	looppted	VERB	V	VerbForm=Inf	2	xcomp	_	GTtags=Inf
 4	tääbbaǩ	tääbbaǩ	NOUN	N	Case=Gen|Number=Sing	5	obj	_	GTtags=Sg,Gen
-5	puälddmõõžž	pueʹldded	VERB	V	Case=Acc|Derivation=Vnoun|Number=Sing	3	obj	_	GTtags=Sg,Acc
+5	puälddmõõžž	pueʹldded	VERB	V	Case=Acc|Number=Sing|VerbForm=Vnoun	3	obj	_	GTtags=Sg,Acc
 6	da	da	CCONJ	CC	_	8	cc	_	_
 7	veeiʹn	veiʹnn	NOUN	N	Case=Gen|Number=Sing	8	obj	_	GTtags=Sg,Gen
 8	juukkmõõžž	juukkmõš	NOUN	N	Case=Acc|Number=Sing	5	conj	_	GTtags=Sg,Acc|SpaceAfter=No
@@ -906,7 +906,7 @@
 1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj:cop	_	GTtags=Pers,Sg3,Nom
 2	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	cop	_	GTtags=Ind,Prt,Sg3
 3	pieʹʒʒid	pieʹcc	NOUN	N	Case=Acc|Number=Plur	4	obj	_	GTtags=Pl,Acc
-4	vueʹtǩǩmen	vueʹtǩǩed	VERB	V	Case=Ess|Derivation=Vnoun	0	root	_	GTtags=Actio,Ess|SpaceAfter=No
+4	vueʹtǩǩmen	vueʹtǩǩed	VERB	V	Case=Ess|Derivation=Men	0	root	_	GTtags=Actio,Ess|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id = kotus-skak2010-1-2:1-2
@@ -928,7 +928,7 @@
 2	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	cop	_	GTtags=Ind,Prt,Sg3
 3	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	0	root	_	GTtags=Sg,Loc
 4	pieʹʒʒ	pieʹcc	NOUN	N	Case=Acc|Number=Sing	5	obj	_	GTtags=Sg,Acc
-5	vueʹtǩǩmen	vueʹtǩǩed	VERB	V	Case=Ess|Derivation=Vnoun	3	conj	_	GTtags=Actio,Ess|SpaceAfter=No
+5	vueʹtǩǩmen	vueʹtǩǩed	VERB	V	Case=Ess|Derivation=Men	3	conj	_	GTtags=Actio,Ess|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	8	punct	_	_
 7	ooumaž	ooumaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	8	nsubj	_	GTtags=Sem/Hum,Sg,Nom
 8	puõʹđi	pueʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	GTtags=Ind,Prt,Sg3
@@ -1213,7 +1213,7 @@
 20	mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	23	nsubj	_	GTtags=Pers,Sg1,Nom
 21	leʹjjem	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	23	aux	_	GTtags=Ind,Prt,Sg1
 22	pieʹʒʒ	pieʹcc	NOUN	N	Case=Acc|Number=Sing	23	obj	_	GTtags=Sg,Acc
-23	vueʹtǩǩmen	vueʹtǩǩed	VERB	V	Case=Ess|Derivation=Vnoun	11	conj	_	GTtags=Actio,Ess
+23	vueʹtǩǩmen	vueʹtǩǩed	VERB	V	Case=Ess|Derivation=Men	11	conj	_	GTtags=Actio,Ess
 24	de	de	CCONJ	CC	_	28	cc	_	_
 25	eččad	eʹčč	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	28	nsubj	_	GTtags=Kin,Sem/Kin,Sg,Nom,PxSg2
 26	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	28	aux	_	GTtags=Ind,Prt,Sg3
@@ -1505,7 +1505,7 @@
 # text = Oummu liâ jååʹttmen di ǩeäzz ko son tätt čuäjtõõttâd de tõt-i vuâmmaš.
 1	Oummu	ooumaž	NOUN	N	Case=Nom|Number=Plur	3	nsubj	_	GTtags=Pl,Nom
 2	liâ	leeʹd	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	aux	_	GTtags=Ind,Prs,Pl3
-3	jååʹttmen	jååʹtted	VERB	V	Case=Ess|Derivation=Vnoun	0	root	_	GTtags=Actio,Ess
+3	jååʹttmen	jååʹtted	VERB	V	Case=Ess|Derivation=Men	0	root	_	GTtags=Actio,Ess
 4	di	di	CCONJ	CC	_	8	cc	_	_
 5	ǩeäzz	ǩii	PRON	Pron	Case=Ill|Number=Sing|PronType=Rel	9	obl	_	GTtags=Rel,Sg,Ill
 6	ko	ko	SCONJ	CS	_	8	mark	_	_
