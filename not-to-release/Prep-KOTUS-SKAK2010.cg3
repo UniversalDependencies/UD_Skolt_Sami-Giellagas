@@ -20,15 +20,12 @@
 	"de" CC @CVP
 "<tõn>"
 	"tõt" Pron Dem Sg Acc @OBJ>
-	"tõt" Pron Dem Sg Gen
 "<ääkka>"
 	"ääkkaž" N Sem/Hum Sg Acc @OBJ>
-	"ääkkaž" N Sem/Hum Sg Gen
 "<håiddmen>"
 	"håiddad" V Actio Ess
 "<âma>"
 	"âma" Adv @ADVL>
-	"âma" Pcle
 "<lij>"
 	"leeʹd" V Ind Prs Sg3 @+FMAINV
 "<niõđâž>"
@@ -42,21 +39,15 @@
 "<liâ>"
 	"leeʹd" V Ind Prs Pl3 @+FMAINV
 "<teâđast>"
-	"teâtt" N Sg Loc
 	"teâđast" Adv @<ADVL
-	"teâđsted" V Ind Prs Sg3 @+FMAINV
 "<dõõk>"
 	"dõõt" Pron Pron Pl Nom @<SUBJ
 "<...>"
 	"..." CLB
 "<a>"
-	"a"
 	"a" CC
-	"a" N ABBR
-	"a" Pcle
 "<hoiʹddje>"
 	"hoiʹddjed" V Ind Prs Pl3 @+FMAINV
-	"hoiʹddjed" V Ind Prt Pl3 @+FMAINV
 "<toʹben>"
 	"toʹben" Adv @<ADVL
 "<...>"
@@ -80,10 +71,8 @@
 	"leeʹd" V Ind Prs Sg3 @+FMAINV
 "<tõn>"
 	"tõt" Pron Dem Sg Acc @OBJ>
-	"tõt" Pron Dem Sg Gen
 "<niõđ>"
 	"nijdd" N Sem/Kin Sg Acc @OBJ>
-	"nijdd" N Sem/Kin Sg Gen
 "<teâđstam>"
 	"teâđsted" V Act PrfPrc
 "<di>"
@@ -92,10 +81,8 @@
 	"son" Pron Pers Sg3 Nom @<SUBJ
 "<tõn>"
 	"tõt" Pron Dem Sg Acc @OBJ>
-	"tõt" Pron Dem Sg Gen
 "<niõđ>"
 	"nijdd" N Sem/Kin Sg Acc @OBJ>
-	"nijdd" N Sem/Kin Sg Gen
 "<vuõddmâstõlškuõʹđi>"
 	"vuõddmâstõõllâd" V Der/InchL Ind Prt Sg3 @+FMAINV
 "<ja>"
@@ -106,14 +93,10 @@
 	"son" Pron Pers Sg3 Nom @<SUBJ
 "<mâŋŋa>"
 	"mâŋŋa" Adv Sem/Time @ADVL>
-	"mâŋŋa" Pr Temp <loc>
 "<vaaʹldi>"
-	"väʹldd" N Pl Gen
 	"väʹldded" V Ind Prt Sg3 @+FMAINV
 "<kaavân>"
 	"kaav" N Sem/Kin Ess
-	"kaavv" N Sg Acc PxPl1 @<OBJ
-	"kaavv" N Sg Gen PxPl1
 "<.>"
 	"." CLB
 
@@ -126,23 +109,19 @@
 "<âʹtte>"
 	"âʹtte" Adv Sem/Time @ADVL>
 "<gõs>"
-	"gõs" ?
+	"gõs" Pcle
 "<tõn>"
 	"tõt" Pron Dem Sg Acc @OBJ>
-	"tõt" Pron Dem Sg Gen
 "<ääkka>"
 	"ääkkaž" N Sem/Hum Sg Acc @OBJ>
-	"ääkkaž" N Sem/Hum Sg Gen
 "<kâʹčče>"
 	"kõõččâd" V Ind Prs Pl3 @+FMAINV
-	"kõččâd" V Ind Prs Pl3 @+FMAINV
 "<,>"
 	"," CLB
 "<što>"
 	"što" CS @CVP
 "<koʹst>"
 	"koʹst" Adv Loc @ADVL>
-	"kååʹtt" Pron Rel Sg Loc
 "<lij>"
 	"leeʹd" V Ind Prs Sg3 @+FMAINV
 "<ja>"
@@ -157,7 +136,6 @@
 	"nijdd" N Sem/Kin Sg Nom
 "<šât>"
 	"šât" Adv @<ADVL
-	"šât" Pcle
 "<.>"
 	"." CLB
 
@@ -10642,8 +10620,6 @@
 "<leäi>"
 	"leeʹd" V Ind Prt Sg3 @+FMAINV
 "<rieʹmnj>"
-	"rieʹmjj" N Pl Nom
-	"rieʹmjj" N Sg Acc @OBJ>
 	"rieʹmjj" N Sg Gen
 "<maainâs>"
 	"maainâs" N Sg Nom
