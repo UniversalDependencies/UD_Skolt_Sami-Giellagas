@@ -178,10 +178,8 @@
 	"leeʹd" V Ind Prs Pl3 @+FMAINV
 "<tõn>"
 	"tõt" Pron Dem Sg Acc @OBJ>
-	"tõt" Pron Dem Sg Gen
 "<niõđ>"
 	"nijdd" N Sem/Kin Sg Acc @OBJ>
-	"nijdd" N Sem/Kin Sg Gen
 "<välddam>"
 	"väʹldded" V Act PrfPrc
 "<,>"
@@ -230,8 +228,6 @@
 	"“" PUNCT LEFT
 "<Mâiʹd>"
 	"mii" Pron Interr Sg Acc @OBJ>
-	"mâiʹd" Pron
-	"mâiʹd" Pron Pron Interr
 "<ääkka>"
 	"ääkkaž" N Sem/Hum Pl Nom
 	"ääkkaž" N Sem/Hum Sg Acc @OBJ>
