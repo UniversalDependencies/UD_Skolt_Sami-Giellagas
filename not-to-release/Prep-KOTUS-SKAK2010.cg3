@@ -1,62 +1,36 @@
 # sent_id = kotus-skak2010-1-4:1:1
 # text = Niõđâž âʹpet lij, de toʹben lij ääkkaž de tõn ääkka håiddmen âma lij niõđâž di ... tõk liâ teâđast dõõk... a hoiʹddje toʹben ...
-"<Niõđâž>"
-	"niõđâž" N Sg Nom @SUBJ>
-"<âʹpet>"
-	"âʹpet" Adv @ADVL>
-"<lij>"
-	"leeʹd" V Ind Prs Sg3 @+FMAINV
-"<,>"
-	"," CLB
-"<de>"
-	"de" CC @CVP
-"<toʹben>"
-	"toʹben" Adv @ADVL>
-"<lij>"
-	"leeʹd" V Ind Prs Sg3 @+FMAINV
-"<ääkkaž>"
-	"ääkkaž" N Sem/Hum Sg Nom @<SUBJ
-"<de>"
-	"de" CC @CVP
-"<tõn>"
-	"tõt" Pron Dem Sg Acc @OBJ>
-"<ääkka>"
-	"ääkkaž" N Sem/Hum Sg Acc @OBJ>
-"<håiddmen>"
-	"håiddad" V Actio Ess
-"<âma>"
-	"âma" Adv @ADVL>
-"<lij>"
-	"leeʹd" V Ind Prs Sg3 @+FMAINV
-"<niõđâž>"
-	"niõđâž" N Sg Nom @<SUBJ
-"<di>"
-	"di" CC
-"<...>"
-	"..." CLB
-"<tõk>"
-	"tõt" Pron Dem Pl Nom @SUBJ>
-"<liâ>"
-	"leeʹd" V Ind Prs Pl3 @+FMAINV
-"<teâđast>"
-	"teâđast" Adv @<ADVL
-"<dõõk>"
-	"dõõt" Pron Pron Pl Nom @<SUBJ
-"<...>"
-	"..." CLB
-"<a>"
-	"a" CC
-"<hoiʹddje>"
-	"hoiʹddjed" V Ind Prs Pl3 @+FMAINV
-"<toʹben>"
-	"toʹben" Adv @<ADVL
-"<...>"
-	"..." CLB
+1	Niõđâž	niõđâž	N	_	Sg|Nom|@SUBJ>	_	_	_	_
+2	âʹpet	âʹpet	Adv	_	@ADVL>	_	_	_	_
+3	lij	leeʹd	V	_	Ind|Prs|Sg3|@+FMAINV	_	_	_	_
+4	,	,	CLB	_	_	_	_	_	_
+5	de	de	CC	_	@CVP	6	cc	_	_
+6	toʹben	toʹben	Adv	_	@ADVL>	0	root	_	_
+7	lij	leeʹd	V	_	Ind|Prs|Sg3|@+FMAINV	6	cop	_	_
+8	ääkkaž	ääkkaž	N	_	Sem/Hum|Sg|Nom|@<SUBJ	6	nsubj:cop	_	_
+9	de	de	CC	_	@CVP	12	cc	_	_
+10	tõn	tõt	Pron	_	Dem|Sg|Acc|@OBJ>	11	det	_	_
+11	ääkka	ääkkaž	N	_	Sem/Hum|Sg|Acc|@OBJ>	12	obj	_	_
+12	håiddmen	håiddad	V	_	Actio|Ess	6	conj	_	_
+13	âma	âma	Adv	_	@ADVL>	12	advmod	_	_
+14	lij	leeʹd	AUX	_	Ind|Prs|Sg3|@+FMAINV	12	aux	_	_
+15	niõđâž	niõđâž	N	_	Sg|Nom|@<SUBJ	12	nsubj	_	_
+16	di	di	CC	_	_	21	cc	_	_
+17	...	...	CLB	_	_	21	punct	_	_
+18	tõk	tõt	Pron	_	Dem|Pl|Nom|@SUBJ>	21	nsubj:cop	_	_
+19	liâ	leeʹd	V	_	Ind|Prs|Pl3|@+FMAINV	21	cop	_	_
+20	teâđast	teâđast	Adv	_	@<ADVL	21	advmod:eval	_	_
+21	dõõk	dõõt	Pron	_	Pron|Pl|Nom|@<SUBJ	6	conj	_	_
+22	...	...	CLB	_	_	24	punct	_	_
+23	a	a	CC	_	_	24	cc	_	_
+24	hoiʹddje	hoiʹddjed	V	_	Ind|Prs|Pl3|@+FMAINV	21	conj	_	_
+25	toʹben	toʹben	Adv	_	@<ADVL	24	advmod:lmod	_	_
+26	...	...	CLB	_	_	6	punct	_	_
 
 # sent_id = kotus-skak2010-1-4:1:2
 # text = Leäi, leäi di âʹpet ooumaž lij tõn niõđ teâđstam di son tõn niõđ vuõddmâstõlškuõʹđi ja sitten son mâŋŋa vaaʹldi kaavân.
 "<Leäi>"
-	"leeʹd" V Ind Prt Sg3 @+FMAINV
+	"leeʹd" V Ind Prt Sg3
 "<,>"
 	"," CLB
 "<leäi>"
@@ -159,17 +133,12 @@
 	"näʹde" Interj
 "<måttam>"
 	"måttam" Pron Pl Nom @<SUBJ
-	"måttam" Pron Sg Acc @OBJ>
-	"måttam" Pron Sg Gen
-	"måttam" Pron Sg Nom @<SUBJ
 "<liâ>"
 	"leeʹd" V Ind Prs Pl3 @+FMAINV
 "<teâđstam>"
 	"teâđsted" V Act PrfPrc
 "<teâđast>"
-	"teâtt" N Sg Loc
 	"teâđast" Adv @<ADVL
-	"teâđsted" V Ind Prs Sg3 @+FMAINV
 "<että>"
 	"että" CS Err/Lex @CVP
 "<kuuskõõzz>"
@@ -193,13 +162,12 @@
 "<rõssad>"
 	"rõsseed" V Ind Prs Sg3 @+FMAINV
 "<ni>"
-	"ni" Adv @ADVL>
-	"ni" Pcle Pcle Neg
+	"ni" Pcle Neg
 "<måttam>"
 	"måttam" Pron Pl Nom @<SUBJ
-	"måttam" Pron Sg Acc @OBJ>
-	"måttam" Pron Sg Gen
-	"måttam" Pron Sg Nom @<SUBJ
+!	"måttam" Pron Sg Acc @OBJ>
+!	"måttam" Pron Sg Gen
+!	"måttam" Pron Sg Nom @<SUBJ
 "<liâ>"
 	"leeʹd" V Ind Prs Pl3 @+FMAINV
 "<teâđstam>"
