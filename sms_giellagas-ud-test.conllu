@@ -1942,7 +1942,7 @@
 
 # sent_id = kotus-skak2010-1-4:2:5
 # text = – ”Ääkka niõđâž ij ni mâiʹd, ääkka niõđâž pâi peeiʹvin da mannuin seârr, kåʹllkåʹđđnjõõzzid kååđđ.”
-1	–	–	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
+1	–	–	PUNCT	PUNCT	_	4	punct	_	_
 2	”	”	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT
 3	Ääkka	ääkkaž	NOUN	N	Animacy=Hum|Case=Gen|Number=Sing	4	nmod:poss	_	GTtags=Sem/Hum,Sg,Gen
 4	niõđâž	niõđâž	NOUN	N	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom
@@ -2143,7 +2143,7 @@
 
 # sent_id = kotus-skak2010-1-5:2:7
 # text = – ”Na teʹl kâʹl vuäbbam iʹlla go jo čääʹʒʒ jiõk leäkku kuâddam.”
-1	–	–	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No
+1	–	–	PUNCT	PUNCT	_	13	punct	_	_
 2	”	”	PUNCT	PUNCT	_	13	punct	_	GTtags=RIGHT
 3	Na	na	INTJ	Interj	_	7	discourse	_	_
 4	teʹl	teʹl	ADV	Adv	AdvType=Tim	7	advmod:tmod	_	GTtags=Sem/Time
@@ -2337,7 +2337,7 @@
 
 # sent_id = kotus-skak2010-1-5:4:7
 # text = – ”Heävaš lij.”
-1	–	–	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
+1	–	–	PUNCT	PUNCT	_	4	punct	_	_
 2	”	”	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT|SpaceAfter=No
 3	Heävaš	heävaš	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	GTtags=Sg,Nom
 4	lij	leeʹd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
@@ -2460,7 +2460,7 @@
 
 # sent_id = kotus-skak2010-1-5:5:6
 # text = – ”A heäppaž, muʹnne õõlǥči heävaš.”
-1	–	–	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
+1	–	–	PUNCT	PUNCT	_	4	punct	_	_
 2	”	”	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT|SpaceAfter=No
 3	A	a	INTJ	Interj	_	4	discourse	_	_
 4	heäppaž	heävaš	NOUN	N	Case=Acc|Number=Sing	0	root	_	GTtags=Sg,Acc|SpaceAfter=No
@@ -2515,7 +2515,7 @@
 # text = Siõm heäppaž ââlǥaž ǩiʹcsti suu ool, tõn vaaʹldi... ij välddam.
 1	Siõm	siõmm	NOUN	N	Animacy=Hum|Case=Gen|Number=Sing	3	nmod	_	GTtags=Sem/Hum,Sg,Gen
 2	heäppaž	heävaš	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	GTtags=Sg,Gen
-3	ââlǥaž	ââlǥaž	NOUN	N	Sem/Ani|Case=Nom|Number=Sing	4	nsubj	_	GTtags=Sem/Ani,Sg,Nom
+3	ââlǥaž	ââlǥaž	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	GTtags=Sem/Ani,Sg,Nom
 4	ǩiʹcsti	ǩiʹcsted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 5	suu	son	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	4	obl	_	GTtags=Pers,Sg3,Gen
 6	ool	ool	ADP	Po	AdpType=Post	5	case	_	GTtags=<gen>|SpaceAfter=No
@@ -2617,7 +2617,7 @@
 
 # sent_id = kotus-skak2010-1-5:7:3
 # text = – ”Mõõnnâd, mõõnnâd mååusat, mon jeänn’jad pooutam, mõõnnâd mõõnnâd.”
-1	–	–	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No
+1	–	–	PUNCT	PUNCT	_	3	punct	_	_
 2	”	”	PUNCT	PUNCT	_	3	punct	_	GTtags=RIGHT
 3	Mõõnnâd	mõõnnâd	VERB	V	Mood=Imp|Number=Plur|Person=2	0	root	_	GTtags=Imprt,Pl2,@+FAUXV|SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	5	punct	_	_
@@ -2711,8 +2711,8 @@
 
 # sent_id = kotus-skak2010-1-5:8:7
 # text = – ”Leʹjjiǩ tâma vueʹđđed jeällam mon talkkâm”.
-1	–	–	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No
-2	”	”	PUNCT	PUNCT	_	6	punct	_	GTtags=RIGHT
+1	–	–	PUNCT	PUNCT	_	6	punct	_	_
+2	”	”	PUNCT	PUNCT	_	6	punct	_	GTtags=RIGHT|SpaceAfter=No
 3	Leʹjjiǩ	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	6	aux:tense	_	GTtags=Ind,Prt,Sg2
 4	tâma	tâma	PART	Pcle	_	6	advmod:eval	_	_
 5	vueʹđđed	vueʹđđed	VERB	V	VerbForm=Inf	6	xcomp	_	GTtags=Inf
@@ -2761,7 +2761,7 @@
 13	sami	sami	ADV	Adv	_	14	advmod:deg	_	_
 14	siõm	siõm	ADJ	A	_	16	amod	_	_
 15	heäppaž	heävaš	NOUN	N	Case=Gen|Number=Sing	16	nmod	_	GTtags=Sg,Gen
-16	ââlǥaž	ââlǥaž	NOUN	N	Sem/Ani|Case=Nom|Number=Sing	17	nsubj	_	GTtags=Sem/Ani,Sg,Nom
+16	ââlǥaž	ââlǥaž	NOUN	N	Case=Nom|Number=Sing	17	nsubj	_	GTtags=Sem/Ani,Sg,Nom
 17	ǩiʹcsti	ǩiʹcsted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	conj	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
 18	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
