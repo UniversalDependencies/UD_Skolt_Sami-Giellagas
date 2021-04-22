@@ -1833,13 +1833,13 @@
 13	âma	âma	ADV	Adv	_	12	advmod	_	GTtags=@ADVL>
 14	lij	leeʹd	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	aux	_	GTtags=Ind,Prs,Sg3
 15	niõđâž	niõđâž	NOUN	N	Case=Nom|Number=Sing	12	nsubj	_	GTtags=Sg,Nom
-16	di	di	CCONJ	CC	_	21	cc	_	SpaceAfter=No
-17	...	...	PUNCT	PUNCT	_	21	punct	_	SpaceAfter=No
+16	di	di	CCONJ	CC	_	21	cc	_	_
+17	...	...	PUNCT	PUNCT	_	21	punct	_	_
 18	tõk	tõt	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	21	nsubj:cop	_	GTtags=Dem,Pl,Nom
 19	liâ	leeʹd	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	21	cop	_	GTtags=Ind,Prs,Pl3
 20	teâđast	teâđast	ADV	Adv	_	21	advmod:eval	_	_
 21	dõõk	dõõt	PRON	Pron	Case=Nom|Number=Plur|Pron	6	conj	_	GTtags=Pron,Pl,Nom|SpaceAfter=No
-22	...	...	PUNCT	PUNCT	_	24	punct	_	SpaceAfter=No
+22	...	...	PUNCT	PUNCT	_	24	punct	_	_
 23	a	a	CCONJ	CC	_	24	cc	_	_
 24	hoiʹddje	hoiʹddjed	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	21	conj	_	GTtags=Ind,Prs,Pl3
 25	toʹben	toʹben	ADV	Adv	_	24	advmod:lmod	_	SpaceAfter=No
@@ -1943,7 +1943,7 @@
 # sent_id = kotus-skak2010-1-4:2:5
 # text = – ”Ääkka niõđâž ij ni mâiʹd, ääkka niõđâž pâi peeiʹvin da mannuin seârr, kåʹllkåʹđđnjõõzzid kååđđ.”
 1	–	–	PUNCT	PUNCT	_	4	punct	_	_
-2	”	”	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT
+2	”	”	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT|SpaceAfter=No
 3	Ääkka	ääkkaž	NOUN	N	Animacy=Hum|Case=Gen|Number=Sing	4	nmod:poss	_	GTtags=Sem/Hum,Sg,Gen
 4	niõđâž	niõđâž	NOUN	N	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom
 5	ij	ij	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	4	orphan	_	GTtags=Neg,Ind,Sg3
@@ -1960,7 +1960,7 @@
 16	,	,	PUNCT	PUNCT	_	18	punct	_	_
 17	kåʹllkåʹđđnjõõzzid	kåʹllkåʹđđnjõs	NOUN	N	Case=Acc|Number=Plur	18	obj	_	GTtags=Pl,Acc
 18	kååđđ	kååʹđđed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
-19	.	.	PUNCT	PUNCT	_	4	punct	_	_
+19	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
 20	”	”	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT
 
 # sent_id = kotus-skak2010-1-4:3:1
@@ -2121,7 +2121,7 @@
 5	,	,	PUNCT	PUNCT	_	7	punct	_	_
 6	leäk-a	leeʹd	VERB	V	Mood=Ind|Number=Sing|Person=2|Qst/a|Tense=Pres	7	orphan	_	GTtags=Ind,Prs,Sg2,Qst/a
 7	dõõn	dõõt	PRON	Pron	Case=Gen|Number=Sing|Pron	10	reparandum	_	GTtags=Pron,Sg,Gen|SpaceAfter=No
-8	...	...	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
+8	...	...	PUNCT	PUNCT	_	10	punct	_	_
 9	čääʹʒʒ	čääʹcc	NOUN	N	Case=Acc|Number=Sing	10	obj	_	GTtags=Sg,Acc
 10	kuõʹddiǩ	kueʹdded	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	4	conj	_	GTtags=Ind,Prt,Sg2
 11	jiõk	ij	VERB	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	10	parataxis	_	GTtags=Neg,Ind,Sg2|SpaceAfter=No
