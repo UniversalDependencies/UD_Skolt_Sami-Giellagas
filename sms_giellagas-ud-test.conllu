@@ -267,7 +267,7 @@
 4	ääiʹj	äiʹǧǧ	NOUN	N	Case=Gen|Number=Sing	2	obl:tmod	_	GTtags=Sg,Gen
 5	Pariizzâst	Pariizzâst	PROPN	N	Case=Loc|NameType=Geo|Number=Sing	2	obl:lmod	_	GTtags=Prop,Sem/Plc,Sg,Loc|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	8	punct	_	_
-7	Franskkjânnam	Franskkjânnam	PROPN	N	Case=Gen|NameType=Geo|Number=Sing	8	nmod	_	GTtags=Prop,Sem/Plc,Sg,Gen
+7	Franskkjânnam	Franskkjânnam	PROPN	N	Case=Gen|NameType=Geo|Number=Sing	8	nmod:poss	_	GTtags=Prop,Sem/Plc,Sg,Gen
 8	vueiʹvvgåårdest	vueiʹvvgåårad	NOUN	N	Case=Loc|Number=Sing	5	appos	_	GTtags=Sg,Loc|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -602,7 +602,7 @@
 5	kueʹtt	kueʹtt	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	GTtags=Sg,Nom
 6	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	10	punct	_	_
-8	kämmǥa	kämmǥaž	NOUN	N	Case=Gen|Number=Sing	9	nmod	_	GTtags=Sg,Gen
+8	kämmǥa	kämmǥaž	NOUN	N	Case=Gen|Number=Sing	9	nmod:poss	_	GTtags=Sg,Gen
 9	kueʹtt	kueʹtt	NOUN	N	Case=Nom|Number=Sing	10	nsubj	_	GTtags=Sg,Nom
 10	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	14	punct	_	_
@@ -677,7 +677,7 @@
 14	mâka	mâka	ADV	Adv	_	13	advmod:eval	_	_
 15	peeʹlljin	peʹllj	NOUN	N	Case=Com|Number=Sing	13	obl	_	GTtags=Sem/Body,Sg,Com
 16	tän	tät	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	13	obj	_	GTtags=Dem,Sg,Gen
-17	suu	son	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	18	nmod	_	GTtags=Pers,Sg3,Gen
+17	suu	son	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	18	nmod:poss	_	GTtags=Pers,Sg3,Gen
 18	ǩiõđ	ǩiõtt	NOUN	N	Case=Gen|Number=Sing	13	obl:lmod	_	GTtags=Sg,Gen
 19	âʹlnn	âʹlnn	ADP	Po	AdpType=Post	18	case	_	SpaceAfter=No
 20	.	.	PUNCT	PUNCT	_	6	punct	_	_
@@ -2175,8 +2175,8 @@
 1	Čääʹccskääll	čääʹccskääll	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	GTtags=Sg,Nom
 2	pâi	pâi	ADV	Adv	_	3	advmod:foc	_	GTtags=@ADVL>
 3	åårr	åårrad	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
-4	tõʹst	tõʹst	ADV	Adv	_	3	advmod:lmod	_	_
-5	jiõŋ	jiõŋŋ	NOUN	N	Case=Gen|Number=Sing	4	nmod:lmod	_	GTtags=Sg,Gen
+4	tõʹst	tõʹst	ADV	Adv	_	5	advmod:lmod	_	_
+5	jiõŋ	jiõŋŋ	NOUN	N	Case=Gen|Number=Sing	4	obl:lmod	_	GTtags=Sg,Gen
 6	âʹlnn	âʹlnn	ADP	Adp	AdpType=Post	5	case	_	GTtags=Po|SpaceAfter=No
 7	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
