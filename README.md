@@ -42,6 +42,10 @@ however, we would be no where…
 
 # Changelog
 
+* 2021-04-29
+  * Auxiliary, feature and deprel documentation
+  * Continued annotation of stories from Sääʹmǩiõll, äʹrbbǩiõll.
+  * Language tag systematization.
 * 2020-11-15 v2.7
   * Adding stories from Sääʹmǩiõll, äʹrbbǩiõll
 * 2020-05-15 v2.6
