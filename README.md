@@ -42,6 +42,9 @@ however, we would be no where…
 
 # Changelog
 
+* 2021-10-31
+  * Auxiliary, feature and deprel documentation
+  * Continued annotation of stories from Sääʹmǩiõll, äʹrbbǩiõll.
 * 2021-04-29
   * Auxiliary, feature and deprel documentation
   * Continued annotation of stories from Sääʹmǩiõll, äʹrbbǩiõll.
