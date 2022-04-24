@@ -726,17 +726,17 @@
 1	Na	na	INTJ	Interj	_	3	discourse	_	_
 2	källsaž	källsaž	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	GTtags=Sg,Nom
 3	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
-4	:	:	PUNCT	PUNCT	_	8	punct	_	_
-5	”	”	PUNCT	PUNCT	_	11	punct	_	GTtags=RIGHT|SpaceAfter=No
+4	:	:	PUNCT	PUNCT	_	12	punct	_	_
+5	”	”	PUNCT	PUNCT	_	12	punct	_	GTtags=RIGHT|SpaceAfter=No
 6	Muu	mon	PRON	Pron	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obj	_	GTtags=Pers,Sg1,Acc
 7	ko	ko	SCONJ	CS	_	8	mark	_	_
-8	kooʹddže	kåʹdded	VERB	V	Mood=Pot|Number=Plur|Person=3	11	advcl	_	GTtags=Pot,Pl3
-9	ton	ton	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	GTtags=Pers,Sg2,Nom
-10	jiõk	ij	AUX	_	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	11	aux:neg	_	GTtags=Neg,Ind,Sg2
-11	õõlǥ	õlggâd	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	3	ccomp	_	GTtags=Ind,Prs,ConNeg
-12	käggõõttâd	käggõõttâd	VERB	V	VerbForm=Inf	11	ccomp	_	GTtags=Inf
+8	kooʹddže	kåʹdded	VERB	V	Mood=Pot|Number=Plur|Person=3	12	advcl:tcl	_	GTtags=Pot,Pl3
+9	ton	ton	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	GTtags=Pers,Sg2,Nom
+10	jiõk	ij	AUX	_	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	12	aux:neg	_	GTtags=Neg,Ind,Sg2
+11	õõlǥ	õlggâd	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres	12	aux	_	GTtags=Ind,Prs,ConNeg
+12	käggõõttâd	käggõõttâd	VERB	V	VerbForm=Inf	3	ccomp	_	GTtags=Inf
 13	vuõʹste	vuõʹste	ADV	Adv	_	12	advmod	_	SpaceAfter=No
-14	.	.	PUNCT	PUNCT	_	11	punct	_	_
+14	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = kotus-skak2010-1-1:5-5
 # story_id = KÄMMǤA MAAINÂS:10:5:5
@@ -865,7 +865,7 @@
 # text = Ceälkk: ”No mõõzz eeʹjjed kooʹddid.”
 1	Ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 2	:	:	PUNCT	CLB	_	7	punct	_	_
-3	”	”	PUNCT	PUNCT	_	1	punct	_	GTtags=RIGHT|SpaceAfter=No
+3	”	”	PUNCT	PUNCT	_	7	punct	_	GTtags=RIGHT|SpaceAfter=No
 4	No	no	INTJ	Interj	_	7	discourse	_	_
 5	mõõzz	mõõzz	ADV	Adv	_	7	advmod:lmod	_	_
 6	eeʹjjed	eʹčč	NOUN	N	Animacy=Hum|Case=Acc|Number=Sing|Number[psor]=Plur|Person[psor]=2	7	obj	_	GTtags=Sem/Kin,Sg,Acc,PxPl2
@@ -1447,8 +1447,8 @@
 # sent_id = kotus-skak2010-1-2:7-2
 # story_id = KÅÅʹDD MAAINÂS:12:7:2
 # text = Tuõddâr jânnam šõllneškuõʹđež di reiʹǧǧruʹvdd poouǩeškueʹđež.
-1	Tuõddâr	tuõddâr	NOUN	N	Case=Gen|Number=Sing	3	nsubj	_	GTtags=Sg,Gen
-2	jânnam	jânnam	NOUN	N	Case=Nom|Number=Sing	1	goeswith	_	GTtags=Sg,Nom
+1	Tuõddâr	tuõddâr	NOUN	N	Case=Nom|Number=Sing|Typo=Yes	3	nsubj	_	GTtags=Sg,Gen
+2	jânnam	_	X	N	_	1	goeswith	_	GTtags=Sg,Nom
 3	šõllneškuõʹđež	šõllned	VERB	V	Derivation=InchL|Mood=Pot|Number=Sing|Person=3	0	root	_	GTtags=Der/InchL,Pot,Sg3
 4	di	di	CCONJ	CC	_	6	cc	_	_
 5	reiʹǧǧruʹvdd	reiʹǧǧruʹvdd	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	GTtags=Sg,Nom

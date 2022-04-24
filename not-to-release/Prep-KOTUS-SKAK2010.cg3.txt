@@ -2528,7 +2528,6 @@
 22	õõst	õsttâd	V	_	Ind|Prs|ConNeg|@+FMAINV	_	_	_	_
 23	.	.	PUNCT	_	_	_	_	_	_
 
-
 # sent_id = kotus-skak2010-1-5:16:2
 # text = Veäʹšǩǩčåkkam vueʹlǧǧad.
 1	Veäʹšǩǩčåkkam	veäʹšǩǩčåʹǩǩ	N	_	Sg|Nom|PxSg1|@SUBJ>	2	nsubj	_	_
