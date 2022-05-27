@@ -335,7 +335,6 @@
 1	čiččâm	čiččâm	NUM	Num	Case=Nom|Number=Sing	2	nummod	_	GTtags=Sg,Nom
 2	eeʹǩǩed	eeʹǩǩ	NOUN	N	Case=Par	3	nsubj	_	GTtags=Par
 3	mâânn	mõõnnâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	0	root	_	GTtags=Ind,Prs,Sg3
-4-5	ouddâl ko	_	_	_	_	_	_	_	_
 4	ouddâl	ouddâl	ADV	Adv	_	6	mark	_	_
 5	ko	ko	SCONJ	CS	_	4	fixed	_	_
 6	peäss	piâssâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	3	advcl	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
