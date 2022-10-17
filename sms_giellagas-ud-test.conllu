@@ -1320,7 +1320,7 @@
 14	leäk	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	16	aux	_	GTtags=Ind,Prs,Sg2
 15	kåʹddtueʹllj	kåʹddtueʹllj	NOUN	N	Case=Acc|Number=Sing	16	obj	_	GTtags=Sg,Acc
 16	kooǯǯtam	kooǯǯted	VERB	V	Aspect=Perf|VerbForm=Part	9	ccomp	_	GTtags=Act,PrfPrc
-17	pärnna	päʹrnn	NOUN	N	Animacy=Hum|Case=Ill|Number=Sing	16	nsubj	_	GTtags=Sem/Kin,Sg,Ill|SpaceAfter=No
+17	pärnna	päʹrnn	NOUN	N	Animacy=Hum|Case=Ill|Number=Sing	16	vocative	_	GTtags=Sem/Kin,Sg,Ill|SpaceAfter=No
 18	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = kotus-skak2010-1-2:5-8
