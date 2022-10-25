@@ -2862,17 +2862,17 @@
 
 # sent_id = kotus-skak2010-1-5:10:4
 # text = Ij ko villjâs, tõt-i lij tõt kååʹtt ko kuâđđji tõt villj, tõt-i lij.
-1	Ij	ij	INTJ	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	3	orphan	_	_
+1	Ij	ij	INTJ	_	Polarity=Neg	3	orphan	_	_
 2	ko	ko	SCONJ	_	_	1	fixed	_	_
 3	villjâs	villj	NOUN	_	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	tõt-i	tõt	PRON	_	Case=Nom|Clitic=AddI|Number=Sing|PronType=Dem	7	nsubj:cop	_	_
 6	lij	leeʹd	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	cop	_	_
-7	tõt	tõt	Pron	_	Case=Nom|Number=Sing|PronType=Dem	3	conj	_	_
-8	kååʹtt	kååʹtt	Pron	_	Case=Nom|Number=Sing|PronType=Rel	10	nsubj	_	_
+7	tõt	tõt	PRON	_	Case=Nom|Number=Sing|PronType=Dem	3	conj	_	_
+8	kååʹtt	kååʹtt	PRON	_	Case=Nom|Number=Sing|PronType=Rel	10	nsubj	_	_
 9	ko	ko	SCONJ	_	_	10	mark	_	_
 10	kuâđđji	kuâđđjed	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	acl:relcl	_	_
-11	tõt	tõt	Pron	_	Case=Nom|Number=Sing|PronType=Dem	12	det	_	_
+11	tõt	tõt	PRON	_	Case=Nom|Number=Sing|PronType=Dem	12	det	_	_
 12	villj	villj	NOUN	_	Animacy=Hum|Case=Nom|Number=Sing	10	discourse	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	15	punct	_	_
 14	tõt-i	tõt	PRON	_	Case=Nom|Clitic=AddI|Number=Sing|PronType=Dem	15	nsubj:cop	_	_
@@ -3028,7 +3028,7 @@
 1	Tieʹrmes	tieʹrmes	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	åårr	åårrad	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 3	pâjspõõđi	pââjaspõõđi	ADV	_	_	4	advmod	_	_
-4	čõnnum	čõõnnâd	VERB	_	Aspect=Perf|Pass|VerbForm=Part	2	advcl	_	_
+4	čõnnum	čõõnnâd	VERB	_	Aspect=Perf|VerbForm=Part|Voice=Pass	2	advcl	_	_
 5	košklõõvvâm	košklõõvvâd	VERB	_	Aspect=Perf|VerbForm=Part	4	conj	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	10	punct	_	_
 7	son	son	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
@@ -3146,13 +3146,13 @@
 5	måttam	måttam	PRON	_	_	6	det	_	_
 6	äitta	äiʹtt	NOUN	_	Case=Ill|Number=Sing	4	obl:lmod	_	_
 7	di	di	CCONJ	_	_	10	cc	_	_
-8	dõõt	dõõt	PRON	_	Case=Nom|Number=Sing|Pron	9	det	_	_
+8	dõõt	dõõt	PRON	_	Case=Nom|Number=Sing|PronType=Dem	9	det	_	_
 9	heävaš	heävaš	NOUN	_	Case=Nom|Number=Sing	10	nsubj	_	_
 10	åårr	åårrad	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	conj	_	_
 11	pâjspõõđi	pââjaspõõđi	ADV	_	_	10	advmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	_
 13	košklõõvvâm	košklõõvvâm	VERB	_	Aspect=Perf|VerbForm=Part	10	advcl	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	_	_	_	_
+14	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = kotus-skak2010-1-5:13:2
 # text = Tõn pieʹsti di poorti.
@@ -3278,7 +3278,7 @@
 10	,	,	PUNCT	_	_	11	punct	_	_
 11	äʹn	äʹn	PART	_	_	15	discourse	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	_
-13	dõõn	dõõt	PRON	_	Case=Gen|Number=Sing|Pron	14	det	_	_
+13	dõõn	dõõt	PRON	_	Case=Gen|Number=Sing|PronType=Dem	14	det	_	_
 14	leeik	leikk	NOUN	_	Case=Acc|Number=Sing	15	nsubj	_	_
 15	vueʹlǧǧee	vueʹlǧǧeed	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	7	conj	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	1	punct	_	_
@@ -3322,7 +3322,7 @@
 7	,	,	PUNCT	PUNCT	_	9	punct	_	_
 8	väʹst	väʹst	ADV	Adv	_	9	advmod	_	_
 9	jeäll	jieʹlled	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	conj	_	GTtags=Ind,Prs,Sg3
-10	viikkmen	viikkâd	VERB	V	Case=Ess	9	xcomp	_	GTtags=Actio,Ess|SpaceAfter=No
+10	viikkmen	viikkâd	VERB	V	Case=Ess|Derivation=Men	9	xcomp	_	GTtags=Actio,Ess|SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	12	punct	_	_
 12	puätt	pueʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	conj	_	GTtags=Ind,Prs,Sg3
 13	tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	14	det	_	GTtags=Dem,Sg,Gen
@@ -3333,7 +3333,7 @@
 # sent_id = kotus-skak2010-1-5:16:2
 # text = Veäʹšǩǩčåkkam vueʹlǧǧad.
 1	Veäʹšǩǩčåkkam	veäʹšǩǩčååǥǥam	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
-2	vueʹlǧǧad	vueʹlǧǧeed	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	vueʹlǧǧad	vueʹlǧǧeed	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = kotus-skak2010-1-5:16:5
@@ -3460,7 +3460,7 @@
 7	”	”	PUNCT	_	_	9	punct	_	SpaceAfter=No
 8	jiâ	ij	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	9	aux:neg	_	_
 9	pieʹrǧǧe	pieʹrǧǧe	VERB	_	_	5	parataxis	_	_
-10	ni	ni	PART	_	Pcle|Polarity=Neg	9	advmod	_	_
+10	ni	ni	PART	_	Polarity=Neg	9	advmod	_	_
 11	mäʹhtt	mäʹhtt	ADV	_	_	10	fixed	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
 13	”	”	PUNCT	_	_	9	punct	_	_
@@ -3491,12 +3491,12 @@
 
 # sent_id = kotus-skak2010-1-5:18:5
 # text = Leʹtt âlgg, čuʹǩǩ âlgg tuejjeed.
-1	Leʹtt	leʹtt	N	_	Case=Nom|Number=Sing	2	nsubj	_	_
-2	âlgg	õlggâd	V	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+1	Leʹtt	leʹtt	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+2	âlgg	õlggâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
-4	čuʹǩǩ	čuʹǩǩ	N	_	Case=Nom|Number=Sing	5	nsubj	_	_
-5	âlgg	õlggâd	V	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	_
-6	tuejjeed	tuejjeed	V	_	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
+4	čuʹǩǩ	čuʹǩǩ	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+5	âlgg	õlggâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	_
+6	tuejjeed	tuejjeed	VERB	_	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = kotus-skak2010-1-5:18:6
@@ -3510,17 +3510,17 @@
 
 # sent_id = kotus-skak2010-1-5:18:7
 # text = Peʹll tõt-i mõõni kuâŋŋa, ceälkk: ”Mâiʹd ooumaž tuejjad.”
-1	Peʹll	Peʹll	N	_	Case=Nom|Number=Sing	3	nsubj	_	_
-2	tõt-i	tõt	Pron	_	Clt|Case=Nom|Number=Sing|PronType=Dem	1	dislocated	_	_
-3	mõõni	mõõnnâd	V	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-4	kuâŋŋa	kuâŋŋa	ADV	_	AdpType=Post	3	advmod	_	SpaceAfter=No
+1	Peʹll	Peʹll	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	tõt-i	tõt	PRON	_	Case=Nom|Clitic=AddI|Number=Sing|PronType=Dem	1	dislocated	_	_
+3	mõõni	mõõnnâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+4	kuâŋŋa	kuâŋŋa	ADV	_	_	3	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
-6	ceälkk	ceäʹlǩǩed	V	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	SpaceAfter=No
+6	ceälkk	ceäʹlǩǩed	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	SpaceAfter=No
 7	:	:	PUNCT	_	_	11	punct	_	_
 8	”	”	PUNCT	_	_	11	punct	_	SpaceAfter=No
-9	Mâiʹd	mâiʹd	Pron	_	_	11	obj	_	_
-10	ooumaž	ooumaž	N	_	Animacy=Hum|Case=Nom|Number=Sing	11	nsubj	_	_
-11	tuejjad	tuejjeed	V	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	parataxis	_	SpaceAfter=No
+9	Mâiʹd	mâiʹd	PRON	_	_	11	obj	_	_
+10	ooumaž	ooumaž	NOUN	_	Animacy=Hum|Case=Nom|Number=Sing	11	nsubj	_	_
+11	tuejjad	tuejjeed	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	parataxis	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 13	”	”	PUNCT	_	_	3	punct	_	_
 
@@ -3589,7 +3589,7 @@
 3	čiiučõõđi	čiiučõõttâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	1	conj	_	_
 4	da	da	CCONJ	_	_	5	cc	_	_
 5	dõnõõǥǥi	dõnõõkkâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	1	conj	_	_
-6	tõt	tõt	Pron	_	Case=Nom|Number=Sing|PronType=Dem	1	nsubj	_	SpaceAfter=No
+6	tõt	tõt	PRON	_	Case=Nom|Number=Sing|PronType=Dem	1	nsubj	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = kotus-skak2010-1-5:19:2
@@ -3659,11 +3659,11 @@
 # text = Son âʹtte mettõõđi: ”Näʹde ton-õs mõõnsââʹst, ââʹnat a peʹll ij deʹbe.
 1	Son	son	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	âʹtte	âʹtte	ADV	_	AdvType=Tim	3	advmod	_	_
-3	mettõõđi	metteed	VERB	_	Derivation=oottyd|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+3	mettõõđi	mettõõttâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 4	:	:	PUNCT	_	_	8	punct	_	_
 5	”	”	PUNCT	_	_	8	punct	_	SpaceAfter=No
 6	Näʹde	näʹde	INTJ	_	_	8	discourse	_	_
-7	ton-õs	ton	PRON	_	Case=Nom|Foc/õs|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
+7	ton-õs	ton	PRON	_	Case=Nom|Clitic=Os|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
 8	mõõnsââʹst	mõõnsâʹstted	VERB	_	Mood=Imp|Number=Sing|Person=2	3	parataxis	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	_
 10	ââʹnat	ââʹnted	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	conj	_	_
@@ -3696,7 +3696,7 @@
 1	Bieʹss	bieʹss	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	a	a	CCONJ	_	_	4	cc:preconj	_	_
 3	ko	ko	SCONJ	_	_	2	fixed	_	_
-4	mâânn	mõõnnâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	advcl:tmod	_	SpaceAfter=No
+4	mâânn	mõõnnâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	advcl:tcl	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	son	son	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
 7	pâi	pâi	ADV	_	_	9	advmod	_	_
@@ -3723,7 +3723,7 @@
 2	tõt	tõt	PRON	_	Case=Nom|Number=Sing|PronType=Dem	3	det	_	_
 3	ooumaž	ooumaž	NOUN	_	Animacy=Hum|Case=Nom|Number=Sing	4	nsubj	_	_
 4	võõidi	võõidâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-5	jieʹllmen	jieʹlled	VERB	_	Actio|Case=Ess	4	xcomp	_	SpaceAfter=No
+5	jieʹllmen	jieʹlled	VERB	_	Case=Ess|Derivation=Men	4	xcomp	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	_
 7	di	di	CCONJ	_	_	9	cc	_	_
 8	tut	tut	PRON	_	Case=Nom|Number=Sing|PronType=Dem	9	det	_	_
