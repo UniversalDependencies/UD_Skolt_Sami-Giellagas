@@ -1,84 +1,3 @@
-# sent_id = kotus-skak2010-1-5:10:4
-# text = Ij ko villjâs, tõt-i lij tõt kååʹtt ko kuâđđji tõt villj, tõt-i lij.
-1	Ij	ij	V	_	Neg|Ind|Sg3|@+FAUXV	_	_	_	_
-2	ko	ko	SCONJ	_	_	_	_	_	_
-3	villjâs	villj	N	_	Sem/Kin|Sg|Nom|PxSg3	_	_	_	_
-4	,	,	PUNCT	_	_	_	_	_	_
-5	tõt-i	tõt	Pron	_	Dem|Sg|Nom|Clt	7	nsubj	_	_
-6	lij	leeʹd	V	_	Ind|Prs|Sg3	7	cop	_	_
-7	tõt	tõt	Pron	_	Dem|Sg|Nom	_	_	_	_
-8	kååʹtt	kååʹtt	Pron	_	Rel|Sg|Nom	_	_	_	_
-9	ko	ko	SCONJ	_	_	_	_	_	_
-10	kuâđđji	kuâđđjed	V	_	Ind|Prt|Sg3|@+FAUXV	_	_	_	_
-11	tõt	tõt	Pron	_	Dem|Sg|Nom	12	det	_	_
-12	villj	villj	N	_	Sem/Kin|Sg|Nom	_	_	_	_
-13	,	,	PUNCT	_	_	_	_	_	_
-14	tõt-i	tõt	Pron	_	Dem|Sg|Nom|Clt	15	nsubj	_	_
-15	lij	leeʹd	V	_	Ind|Prs|Sg3	_	_	_	_
-16	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = kotus-skak2010-1-5:12:7
-# text = Tieʹrmes åårr pâjspõõđi čõnnum košklõõvvâm, son âʹtte čääʹʒʒ uuʹdi teärmmsa, poorti.
-"<Tieʹrmes>"
-!	"tieʹrmes" N Sem/Wthr
-"<åårr>"
-	"åårrad" V Ind Prs Sg3
-"<pâjspõõđi>"
-	"pââjaspõõđi" Adv
-"<čõnnum>"
-	"čõõnnâd" V Pass PrfPrc
-"<košklõõvvâm>"
-!	"košklõõvvâm" ?	Janoisena
-"<,>"
-	"," PUNCT
-"<son>"
-	"son" Pron Pers Sg3 Nom
-"<âʹtte>"
-	"âʹtte" Adv Sem/Time
-"<čääʹʒʒ>"
-	"čääʹcc" N Sg Acc @OBJ>
-"<uuʹdi>"
-	"uʹvdded" V Ind Prt Sg3
-"<teärmmsa>"
-!	"tieʹrmes" N Sem/Wthr
-"<,>"
-	"," PUNCT
-"<poorti>"
-	"poorted" V Ind Prt Sg3
-"<.>"
-	"." PUNCT
-
-# sent_id = kotus-skak2010-1-5:13:1
-# text = Di son âʹtte mõõni måttam äitta di dõõt heävaš åårr pâjspõõđi, košklõõvvâm.
-"<Di>"
-	"di" CCONJ
-"<son>"
-	"son" Pron Pers Sg3 Nom
-"<âʹtte>"
-	"âʹtte" Adv Sem/Time
-"<mõõni>"
-	"mõõnnâd" V Ind Prt Sg3
-"<måttam>"
-	"måttam" Pron Attr
-"<äitta>"
-	"äiʹtt" N Sg Ill
-"<di>"
-	"di" CCONJ
-"<dõõt>"
-	"dõõt" Pron Pron Sg Nom
-"<heävaš>"
-	"heävaš" N Sg Nom
-"<åårr>"
-	"åårrad" V Ind Prs Sg3
-"<pâjspõõđi>"
-	"pââjaspõõđi" Adv
-"<,>"
-	"," PUNCT
-"<košklõõvvâm>"
-!	"košklõõvvâm" 
-"<.>"
-	"." PUNCT
-
 # sent_id = kotus-skak2010-1-5:14:4
 # text = Vuejjle, vuõjju, vuõjju di bieʹss lij vuâmmšõõttâm ... suʹst iʹlla ni vueiʹvv, iʹlla ni njuuʹnn.
 1	Vuejjle	vuejjled	V	_	Ind|Prt|Pl3	_	_	_	_
@@ -101,41 +20,6 @@
 18	njuuʹnn	njuuʹnn	N	_	Sg|Nom	_	_	_	_
 19	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = kotus-skak2010-1-5:15:1
-# text = Uurči, uurči, uurči, ceälkk, äʹn, äʹn, dõõn leeik vueʹlǧǧee.
-"<Uurči>"
-	"urččâd" V Ind Prt Sg3
-"<,>"
-	"," PUNCT
-"<uurči>"
-	"urččâd" V Ind Prt Sg3
-"<,>"
-	"," PUNCT
-"<uurči>"
-	"urččâd" V Ind Prt Sg3
-"<,>"
-	"," PUNCT
-"<ceälkk>"
-	"ceäʹlǩǩed" V Ind Prs Sg3
-"<,>"
-	"," PUNCT
-"<äʹn>"
-!	"äʹn" Interj	vrt. anna olla. Tämä on ehkä jokin imperatiivinen partikkeli.
-"<,>"
-	"," PUNCT
-"<äʹn>"
-!	"äʹn" Interj
-"<,>"
-	"," PUNCT
-"<dõõn>"
-	"dõõt" Pron Pron Sg Gen
-"<leeik>"
-	"leikk" N Sg Acc @OBJ>
-"<vueʹlǧǧee>"
-	"vueʹlǧǧeed" V Ind Prs Pl3
-"<.>"
-	"." PUNCT
-
 # sent_id = kotus-skak2010-1-5:15:2
 # text = Dõõt šõõddi vââšš, vââšš šõõddi di tõt bieʹss jieʹli...
 # comment = Which is the subject? tõt or bieʹss
@@ -153,36 +37,21 @@
 
 # sent_id = kotus-skak2010-1-5:15:3
 # text = ”Äʹn, äʹn äjjan äʹrbbaaušu ko viiǯǯžem”, de vuäǯǯ son reäiʹj.
-"<”>"
-	"”" PUNCT RIGHT
-"<Äʹn>"
-!	"äʹn" Interj
-"<,>"
-	"," PUNCT
-"<äʹn>"
-!	"äʹn" Interj
-"<äjjan>"
-	"äjjned" V Imprt Sg2
-"<äʹrbbaaušu>"
-	"äʹrbbähšš" Ex/N Der/Dimin N Sg Acc @OBJ>
-"<ko>"
-	"ko" SCONJ
-"<viiǯǯžem>"
-	"viǯǯâd" V Pot Sg1
-"<”>"
-	"”" PUNCT RIGHT
-"<,>"
-	"," PUNCT
-"<de>"
-	"de" Adv
-"<vuäǯǯ>"
-	"vuäǯǯad" V Ind Prs Sg3
-"<son>"
-	"son" Pron Pers Sg3 Nom
-"<reäiʹj>"
-	"reäiʹǧǧ" N Sg Acc @<OBJ
-"<.>"
-	"." PUNCT
+1	”	”	PUNCT	_	RIGHT	5	punct	_	_
+2	Äʹn	äʹn	PART	_	_	5	discourse	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	äʹn	äʹn	PART	_	_	5	discourse	_	_
+5	äjjan	äjjned	VERB	_	Imprt|Sg2	0	root	_	_
+6	äʹrbbaaušu	äʹrbbähšš	NOUN	_	Der/Dimin|N|Sg|Acc|@OBJ>	5	obj	_	_
+7	ko	ko	SCONJ	_	_	8	mark	_	_
+8	viiǯǯžem	viǯǯâd	VERB	_	Pot|Sg1	5	advcl:tcl	_	_
+9	”	”	PUNCT	_	RIGHT	5	punct	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	de	de	ADV	_	_	12	advmod	_	_
+12	vuäǯǯ	vuäǯǯad	VERB	_	Ind|Prs|Sg3	5	conj	_	_
+13	son	son	PRON	_	Pers|Sg3|Nom	12	nsubj	_	_
+14	reäiʹj	reäiʹǧǧ	NOUN	_	Sg|Acc|@<OBJ	12	obj	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = kotus-skak2010-1-5:16:1
 # text = Eiʹdde mâânn de uurčat, uurčat, uurčat, uurčat tõid tieʹrmes vuejj heäppšin, occnjast ij õõst, occnjast ij õõst.
@@ -209,7 +78,7 @@
 "<tõid>"
 	"tõt" Pron Dem Pl Acc @OBJ>
 "<tieʹrmes>"
-!	"tieʹrmes" N Sem/Wthr
+	"tieʹrmes" N Sg Nom
 "<vuejj>"
 	"vuejjad" V Ind Prs Sg3
 "<heäppšin>"
@@ -232,15 +101,6 @@
 	"õsttâd" V Ind Prs ConNeg
 "<.>"
 	"." PUNCT
-
-# sent_id = kotus-skak2010-1-5:16:2
-# text = Veäʹšǩǩčåkkam vueʹlǧǧad.
-"<Veäʹšǩǩčåkkam>"
-	"veäʹšǩǩčååǥǥam" N Sg Nom @nsubj #1->2
-"<vueʹlǧǧad>"
-	"vueʹlǧǧeed" V Ind Prs Sg3 @root #2->0
-"<.>"
-	"." PUNCT @punct #3->2
 
 # sent_id = kotus-skak2010-1-5:16:3
 # text = Näʹde šõõddi nåkkam dõõt a päʹhtt da dõõt õuʹdde ni ij vuäǯǯ ni koon åʹrnn.
@@ -378,345 +238,30 @@
 "<:>"
 	":" PUNCT
 
-# sent_id = kotus-skak2010-1-5:18:2
-# text = ”Mâiʹd,” ceäʹlǩǩe, ”jiâ pieʹrǧǧe ni mäʹhtt.”
-"<”>"
-	"”" PUNCT RIGHT
-"<Mâiʹd>"
-	"mâiʹd" Pron
-"<,>"
-	"," PUNCT
-"<”>"
-	"”" PUNCT RIGHT
-"<ceäʹlǩǩe>"
-	"ceäʹlǩǩed" V Ind Prs Pl3
-"<,>"
-	"," PUNCT
-"<”>"
-	"”" PUNCT RIGHT
-"<jiâ>"
-	"ij" V Neg Ind Pl3 @+FAUXV
-"<pieʹrǧǧe>"
-	"pieʹrǧǧe" ?
-"<ni>"
-	"ni" Pcle Pcle Neg
-"<mäʹhtt>"
-	"mäʹhtt" Adv
-"<.>"
-	"." PUNCT
-
-"<”>"
-	"”" PUNCT RIGHT
-
-# sent_id = kotus-skak2010-1-5:18:5
-# text = Leʹtt âlgg, čuʹǩǩ âlgg tuejjeed.
-1	Leʹtt	leʹtt	N	_	Sg|Nom	_	_	_	_
-2	âlgg	õlggâd	V	_	Ind|Prs|Sg3|@+FAUXV	_	_	_	_
-3	,	,	PUNCT	_	_	_	_	_	_
-4	čuʹǩǩ	čuʹǩǩ	N	_	Sg|Nom	_	_	_	_
-5	âlgg	õlggâd	V	_	Ind|Prs|Sg3|@+FAUXV	_	_	_	_
-6	tuejjeed	tuejjeed	V	_	Inf|@-FMAINV	_	_	_	_
-7	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = kotus-skak2010-1-5:18:6
-# text = Čuuʹǩǩ tuejjee âʹtte tõn dââʹst...
-"<Čuuʹǩǩ>"
-	"čuʹǩǩ" N Sg Acc @OBJ>
-"<tuejjee>"
-	"tuejjeed" V Ind Prt Pl3
-"<âʹtte>"
-	"âʹtte" Adv Sem/Time
-"<tõn>"
-	"tõt" Pron Dem Sg Acc @OBJ>
-"<dââʹst>"
-!	"dõõt" ?
-"<...>"
-	"..." PUNCT
-
-# sent_id = kotus-skak2010-1-5:18:7
-# text = Peʹll tõt-i mõõni kuâŋŋa, ceälkk: ”Mâiʹd ooumaž tuejjad.”
-1	Peʹll	Peʹll	N	_	Prop|Sg|Nom	3	nsubj	_	_
-2	tõt-i	tõt	Pron	_	Dem|Sg|Nom|Clt	1	dislocated	_	_
-3	mõõni	mõõnnâd	V	_	Ind|Prt|Sg3|@+FAUXV	0	root	_	_
-4	kuâŋŋa	kuâŋŋa	ADV	_	Po	3	advmod	_	_
-5	,	,	PUNCT	_	_	6	punct	_	_
-6	ceälkk	ceäʹlǩǩed	V	_	Ind|Prs|Sg3	3	parataxis	_	_
-7	:	:	PUNCT	_	_	11	punct	_	_
-8	”	”	PUNCT	_	RIGHT	11	punct	_	_
-9	Mâiʹd	mâiʹd	Pron	_	_	11	obj	_	_
-10	ooumaž	ooumaž	N	_	Sem/Hum|Sg|Nom	11	nsubj	_	_
-11	tuejjad	tuejjeed	V	_	Ind|Prs|Sg3	6	ccomp	_	_
-12	.	.	PUNCT	_	_	3	punct	_	_
-13	”	”	PUNCT	_	RIGHT	3	punct	_	_
-
 # sent_id = kotus-skak2010-1-5:18:12
-# text = – ”Jaa. Näʹde mõõnsââstam âʹtte mon še, čääkk deʹbe ij Peʹll, teʹl deʹbe vueiʹttveʹted tij dõnõõkkâd.”
-"<–>"
-	"–" PUNCT
-"<”>"
-	"”" PUNCT RIGHT
-"<Jaa>"
-	"jaa" Interj
-"<.>"
-	"." PUNCT
-"<Näʹde>"
-	"näʹde" Interj
-"<mõõnsââstam>"
-	"mõõnsâʹstted" V Ind Prs Sg1
-"<âʹtte>"
-	"âʹtte" Adv Sem/Time
-"<mon>"
-	"mon" Pron Pers Sg1 Nom
-"<še>"
-	"še" Pcle
-"<,>"
-	"," PUNCT
-"<čääkk>"
-	"čaakkâd" V Ind Prs Sg3
-"<deʹbe>"
-	"deʹbe" Pcle
-"<ij>"
-	"ij" V Neg Ind Sg3 @+FAUXV
-"<Peʹll>"
-	"Peʹll" N Prop Sg Nom
-"<,>"
-	"," PUNCT
-"<teʹl>"
-	"teʹl" Adv Sem/Time
-"<deʹbe>"
-	"deʹbe" Pcle
-"<vueiʹttveʹted>"
-	"vueiʹtted" V Ind Prs Pl2 @+FAUXV
-"<tij>"
-	"ton" Pron Pers Pl2 Nom
-"<dõnõõkkâd>"
-	"dõnõõkkâd" V Inf @-FMAINV
-"<.>"
-	"." PUNCT
-
-"<”>"
-	"”" PUNCT RIGHT
-
-# sent_id = kotus-skak2010-1-5:19:1
-# text = Mõõni, čiiučõõđi da dõnõõǥǥi tõt.
-"<Mõõni>"
-	"mõõnnâd" V Ind Prt Sg3 @+FAUXV
-"<,>"
-	"," PUNCT
-"<čiiučõõđi>"
-	"čiiučõõttâd" V Ind Prt Sg3
-"<da>"
-	"da" CCONJ
-"<dõnõõǥǥi>"
-	"dõnõõkkâd" V Ind Prt Sg3
-"<tõt>"
-	"tõt" Pron Dem Sg Nom
-"<.>"
-	"." PUNCT
-
-# sent_id = kotus-skak2010-1-5:19:2
-# text = ”Joo täʹst kâʹl Peeʹll vueiʹttveʹted hiâvted,” ceälkk.
-"<”>"
-	"”" PUNCT RIGHT
-"<Joo>"
-	"joo"
-"<täʹst>"
-	"täʹst" Adv
-"<kâʹl>"
-	"kâʹl" Adv
-"<Peeʹll>"
-	"Peʹll" N Prop Sg Acc @OBJ>
-"<vueiʹttveʹted>"
-	"vueiʹtted" V Ind Prs Pl2 @+FAUXV
-"<hiâvted>"
-	"hiâvted" V Inf @-FMAINV
-"<,>"
-	"," PUNCT
-"<”>"
-	"”" PUNCT RIGHT
-"<ceälkk>"
-	"ceäʹlǩǩed" V Ind Prs Sg3
-"<.>"
-	"." PUNCT
-
-# sent_id = kotus-skak2010-1-5:19:3
-# text = Âʹpet koozz leežž šõõddi.
-"<Âʹpet>"
-	"âʹpet" Adv
-"<koozz>"
-	"koozz" Adv Sem/Plc Ill
-"<leežž>"
-	"leeʹd" V Pot Sg3
-"<šõõddi>"
-	"šõddâd" V Ind Prt Sg3
-"<.>"
-	"." PUNCT
-
-# sent_id = kotus-skak2010-1-5:19:4
-# text = De âʹpet âʹtte... mõõn sij vâl leʹjje hoʹhssjam.
-"<De>"
-	"de" Adv
-"<âʹpet>"
-	"âʹpet" Adv
-"<âʹtte>"
-	"âʹtte" Adv Sem/Time
-"<...>"
-	"..." PUNCT
-"<mõõn>"
-!	"mii"
-"<sij>"
-!	"son" Pron Pers Pl3 Nom
-"<vâl>"
-	"vâl" Adv
-"<leʹjje>"
-	"leeʹd" V Ind Prt Pl3
-"<hoʹhssjam>"
-	"hoʹhssjed" V Act PrfPrc
-"<.>"
-	"." PUNCT
-
-# sent_id = kotus-skak2010-1-5:19:5
-# text = Na de ååʹn... tõt kuälmad vuâr puõʹđi, de Peʹll âʹtte nåkkam-a lij ooumaž.
-"<Na>"
-	"na" Interj
-"<de>"
-	"de" Adv
-"<ååʹn>"
-	"ååʹn" Adv Sem/Time Sem/Time
-"<...>"
-	"..." PUNCT
-"<tõt>"
-	"tõt" Pron Dem Sg Nom
-"<kuälmad>"
-	"kuälmad" Pron Ord Attr
-"<vuâr>"
-	"vuârr" N Sg Acc @OBJ>
-"<puõʹđi>"
-	"pueʹtted" V Ind Prt Sg3
-"<,>"
-	"," PUNCT
-"<de>"
-	"de" CCONJ
-"<Peʹll>"
-	"Peʹll" N Prop Sg Nom
-"<âʹtte>"
-	"âʹtte" Adv Sem/Time
-"<nåkkam-a>"
-!	"nåkkam" Pron ? Attr
-"<lij>"
-	"leeʹd" V Ind Prs Sg3
-"<ooumaž>"
-	"ooumaž" N Sem/Hum Sg Nom
-"<.>"
-	"." PUNCT
-
-# sent_id = kotus-skak2010-1-5:19:6
-# text = Leäi, leäi de puõʹđi.
-"<Leäi>"
-	"leeʹd" V Ind Prt Sg3
-"<,>"
-	"," PUNCT
-"<leäi>"
-	"leeʹd" V Ind Prt Sg3
-"<de>"
-	"de" CCONJ
-"<puõʹđi>"
-	"pueʹtted" V Ind Prt Sg3
-"<.>"
-	"." PUNCT
-
-# sent_id = kotus-skak2010-1-5:19:7
-# text = Son âʹtte mettõõđi: ”Näʹde ton-õs mõõnsââʹst, ââʹnat a Peʹll ij deʹbe.
-"<Son>"
-	"son" Pron Pers Sg3 Nom
-"<âʹtte>"
-	"âʹtte" Adv Sem/Time
-"<mettõõđi>"
-	"metteed" V Der/oottyd Ind Prt Sg3
-"<:>"
-	":" PUNCT
-"<”>"
-	"”" PUNCT RIGHT
-"<Näʹde>"
-	"näʹde" Interj
-"<ton-õs>"
-	"ton" Pron Pers Sg2 Nom Foc/õs
-"<mõõnsââʹst>"
-	"mõõnsâʹstted" V Imprt Sg2
-"<,>"
-	"," PUNCT
-"<ââʹnat>"
-	"ââʹnted" V Ind Prs Sg3
-"<a>"
-	"a" CCONJ
-"<Peʹll>"
-	"Peʹll" N Prop Sg Nom
-"<ij>"
-	"ij" V Neg Ind Sg3 @+FAUXV
-"<deʹbe>"
-	"deʹbe" Pcle
-"<.>"
-	"." PUNCT
-
-# sent_id = kotus-skak2010-1-5:19:8
-# text = Ton še mõõnsââʹst.
-"<Ton>"
-	"ton" Pron Pers Sg2 Nom
-"<še>"
-	"še" Pcle
-"<mõõnsââʹst>"
-	"mõõnsâʹstted" V Imprt Sg2
-"<.>"
-	"." PUNCT
-
-# sent_id = kotus-skak2010-1-5:19:9
-# text = Mon jieʹllem, ton še mõõnsââʹst.”
-"<Mon>"
-	"mon" Pron Pers Sg1 Nom
-"<jieʹllem>"
-	"jieʹlled" V Ind Prt Sg1
-"<,>"
-	"," PUNCT
-"<ton>"
-	"ton" Pron Pers Sg2 Nom
-"<še>"
-	"še" Pcle
-"<mõõnsââʹst>"
-	"mõõnsâʹstted" V Imprt Sg2
-"<.>"
-	"." PUNCT
-
-"<”>"
-	"”" PUNCT RIGHT
-
-# sent_id = kotus-skak2010-1-5:20:1
-# text = Bieʹss a ko mâânn, son pâi looʹǩǩid käʹttli di tolljoʹǩǩe vueʹlǧǧii.
-"<Bieʹss>"
-	"bieʹss" N Sg Nom
-"<a>"
-	"a" CCONJ
-"<ko>"
-	"ko" SCONJ
-"<mâânn>"
-!	"mõõnnâd" V Ind Prs Sg3 @+FAUXV
-"<,>"
-	"," PUNCT
-"<son>"
-	"son" Pron Pers Sg3 Nom
-"<pâi>"
-	"pâi" Adv
-"<looʹǩǩid>"
-	"låʹǩǩ" N Pl Ill
-"<käʹttli>"
-	"käʹttled" V Ind Prt Sg3
-"<di>"
-	"di" CCONJ
-"<tolljoʹǩǩe>"
-	"Tolljokk" N Prop Sem/Plc Sg Ill
-"<vueʹlǧǧii>"
-	"vueʹlǧǧeed" V Ind Prt Sg3
-"<.>"
-	"." PUNCT
+# text = – ”Jaa. Näʹde mõõnsââstam âʹtte mon še, čääkk deʹbe ij peʹll, teʹl deʹbe vueiʹttveʹted tij dõnõõkkâd.”
+1	–	–	PUNCT	_	_	_	_	_	_
+2	”	”	PUNCT	_	RIGHT	_	_	_	_
+3	Jaa	jaa	INTJ	_	_	6	discourse	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+5	Näʹde	näʹde	INTJ	_	_	6	discourse	_	_
+6	mõõnsââstam	mõõnsâʹstted	VERB	_	Ind|Prs|Sg1	8	nsubj	_	_
+7	âʹtte	âʹtte	ADV	_	Sem/Time	6	advmod	_	_
+8	mon	mon	PRON	_	Pers|Sg1|Nom	_	_	_	_
+9	še	še	PART	_	_	8	discourse	_	_
+10	,	,	PUNCT	_	_	_	_	_	_
+11	čääkk	čaakkâd	VERB	_	Ind|Prs|Sg3	_	_	_	_
+12	deʹbe	deʹbe	PART	_	_	_	_	_	_
+13	ij	ij	AUX	_	Neg|Ind|Sg3|@+FAUXV	_	_	_	_
+14	peʹll	peʹll	ADV	_	Prop|Sg|Nom	_	_	_	_
+15	,	,	PUNCT	_	_	_	_	_	_
+16	teʹl	teʹl	ADV	_	Sem/Time	_	_	_	_
+17	deʹbe	deʹbe	PART	_	_	_	_	_	_
+18	vueiʹttveʹted	vueiʹtted	VERB	_	Ind|Prs|Pl2|@+FAUXV	_	_	_	_
+19	tij	ton	PRON	_	Pers|Pl2|Nom	18	nsubj	_	_
+20	dõnõõkkâd	dõnõõkkâd	VERB	_	Inf|@-FMAINV	_	_	_	_
+21	.	.	PUNCT	_	_	_	_	_	_
+22	”	”	PUNCT	_	RIGHT	_	_	_	_
 
 # sent_id = kotus-skak2010-1-5:20:2
 # text = Nuʹt hiâvti tõn de jiõčč piâzzi.
@@ -761,39 +306,6 @@
 	"nijdd" N Sem/Kin Sg Nom @HNOUN
 "<...>"
 	"..." PUNCT
-
-# sent_id = kotus-skak2010-1-5:20:4
-# text = Nuʹt pieʹsse tõk, bieʹss hiâvte.
-1	Nuʹt	nuʹtt	Adv	_	Err/Orth	2	advmod	_	_
-2	pieʹsse	piâssâd	V	_	Ind|Prt|Pl3	0	root	_	_
-3	tõk	tõt	Pron	_	Dem|Pl|Nom|@SUBJ	2	nsubj	_	_
-4	,	,	PUNCT	_	_	6	punct	_	_
-5	bieʹss	bieʹss	N	_	Sg|Acc|@OBJ>	6	obj	_	_
-6	hiâvte	hiâvted	V	_	Ind|Prt|Pl3	2	conj	_	_
-7	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = kotus-skak2010-1-5:20:5
-# text = Di tõt ooumaž võõidi jieʹllmen, di tut vuäʹbbes di villjâs.
-1	Di	di	CCONJ	_	_	4	cc	_	_
-2	tõt	tõt	Pron	_	Dem|Sg|Nom|@SUBJ	3	det	_	_
-3	ooumaž	ooumaž	N	_	Sem/Hum|Sg|Nom|@<SPRED	4	nsubj	_	_
-4	võõidi	võõidâd	V	_	Ind|Prt|Sg3	0	root	_	_
-5	jieʹllmen	jieʹlled	V	_	Actio|Ess	4	xcomp	_	_
-6	,	,	PUNCT	_	_	9	punct	_	_
-7	di	di	CCONJ	_	_	9	cc	_	_
-8	tut	tut	Pron	_	Dem|Sg|Nom	9	det	_	_
-9	vuäʹbbes	vuäʹbb	N	_	Sem/Kin|Sg|Nom|PxSg3	4	conj	_	_
-10	di	di	CCONJ	_	@CNP	11	cc	_	_
-11	villjâs	villj	N	_	Sem/Kin|Sg|Nom|PxSg3	9	conj	_	_
-12	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = kotus-skak2010-1-5:20:6
-# text = Tõt leäi nåkkam maainâs.
-1	Tõt	tõt	Pron	_	Dem|Sg|Nom	4	nsubj:cop	_	_
-2	leäi	leeʹd	V	_	Ind|Prt|Sg3	4	cop	_	_
-3	nåkkam	nåkkam	ADJ	_	Attr	4	amod	_	_
-4	maainâs	maainâs	N	_	Sg|Nom	0	root	_	_
-5	.	.	PUNCT	_	_	4	punct	_	_
 
 #THIS FAR
 # sent_id = kotus-skak2010-1-6:1:1
