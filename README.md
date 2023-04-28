@@ -36,12 +36,17 @@ however, we would be no where…
 
 * Eino Koponen, Jouni Moshnikoff & Satu Moshnikoff. 2010: Sääʹmǩiõll, äʹrbbǩiõll.Helsinki: (Kotimaisten kielten keskus) Institute for the Languages of Finland. Dommjânnmlaž ǩiõli tuʹtǩǩeemkõõskõs. Online publications of the Institute for the Languages of Finland, 14. ISSN 1796-041X. URL: http://scripta.kotus.fi/www/verkkojulkaisut/julk14/
 * Pekka Sammallahti, Jouni Moshnikoff. 1991: Suomi-Koltansaame sanakirja / Lääʹdd-sääʹm sääʹnnǩeʹrjj [Finnish-Skolt Sámi Dictionary]. Girjegiisá Oy. Ohcejohka.
+* Satu da Jouni Moshnikoff, Eino Koponen, Miika Lehtinen. 2020: Sääʹmǩiõl ǩiõllvueʹppes / Koltansaamen kielioppi. Sääʹmteʹǧǧ-Saamelaiskäräjät.
 
 * (citation)
 
 
 # Changelog
 
+* 2023-04-30
+  * Continued annotation of stories from Sääʹmǩiõll, äʹrbbǩiõll.
+  * Added some example sentences from Sääʹmǩiõl ǩiõllvueʹppes
+  * Adjustments to diminutive, valency.
 * 2022-10-31
   * Continued annotation of stories from Sääʹmǩiõll, äʹrbbǩiõll.
 * 2022-04-29
