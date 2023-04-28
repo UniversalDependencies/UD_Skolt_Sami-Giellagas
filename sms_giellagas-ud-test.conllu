@@ -209,7 +209,7 @@
 1	Suʹst	son	PRON	Pron	Case=Loc|Number=Sing|Person=3|PronType=Prs	4	obl:agent	_	GTtags=Pers,Sg3,Loc
 2	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	aux	_	GTtags=IV,Ind,Prt,Sg3
 3	õlggâm	õlggâd	AUX	Aux	Aspect=Perf|VerbForm=Part	4	aux	_	GTtags=Act,PrfPrc
-4	leeʹd	leeʹd	AUX	V	Valency=1|VerbForm=Inf	0	root	_	GTtags=IV,Inf
+4	leeʹd	leeʹd	AUX	V	VerbForm=Inf	0	root	_	GTtags=IV,Inf
 5	tõn	tõt	DET	Det	Case=Gen|Number=Sing|PronType=Dem	6	det	_	GTtags=Dem,Sg,Gen
 6	peeiʹv	peiʹvv	NOUN	N	Case=Gen|Number=Sing	4	obl:tmod	_	GTtags=Sg,Gen
 7	čååǥǥâʹttmen	čååǥǥâʹttmen	VERB	V	_	4	xcomp	_	_
@@ -350,7 +350,7 @@
 4	čiččâm	čiččâm	NUM	Num	Case=Nom|Number=Sing	5	nummod	_	GTtags=Sg,Nom
 5	eeʹjj	eeʹǩǩ	NOUN	N	Case=Acc|Number=Sing	8	obl:tmod	_	GTtags=Sg,Acc
 6	feʹrttji	feʹrttjed	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	aux	_	GTtags=Ind,Prt,Sg3
-7	leeʹd	leeʹd	AUX	Aux	Valency=1|VerbForm=Inf	8	cop	_	GTtags=IV,Inf
+7	leeʹd	leeʹd	AUX	Aux	VerbForm=Inf	8	cop	_	GTtags=IV,Inf
 8	säldten	säldten	NOUN	N	Case=Ess	0	root	_	GTtags=Ess
 9	ja	ja	CCONJ	CC	_	11	cc	_	_
 10	vasta	vasta	ADV	Adv	_	11	advmod:tmod	_	_
