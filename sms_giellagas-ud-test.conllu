@@ -6,7 +6,7 @@
 # text_mdf = Стирсь сёрмадсь сёрма ялганцты.
 1	Tõt	tõt	DET	Det	Case=Nom|Number=Sing|PronType=Dem	2	det	_	GTtags=Dem,Sg,Nom
 2	nijdd	nijdd	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	3	nsubj	_	GTtags=Sem/Kin,Sg,Nom
-3	ǩeeʹrjti	ǩeeʹrjted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	0	root	_	GTtags=Ind,Prt,Sg3
+3	ǩeeʹrjti	ǩeeʹrjted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 4	ǩeeʹrj	ǩeʹrjj	NOUN	N	Case=Acc|Number=Sing	3	obj	_	GTtags=Sg,Acc
 5	taaurõššʼses	taaurõš	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	GTtags=Sg,Ill,PxSg3|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	3	punct	_	_
@@ -16,9 +16,9 @@
 # text_fi = Luulen että sataa.
 # text_olo = Smietin, ku vihmuu.
 # text_mdf = Арьсян, пизем туй.
-1	Joordam	juʹrdded	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Valency=2	0	root	_	GTtags=Ind,Prs,Sg1
+1	Joordam	juʹrdded	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg1
 2	što	što	SCONJ	CS	_	3	mark	_	_
-3	âbrr	âʹbrred	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	1	ccomp	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
+3	âbrr	âʹbrred	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	ccomp	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	1	punct	_	_
 
 # sent_id = FofonoffHilkka_brat_2018:3
@@ -27,7 +27,7 @@
 # text_olo = Häi oppi heittiä kurindan da juondan.
 # text_mdf = Сон тяряфтсь кадомс таргаманц и симоманц.
 1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	ǩiččlõõddi	ǩiččlõddâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	0	root	_	GTtags=Ind,Prt,Sg3
+2	ǩiččlõõddi	ǩiččlõddâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 3	looppted	looppted	VERB	V	VerbForm=Inf	2	xcomp	_	GTtags=Inf
 4	tääbbaǩ	tääbbaǩ	NOUN	N	Case=Gen|Number=Sing	5	obj	_	GTtags=Sg,Gen
 5	puälddmõõžž	pueʹldded	VERB	V	Case=Acc|Number=Sing|VerbForm=Vnoun	3	obj	_	GTtags=Sg,Acc
@@ -41,7 +41,7 @@
 # text_fi = Haluatko mennä?
 # text_olo = Tahtotgo mennä?
 # text_mdf = Молелексолеть?
-1	Haaʹlääk-a	haaʹleed	VERB	V	Clitic=QstA|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Valency=1	0	root	_	GTtags=Ind,Prs,Sg2,Qst/a
+1	Haaʹlääk-a	haaʹleed	VERB	V	Clitic=QstA|Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg2,Qst/a
 2	mõõnnâd	mõõnnâd	VERB	V	VerbForm=Inf	1	xcomp	_	GTtags=Inf|SpaceAfter=No
 3	?	?	PUNCT	CLB	_	1	punct	_	_
 
@@ -61,7 +61,7 @@
 # text_olo = Häi pani ukon pezemäh mašinua.
 # text_mdf = Сон кошардозе мирденц машинань штама.
 1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	piiji	piijjâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	0	root	_	GTtags=Ind,Prt,Sg3
+2	piiji	piijjâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 3	kuõjâs	kuõjj	NOUN	N	Animacy=Hum|Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obj	_	GTtags=Sem/Kin,Sg,Acc,PxSg3
 4	põõssâd	põõssâd	VERB	V	VerbForm=Inf	2	xcomp	_	GTtags=Inf
 5	aaut	autt	NOUN	N	Case=Acc|Number=Sing	4	obj	_	GTtags=Sg,Acc|SpaceAfter=No
@@ -74,7 +74,7 @@
 # text_mdf = Петять шабрац архтозе перяфксть.
 1	Peter	Peter	NOUN	N	Case=Gen|Number=Sing	2	nmod	_	GTtags=Prop,Sem/Mal,Sg,Gen
 2	räʹjjlaž	räʹjjlaž	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	GTtags=Sg,Nom
-3	kälkkii	kälkkeed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	0	root	_	GTtags=Ind,Prt,Sg3
+3	kälkkii	kälkkeed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 4	čuâl	čuâll	NOUN	N	Case=Acc|Number=Sing	3	obj	_	GTtags=Sg,Acc|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	3	punct	_	_
 
@@ -84,7 +84,7 @@
 # text_olo = Minun tuatto on kylmyverizembi migu sinun.
 # text_mdf = Алязе тонь алядот крутой.
 1	Eččad	eʹčč	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	4	nsubj	_	GTtags=Sem/Kin,Sg,Nom,PxSg2
-2	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	4	cop	_	GTtags=IV,Ind,Prs,Sg3
+2	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	GTtags=IV,Ind,Prs,Sg3
 3	luândstes	luândd	NOUN	N	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	_	GTtags=Sg,Loc,PxSg3
 4	lääʹđesmiõllsab	lääʹđesmiõllsaž	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	0	root	_	GTtags=Comp,Sg,Nom
 5	ǥu	ǥu	ADV	Adv	_	6	mark	_	_
@@ -97,7 +97,7 @@
 # text_olo = Mary voitti bronzumedalin, Peter hobjumedalin da Jane kuldumedalin.
 # text_mdf = Марья сявозе бронзать, Петя – сияннеть, а Джейн – зрняннеть.
 1	Mary	Mary	PROPN	N	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	2	nsubj	_	GTtags=Prop,Sem/Fem,Sg,Nom
-2	vuäǯǯai	vuäǯǯad	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	0	root	_	GTtags=Ind,Prt,Sg3
+2	vuäǯǯai	vuäǯǯad	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 3	proons	pronss	NOUN	N	Case=Acc|Number=Sing	2	obj	_	GTtags=Sg,Acc|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	Peter	Peter	PROPN	N	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	2	conj	_	GTtags=Prop,Sem/Mal,Sg,Nom
@@ -112,7 +112,7 @@
 # text_fi = Onko Iguazu iso vai pieni maa?
 # text_olo = Ongo Iguazu suuri vai pieni mua?
 # text_mdf = Игуазсь оцю или ёмла мастор?
-1	Lij-a	leeʹd	AUX	V	Clitic=QstA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	6	cop	_	GTtags=IV,Ind,Prs,Sg3,Qst/a
+1	Lij-a	leeʹd	AUX	V	Clitic=QstA|Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	GTtags=IV,Ind,Prs,Sg3,Qst/a
 2	Iguazu	Iguazu	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	GTtags=Prop,Sg,Nom
 3	jõnn	jõnn	ADJ	A	_	6	amod	_	GTtags=Attr
 4	avi	avi	CCONJ	CC	_	5	cc	_	_
@@ -126,7 +126,7 @@
 # text_olo = Ei voidu vallita Peter Smithua, eigo Mary Brownii.
 # text_mdf = Аф Петя Смит, аф Марья Браун ашесть кочкав.
 1	Nuʹtt	nuʹtt	ADV	Adv	_	2	advmod	_	_
-2	kuâđđje	kuâđđjed	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|Valency=1	0	root	_	GTtags=Ind,Prt,Pl3
+2	kuâđđje	kuâđđjed	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Pl3
 3	vaʹlljeeǩâni	vaʹlljeed	VERB	V	Case=Abe|VerbForm=Ger	2	advcl	_	GTtags=VAbess
 4	Peter	Peter	PROPN	N	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	2	nsubj	_	GTtags=Prop,Sem/Mal,Attr
 5	Smith	Smith	PROPN	N	Animacy=Hum|Case=Nom|NameType=Sur|Number=Sing	4	flat:name	_	GTtags=Prop,Sem/Sur,Sg,Nom
@@ -142,7 +142,7 @@
 # text_olo = Heil ei ole ovvostustu sit, ken sen kirjutti.
 # text_mdf = Синь мялезостка ашезь кунда, кие тянь сёрмадозе.
 1	Seeʹst	son	PRON	Pron	Case=Loc|Number=Plur|Person=3|PronType=Prs	2	obl	_	GTtags=Pers,Pl3,Loc
-2	jeäʹla	iʹlla	AUX	V	Number=Plur|Person=3|Tense=Pres|Valency=1	0	root	_	GTtags=V
+2	jeäʹla	iʹlla	AUX	V	Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=V
 3	ǩeeʹrjteeʹjest	ǩeeʹrjteei	NOUN	N	Case=Loc|Number=Sing	2	obl	_	GTtags=Sg,Loc
 4	võl	võl	ADV	Adv	AdvType=Tim	2	advmod	_	GTtags=Sem/Time
 5	ni	ni	PART	Pcle	_	6	advmod:neg	_	_
@@ -156,7 +156,7 @@
 # text_olo = Midäbo kačot?
 # text_mdf = Мезень лангс ванат?
 1	Mâiʹd	mâiʹd	PRON	Pron	Case=Acc|Number=Sing|PronType=Int	2	obj	_	GTtags=Interr,Sg,Acc
-2	ǩiõččak	ǩiõččâd	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Valency=2	0	root	_	GTtags=Ind,Prs,Sg2|SpaceAfter=No
+2	ǩiõččak	ǩiõččâd	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg2|SpaceAfter=No
 3	?	?	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = FofonoffHilkka_brat_2018:14
@@ -165,7 +165,7 @@
 # text_olo = Konzubo duumaičet voit tulla?
 # text_mdf = Кода арьсят, мзярда тон сават?
 1	Mâiʹd	mâiʹd	PRON	Pron	Case=Acc|PronType=Int	2	obj	_	GTtags=Interr,Acc
-2	joordak	juʹrdded	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Valency=2	0	root	_	GTtags=Ind,Prs,Sg2
+2	joordak	juʹrdded	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg2
 3	što	što	SCONJ	CS	_	5	mark	_	_
 4	kuäʹss	kuäʹss	ADV	Adv	_	5	advmod:tmod	_	_
 5	piâzzčiǩ	piâssâd	VERB	V	Mood=Cnd|Number=Sing|Person=2	2	xcomp	_	GTtags=Cond,Sg2|SpaceAfter=No
@@ -177,7 +177,7 @@
 # text_olo = Häi osti mašinan, ga hänen velleh pyörän.
 # text_mdf = Сон рамась машина, а брадоц  аньцек велосипед.
 1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	vueʹsti	vuäʹstted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	0	root	_	GTtags=Ind,Prt,Sg3
+2	vueʹsti	vuäʹstted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 3	aaut	autt	NOUN	N	Case=Acc|Number=Sing	2	obj	_	GTtags=Sg,Acc
 4	da	da	CCONJ	CC	_	6	cc	_	_
 5	väʹst	väʹst	ADV	Adv	_	6	orphan	_	_
@@ -194,9 +194,9 @@
 1	Peter	Peter	PROPN	N	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	4	nsubj	_	GTtags=Prop,Sem/Mal,Sg,Nom
 2	da	da	CCONJ	CC	_	3	cc	_	_
 3	Mary	Mary	PROPN	N	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	1	conj	_	GTtags=Prop,Sem/Fem,Sg,Nom
-4	âskkõʹlle	âskkõõllâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|Valency=1	0	root	_	GTtags=Ind,Prt,Pl3
+4	âskkõʹlle	âskkõõllâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Pl3
 5	da	da	CCONJ	CC	_	6	cc	_	_
-6	liõʹhtte	liõhttâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|Valency=1	4	conj	_	GTtags=Ind,Prt,Pl3
+6	liõʹhtte	liõhttâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	conj	_	GTtags=Ind,Prt,Pl3
 7	meädda	meädda	ADV	Adv	_	8	advmod:lmod	_	_
 8	lõõnjâst	lõnnj	NOUN	N	Case=Loc|Number=Sing	6	obl:lmod	_	GTtags=Sg,Loc|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	4	punct	_	_
@@ -207,9 +207,9 @@
 # text_olo = Hänel olis pidänyh olla prichoskua luadimas, ga häi erähien syylöin periä ei voinnuh sinä piän.
 # text_mdf = Сондеенза эрявсть тиемс шяяренза, аньцек ся шиня сонь ашель мялец.
 1	Suʹst	son	PRON	Pron	Case=Loc|Number=Sing|Person=3|PronType=Prs	4	obl:agent	_	GTtags=Pers,Sg3,Loc
-2	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	4	aux	_	GTtags=IV,Ind,Prt,Sg3
+2	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	aux	_	GTtags=IV,Ind,Prt,Sg3
 3	õlggâm	õlggâd	AUX	Aux	Aspect=Perf|VerbForm=Part	4	aux	_	GTtags=Act,PrfPrc
-4	leeʹd	leeʹd	AUX	V	Valency=1|VerbForm=Inf	0	root	_	GTtags=IV,Inf
+4	leeʹd	leeʹd	AUX	V	VerbForm=Inf	0	root	_	GTtags=IV,Inf
 5	tõn	tõt	DET	Det	Case=Gen|Number=Sing|PronType=Dem	6	det	_	GTtags=Dem,Sg,Gen
 6	peeiʹv	peiʹvv	NOUN	N	Case=Gen|Number=Sing	4	obl:tmod	_	GTtags=Sg,Gen
 7	čååǥǥâʹttmen	čååǥǥâʹttmen	VERB	V	_	4	xcomp	_	_
@@ -232,13 +232,13 @@
 # text_olo = En ehtinyh hänele jälles, sendäh ku häi juoksi ylen terväh.
 # text_mdf = Мондейне сон ашезь сатов, сяс мес ласьксь пяк вишкста.
 1	Jiõm	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	2	aux:neg	_	GTtags=Neg,Ind,Sg1
-2	pâsttam	pâʹstted	VERB	Aux	Connegative=Yes|Mood=Ind|Tense=Past|Valency=1	0	root	_	GTtags=Ind,Prt,ConNeg
+2	pâsttam	pâʹstted	VERB	Aux	Connegative=Yes|Mood=Ind|Tense=Past	0	root	_	GTtags=Ind,Prt,ConNeg
 3	seuʹrrjed	seuʹrrjed	VERB	V	VerbForm=Inf	2	xcomp	_	GTtags=Inf
 4	suu	son	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	det	_	GTtags=Pers,Sg3,Gen
 5	urččmõõžž	urččmõš	NOUN	N	Case=Acc|Number=Sing	3	obj	_	GTtags=Sg,Acc
 6	ǥu	ǥu	SCONJ	CS	_	10	mark	_	_
 7	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	GTtags=Pers,Sg3,Nom
-8	leäi	leeʹd	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	10	cop	_	GTtags=IV,Ind,Prt,Sg3
+8	leäi	leeʹd	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	cop	_	GTtags=IV,Ind,Prt,Sg3
 9	samai	samai	ADV	Adv	_	10	advmod:deg	_	_
 10	jåʹttel	jåʹttel	ADJ	A	Case=Nom|Number=Sing	2	advcl	_	GTtags=Sg,Nom|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	2	punct	_	_
@@ -252,7 +252,7 @@
 2	jåhtta	jåhtta	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	GTtags=Sem/Time
 3	tuåimtum	tuåimted	VERB	V	Aspect=Perf|VerbForm=Part|Voice=Pass	4	advcl	_	GTtags=Pass,PrfPrc
 4	ǩeʹrjj	ǩeʹrjj	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	GTtags=Sg,Nom
-5	lij	leeʹd	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	7	cop	_	GTtags=IV,Ind,Prs,Sg3
+5	lij	leeʹd	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	cop	_	GTtags=IV,Ind,Prs,Sg3
 6	Peter	Peter	PROPN	N	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	7	obl	_	GTtags=Prop,Sem/Mal,Sg,Nom
 7	vuõltteem	vuõltteed	VERB	V	Aspect=Perf|VerbForm=Part	0	root	_	GTtags=Act,PrfPrc|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	7	punct	_	_
@@ -262,7 +262,7 @@
 # text_fi = Hän kasvoi Pariisissa, joka on Ranskan pääkaupunki.
 # text_mdf = Сон кассь Парижса. Парижсь – тя Франциять ине ошец.
 1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	jälsti	jälsted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	0	root	_	GTtags=Ind,Prt,Sg3
+2	jälsti	jälsted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 3	čõõđ	čõõđ	ADP	Pr	AdpType=Prep	4	case	_	_
 4	ääiʹj	äiʹǧǧ	NOUN	N	Case=Gen|Number=Sing	2	obl:tmod	_	GTtags=Sg,Gen
 5	Pariizzâst	Pariizzâst	PROPN	N	Case=Loc|NameType=Geo|Number=Sing	2	obl:lmod	_	GTtags=Prop,Sem/Plc,Sg,Loc|SpaceAfter=No
@@ -280,7 +280,7 @@
 3	leämmaž	leeʹd	AUX	V	Aspect=Perf|VerbForm=Part	4	cop	_	GTtags=IV,Act,PrfPrc
 4	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	0	root	_	GTtags=Sg,Loc|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
-6	iʹttli	iʹttled	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	4	advcl	_	GTtags=Ind,Prt,Sg3
+6	iʹttli	iʹttled	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	advcl	_	GTtags=Ind,Prt,Sg3
 7	kuʹmpp	kuʹmpp	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	GTtags=Sg,Nom
 8	väʹst	väʹst	ADV	Adv	_	6	advmod	_	_
 9	mååust	mååust	ADV	Adv	_	6	advmod:lmod	_	SpaceAfter=No
@@ -292,7 +292,7 @@
 # text_fi = se palvelusaika oli 25 vuotta.
 1	tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	2	det	_	GTtags=Dem,Sg,Nom
 2	sluužbäiʹǧǧ	sluuʹžbäiʹǧǧ	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	GTtags=Sg,Nom
-3	leäi	leeʹd	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	5	cop	_	GTtags=IV,Ind,Prt,Sg3
+3	leäi	leeʹd	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	GTtags=IV,Ind,Prt,Sg3
 4	kuâhttlovitt	kuâhttlovitt	NUM	Num	_	5	nummod	_	_
 5	eeʹjj	eeʹǩǩ	NOUN	N	Case=Gen|Number=Sing	0	root	_	GTtags=Sg,Gen|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
@@ -301,20 +301,20 @@
 # aannotation="yes" begintime="0:02:12" endtime="0:02:18"
 # text = kõõjji, štõ leäk-a tiõrvâs, jiõk leäkku tiõrvâs, lij-a piâr vai iʹlla.
 # text_fi = kysyi, että oletko terve, et ole terve, onko perhettä vai eikö ole.
-1	kõõjji	kõõččâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	0	root	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
+1	kõõjji	kõõččâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
 2	,	,	PUNCT	CLB	_	5	punct	_	_
 3	štõ	što	SCONJ	CS	_	5	mark	_	_
-4	leäk-a	leeʹd	AUX	Aux	Clitic=QstA|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Valency=1	5	cop	_	GTtags=IV,Ind,Prs,Sg2,Qst/a
+4	leäk-a	leeʹd	AUX	Aux	Clitic=QstA|Mood=Ind|Number=Sing|Person=2|Tense=Pres	5	cop	_	GTtags=IV,Ind,Prs,Sg2,Qst/a
 5	tiõrvâs	tiõrvâs	ADJ	A	Case=Nom|Number=Sing	1	ccomp	_	GTtags=Sg,Nom|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	9	punct	_	_
 7	jiõk	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	9	aux:neg	_	GTtags=Neg,Ind,Sg2
-8	leäkku	leeʹd	AUX	Aux	Connegative=Yes|Mood=Ind|Tense=Pres|Valency=1	9	aux	_	GTtags=IV,Ind,Prs,ConNeg
+8	leäkku	leeʹd	AUX	Aux	Connegative=Yes|Mood=Ind|Tense=Pres	9	aux	_	GTtags=IV,Ind,Prs,ConNeg
 9	tiõrvâs	tiõrvâs	ADJ	A	Case=Nom|Number=Sing	5	conj	_	GTtags=Sg,Nom|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	12	punct	_	_
-11	lij-a	leeʹd	AUX	Aux	Clitic=QstA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	12	cop	_	GTtags=IV,Ind,Prs,Sg3,Qst/a
+11	lij-a	leeʹd	AUX	Aux	Clitic=QstA|Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	cop	_	GTtags=IV,Ind,Prs,Sg3,Qst/a
 12	piâr	piâr	NOUN	N	Case=Nom|Number=Sing	5	conj	_	GTtags=N,Sg,Nom
 13	vai	vai	CCONJ	CC	_	14	cc	_	_
-14	iʹlla	iʹlla	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|Valency=1	12	conj	_	GTtags=Neg,Ind,Prs,Sg3|SpaceAfter=No
+14	iʹlla	iʹlla	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	12	conj	_	GTtags=Neg,Ind,Prs,Sg3|SpaceAfter=No
 15	.	.	PUNCT	CLB	_	1	punct	_	_
 
 # sent_id = 11308_1a::0:02:39-0:02:44
@@ -322,7 +322,7 @@
 # text = teʹl piʹjje čiččâm ekka sluužba.
 # text_fi = silloin laittoivat seitsemäksi vuodeksi palvelukseen
 1	teʹl	teʹl	ADV	Adv	_	2	advmod:tmod	_	_
-2	piʹjje	piijjâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|Valency=2	0	root	_	GTtags=Ind,Prt,Pl3
+2	piʹjje	piijjâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Pl3
 3	čiččâm	čiččâm	NUM	Num	Case=Nom|Number=Sing	4	nummod	_	GTtags=Sg,Nom
 4	ekka	eeʹǩǩ	NOUN	N	Case=Ill|Number=Sing	2	obl:tmod	_	GTtags=Sg,Ill
 5	sluužba	sluuʹžb	NOUN	N	Case=Ill|Number=Sing	2	obl	_	GTtags=Sg,Ill|SpaceAfter=No
@@ -334,10 +334,10 @@
 # text_fi = seitsemän vuotta menee ennen kuin pääsee.
 1	čiččâm	čiččâm	NUM	Num	Case=Nom|Number=Sing	2	nummod	_	GTtags=Sg,Nom
 2	eeʹǩǩed	eeʹǩǩ	NOUN	N	Case=Par	3	nsubj	_	GTtags=Par
-3	mâânn	mõõnnâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	0	root	_	GTtags=Ind,Prs,Sg3
+3	mâânn	mõõnnâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
 4	ouddâl	ouddâl	ADV	Adv	_	6	mark	_	_
 5	ko	ko	SCONJ	CS	_	4	fixed	_	_
-6	peäss	piâssâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	3	advcl	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
+6	peäss	piâssâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	advcl	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = 11308_1a::0:03:29-0:03:34
@@ -349,12 +349,12 @@
 3	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	2	advmod:tmod	_	GTtags=Sem/Time
 4	čiččâm	čiččâm	NUM	Num	Case=Nom|Number=Sing	5	nummod	_	GTtags=Sg,Nom
 5	eeʹjj	eeʹǩǩ	NOUN	N	Case=Acc|Number=Sing	8	obl:tmod	_	GTtags=Sg,Acc
-6	feʹrttji	feʹrttjed	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	8	aux	_	GTtags=Ind,Prt,Sg3
-7	leeʹd	leeʹd	AUX	Aux	Valency=1|VerbForm=Inf	8	cop	_	GTtags=IV,Inf
+6	feʹrttji	feʹrttjed	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	aux	_	GTtags=Ind,Prt,Sg3
+7	leeʹd	leeʹd	AUX	Aux	VerbForm=Inf	8	cop	_	GTtags=IV,Inf
 8	säldten	säldten	NOUN	N	Case=Ess	0	root	_	GTtags=Ess
 9	ja	ja	CCONJ	CC	_	11	cc	_	_
 10	vasta	vasta	ADV	Adv	_	11	advmod:tmod	_	_
-11	puätt	pueʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	8	conj	_	GTtags=Ind,Prs,Sg3
+11	puätt	pueʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	conj	_	GTtags=Ind,Prs,Sg3
 12	mååust	mååust	ADV	Adv	_	11	advmod:lmod	_	SpaceAfter=No
 13	.	.	PUNCT	CLB	_	8	punct	_	_
 
@@ -365,7 +365,7 @@
 1	Ja	ja	CCONJ	CC	_	5	cc	_	_
 2	seeʹst	son	PRON	Pron	Case=Loc|Number=Plur|Person=3|PronType=Prs	5	obl	_	GTtags=Pers,Pl3,Loc
 3	vueʹppes	vueʹppes	NOUN	N	_	5	nsubj	_	_
-4	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	5	cop	_	GTtags=IV,Ind,Prt,Sg3
+4	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	GTtags=IV,Ind,Prt,Sg3
 5	Laurikainen	Laurikainen	PROPN	N	NameType=Prs	0	root	_	_
 
 # sent_id = 11308_1a::0:09:13-0:09:18
@@ -373,26 +373,26 @@
 # text = Oummu vuejjle de mõʹnne de mieʹldd čuõiggle.
 # text_fi = Miehet lähtivät ajamaan sitten menivät ja lähtivät perään hiihtämään.
 1	Oummu	ooumaž	NOUN	N	Case=Nom|Number=Plur	2	nsubj	_	GTtags=Pl,Nom
-2	vuejjle	vuejjled	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|Valency=1	0	root	_	GTtags=Ind,Prt,Pl3
+2	vuejjle	vuejjled	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Pl3
 3	de	de	CCONJ	CC	_	4	cc	_	_
-4	mõʹnne	mõõnnâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|Valency=1	2	conj	_	GTtags=Ind,Prt,Pl3
+4	mõʹnne	mõõnnâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt,Pl3
 5	de	de	CCONJ	CC	_	7	cc	_	_
 6	mieʹldd	mieʹldd	ADV	Adv	_	7	advmod	_	_
-7	čuõiggle	čuõiggled	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|Valency=1	2	conj	_	GTtags=Ind,Prt,Pl3|SpaceAfter=No
+7	čuõiggle	čuõiggled	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt,Pl3|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = kotus-skak2010-1-1:1-1
 # story_id = KÄMMǤA MAAINÂS:9:1:1
 # text = Vuõššân leäi källsaž, källsaž leäi de son jåått âʹtte mieʹccest.
 1	Vuõššân	vuõššân	ADV	_	AdvType=Tim	2	advmod	_	GTtags=Sem/Time
-2	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	0	root	_	GTtags=Ind,Prt,Sg3
+2	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 3	källsaž	källsaž	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	GTtags=Sg,Nom|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	källsaž	källsaž	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	GTtags=Sg,Nom
-6	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	2	conj	_	GTtags=Ind,Prt,Sg3
+6	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt,Sg3
 7	de	de	CCONJ	CC	_	9	cc	_	_
 8	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	GTtags=Pers,Sg3,Nom
-9	jåått	jååʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	2	conj	_	GTtags=Ind,Prs,Sg3
+9	jåått	jååʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3
 10	âʹtte	âʹtte	ADV	ADV	AdvType=Tim	9	advmod:tmod	_	GTtags=Sem/Time
 11	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	9	obl:lmod	_	GTtags=Sg,Loc|SpaceAfter=No
 12	.	.	PUNCT	CLB	_	2	punct	_	_
@@ -401,17 +401,17 @@
 # story_id = KÄMMǤA MAAINÂS:9:1:2
 # text = Son jåått mieʹccest... son lij ooumžen vuâlggjam, mâŋŋa näuʹdden suõʹppjââtt.
 1	Son	son	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	jåått	jååʹtted	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	0	root	_	GTtags=Ind,Prs,Sg3
+2	jåått	jååʹtted	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
 3	mieʹccest	meäʹcc	NOUN	_	Case=Loc|Number=Sing	2	obl:lmod	_	GTtags=N,Sg,Loc|SpaceAfter=No
 4	...	...	PUNCT	CLB	_	8	punct	_	_
 5	son	son	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	GTtags=Pers,Sg3,Nom
-6	lij	leeʹd	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	8	aux	_	GTtags=Ind,Prs,Sg3
+6	lij	leeʹd	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	aux	_	GTtags=Ind,Prs,Sg3
 7	ooumžen	ooumaž	NOUN	_	Case=Ess	8	xcomp	_	GTtags=N,Ess
 8	vuâlggjam	vuâlggjam	VERB	_	Aspect=Perf|VerbForm=Part	2	conj	_	GTtags=PrfPrc|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	12	punct	_	_
 10	mâŋŋa	mâŋŋa	ADV	_	AdvType=Tim	12	advmod:tmod	_	_
 11	näuʹdden	näuʹdd	NOUN	_	Case=Ess	12	xcomp	_	GTtags=Ess
-12	suõʹppjââtt	suõʹppjõõttâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	2	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
+12	suõʹppjââtt	suõʹppjõõttâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 13	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = kotus-skak2010-1-1:1-3
@@ -419,24 +419,24 @@
 # text = Näʹde näuʹdden suõʹppjââtt, kämmǥižžen âʹtte måttmešt ja kueʹllen vuâjj.
 1	Näʹde	näʹde	ADV	_	_	3	advmod	_	_
 2	näuʹdden	näuʹdd	NOUN	_	Case=Ess	3	xcomp	_	GTtags=Ess
-3	suõʹppjââtt	suõʹppjõõttâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	0	root	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
+3	suõʹppjââtt	suõʹppjõõttâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	kämmǥižžen	kämmǥaž	NOUN	_	Case=Ess	3	conj	_	GTtags=Ess
 6	âʹtte	âʹtte	ADV	_	_	5	orphan	_	_
 7	måttmešt	måttmešt	ADV	_	_	5	orphan	_	_
 8	ja	ja	CCONJ	_	_	10	cc	_	_
 9	kueʹllen	kueʹll	NOUN	_	Case=Ess	10	xcomp	_	GTtags=Ess
-10	vuâjj	vuõjjâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	3	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
+10	vuâjj	vuõjjâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = kotus-skak2010-1-1:1-4
 # story_id = KÄMMǤA MAAINÂS:9:1:4
 # text = Kueʹllen vuâjj ja låʹdden ǩeârdd.
 1	Kueʹllen	kueʹll	NOUN	_	Case=Ess	2	xcomp	_	GTtags=Ess
-2	vuâjj	vuõjjâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	0	root	_	GTtags=Ind,Prs,Sg3
+2	vuâjj	vuõjjâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
 3	ja	ja	CCONJ	_	_	5	cc	_	_
 4	låʹdden	låʹdd	NOUN	_	Case=Ess	5	xcomp	_	GTtags=Ess
-5	ǩeârdd	ǩeʹrdded	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	2	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
+5	ǩeârdd	ǩeʹrdded	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = kotus-skak2010-1-1:2-1
@@ -444,17 +444,17 @@
 # text = De måttmešt vaaʹldi de... suʹst liâ kueʹhtt pääʹrn, kueʹhtt mââʹnj liâ, kueʹhtt kaappi.
 1	De	de	CCONJ	_	_	3	cc	_	_
 2	måttmešt	måttmešt	ADV	_	AdvType=Tim	3	advmod:tmod	_	_
-3	vaaʹldi	väʹldded	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	0	root	_	GTtags=Ind,Prt,Sg3
+3	vaaʹldi	väʹldded	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 4	de	de	CCONJ	_	_	7	cc	_	SpaceAfter=No
 5	...	...	PUNCT	CLB	_	7	punct	_	_
 6	suʹst	son	PRON	_	Case=Loc|Number=Sing|Person=3|PronType=Prs	7	obl	_	GTtags=Pers,Sg3,Loc
-7	liâ	leeʹd	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Valency=1	3	conj	_	GTtags=Ind,Prs,Pl3
+7	liâ	leeʹd	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,Pl3
 8	kueʹhtt	kueʹhtt	NUM	_	Case=Nom|Number=Sing	9	nummod	_	GTtags=Sg,Nom
 9	pääʹrn	päʹrnn	NOUN	_	Animacy=Hum|Case=Nom|Number=Plur	7	nsubj	_	GTtags=Kin,Pl,Nom|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	13	punct	_	_
 11	kueʹhtt	kueʹhtt	NUM	_	Case=Nom|Number=Sing	12	nummod	_	GTtags=Sg,Nom
 12	mââʹnj	mââʹnnj	NOUN	_	Case=Nom|Number=Plur	13	nsubj	_	GTtags=Pl,Nom
-13	liâ	leeʹd	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Valency=1	3	conj	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
+13	liâ	leeʹd	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
 14	,	,	PUNCT	CLB	_	16	punct	_	_
 15	kueʹhtt	kueʹhtt	NUM	_	Case=Nom|Number=Sing	16	nummod	_	GTtags=Sg,Nom
 16	kaappi	kaav	NOUN	_	Animacy=Hum|Case=Nom|Number=Plur	3	conj	_	GTtags=Kin,Sem/Kin,Pl,Nom|SpaceAfter=No
@@ -465,9 +465,9 @@
 # text = Näʹde muõrid räʹjje, räʹjje, räʹjje.
 1	Näʹde	näʹde	ADV	_	_	3	advmod	_	_
 2	muõrid	muõrr	NOUN	_	Case=Acc|Number=Plur	3	obj	_	GTtags=Pl,Acc
-3	räʹjje	raajjâd	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Valency=2	0	root	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
+3	räʹjje	raajjâd	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	räʹjje	raajjâd	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Valency=2	3	conj	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
+5	räʹjje	raajjâd	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
 7	räʹjje	raajjâd	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	3	punct	_	_
@@ -1553,7 +1553,7 @@
 5	ko	ko	SCONJ	CS	_	6	mark	_	GTtags=@CVP
 6	väʒʒ	väʹʒʒed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3,@+FMAINV
 7	de	de	CCONJ	CC	_	9	cc	_	GTtags=@CVP
-8	vuõddjez	vuõdd	NOUN	N	Case=Nom|Derivation=Dimin|Number=Plur|Number[psor]=Plur|Person[psor]=3	9	obj	_	GTtags=Der/Dimin,N,Pl,Nom,PxPl3,@<SUBJ
+8	vuõddjez	vuõdd	NOUN	N	Case=Nom|Degree=Dim|Number=Plur|Number[psor]=Plur|Person[psor]=3	9	obj	_	GTtags=Der/Dimin,N,Pl,Nom,PxPl3,@<SUBJ
 9	nuâll	nuõllâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	conj	_	GTtags=Ind,Prs,Sg3,@+FMAINV
 10	de	de	CCONJ	CC	_	11	cc	_	GTtags=@CVP
 11	peejj	piijjâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	conj	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
@@ -2226,7 +2226,7 @@
 9	:	:	PUNCT	PUNCT	_	13	punct	_	_
 10	ton	ton	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	GTtags=Pers,Sg2,Nom
 11	ååʹn	ååʹn	ADV	Adv	AdvType=Tim	13	advmod:tmod	_	GTtags=Sem/Time,Sem/Time
-12	õõk	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Valency=1	13	aux:nec	_	GTtags=IV,Ind,Prs,Sg2
+12	õõk	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	13	aux:nec	_	GTtags=IV,Ind,Prs,Sg2
 13	lueʹštškueʹtted	lueʹštted	VERB	V	Derivation=InchL|VerbForm=Inf	8	ccomp	_	GTtags=Der/InchL,Inf
 14	suu	son	PRON	Pron	Case=Acc|Number=Sing|Person=3|PronType=Prs	13	obj	_	GTtags=Pers,Sg3,Acc
 15	tok	tok	ADV	Adv	_	13	advmod:lmod	_	SpaceAfter=No
@@ -2254,7 +2254,7 @@
 2	:	:	PUNCT	PUNCT	_	6	punct	_	_
 3	”	”	PUNCT	PUNCT	_	6	punct	_	GTtags=RIGHT|SpaceAfter=No
 4	Mâŋŋa	mâŋŋa	ADV	Adv	AdvType=Tim	6	advmod:tmod	_	GTtags=Sem/Time
-5	õõk	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Valency=1	6	aux:nec	_	GTtags=IV,Ind,Prs,Sg2
+5	õõk	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	6	aux:nec	_	GTtags=IV,Ind,Prs,Sg2
 6	ǩieʹssed	ǩieʹssed	VERB	V	VerbForm=Inf	1	ccomp	_	GTtags=Inf
 7	mååusat	mååusat	ADV	Adv	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No
@@ -2492,7 +2492,7 @@
 8	ool	ool	ADP	Po	AdpType=Post	7	case	_	GTtags=<gen>
 9	de	de	CCONJ	CC	_	13	cc	_	_
 10	tõn	tõt	PRON	Pron	Case=Acc|Number=Sing|PronType=Dem	13	obj	_	GTtags=Dem,Sg,Acc,@OBJ>
-11	õõk	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Valency=1	13	aux:nec	_	GTtags=IV,Ind,Prs,Sg2,@+FAUXV
+11	õõk	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	13	aux:nec	_	GTtags=IV,Ind,Prs,Sg2,@+FAUXV
 12	i	i	ADV	Adv	_	13	advmod	_	_
 13	väʹldded	väʹldded	VERB	V	VerbForm=Inf	6	conj	_	GTtags=Inf,@-FMAINV|SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No
@@ -2559,7 +2559,7 @@
 9	ǩiʹcstež	ǩiʹcsted	VERB	V	Mood=Pot|Number=Sing|Person=3	3	ccomp	_	GTtags=Pot,Sg3
 10	di	di	CCONJ	CC	_	11	cc	_	_
 11	väʹldded	väʹldded	VERB	V	VerbForm=Inf	9	conj	_	GTtags=Inf,@-FMAINV
-12	õõk	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Valency=1	11	aux:nec	_	GTtags=IV,Ind,Prs,Sg2,@+FAUXV
+12	õõk	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	11	aux:nec	_	GTtags=IV,Ind,Prs,Sg2,@+FAUXV
 13	tõn	tõt	PRON	Pron	Case=Acc|Number=Sing|PronType=Dem	11	obj	_	GTtags=Dem,Sg,Acc,@<OBJ|SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No
 15	”	”	PUNCT	PUNCT	_	3	punct	_	GTtags=RIGHT
@@ -2812,7 +2812,7 @@
 2	:	:	PUNCT	PUNCT	_	6	punct	_	_
 3	”	”	PUNCT	PUNCT	_	6	punct	_	GTtags=RIGHT|SpaceAfter=No
 4	Tän	tät	PRON	Pron	Case=Acc|Number=Sing|PronType=Dem	6	obj	_	GTtags=Dem,Sg,Acc,@OBJ>
-5	õõk	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Valency=1	6	aux:nec	_	GTtags=IV,Ind,Prs,Sg2,@+FAUXV
+5	õõk	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	6	aux:nec	_	GTtags=IV,Ind,Prs,Sg2,@+FAUXV
 6	ǩeässted	ǩeässted	VERB	V	VerbForm=Inf	1	ccomp	_	GTtags=Inf,@-FMAINV|SpaceAfter=No
 7	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No
 8	”	”	PUNCT	PUNCT	_	6	punct	_	GTtags=RIGHT
@@ -2942,11 +2942,11 @@
 1	”	”	PUNCT	PUNCT	_	5	punct	_	GTtags=RIGHT|SpaceAfter=No
 2	Tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	3	det	_	GTtags=Dem,Sg,Gen
 3	ääiʹtest	äiʹtt	NOUN	N	Case=Loc|Number=Sing	5	obl:lmod	_	GTtags=Sg,Loc
-4	õõk	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Valency=1	5	aux:nec	_	GTtags=IV,Ind,Prs,Sg2,@+FAUXV
+4	õõk	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	5	aux:nec	_	GTtags=IV,Ind,Prs,Sg2,@+FAUXV
 5	jieʹlled	jieʹlled	VERB	V	VerbForm=Inf	0	root	_	GTtags=Inf,@-FMAINV|SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	9	punct	_	_
 7	tõʹst	tõʹst	ADV	Adv	_	9	advmod:lmod	_	_
-8	õõk	õlggâd	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Valency=1	9	aux	_	GTtags=IV,Ind,Prs,Sg2,@+FAUXV
+8	õõk	õlggâd	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	9	aux	_	GTtags=IV,Ind,Prs,Sg2,@+FAUXV
 9	jieʹlled	jieʹlled	VERB	V	VerbForm=Inf	5	conj	_	GTtags=Inf,@-FMAINV|SpaceAfter=No
 10	,	,	PUNCT	PUNCT	_	16	punct	_	_
 11	tõʹst	tõʹst	ADV	Adv	_	16	advmod:lmod	_	SpaceAfter=No
@@ -2968,7 +2968,7 @@
 27	,	,	PUNCT	PUNCT	_	31	punct	_	_
 28	koummân	koumm	NUM	Num	Case=Ess	31	xcomp	_	GTtags=Ess
 29	ääiʹtest	äiʹtt	NOUN	N	Case=Loc|Number=Sing	31	obl:lmod	_	GTtags=Sg,Loc
-30	õõk	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Valency=1	31	aux:nec	_	GTtags=IV,Ind,Prs,Sg2,@+FAUXV
+30	õõk	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	31	aux:nec	_	GTtags=IV,Ind,Prs,Sg2,@+FAUXV
 31	jieʹlled	jieʹlled	VERB	V	VerbForm=Inf	5	conj	_	GTtags=Inf,@-FMAINV|SpaceAfter=No
 32	,	,	PUNCT	PUNCT	_	36	punct	_	_
 33	kooumâst	koumm	NUM	Num	Case=Loc|Number=Sing	36	obl:lmod	_	GTtags=Sg,Loc
@@ -3049,7 +3049,7 @@
 5	”	”	PUNCT	PUNCT	_	7	punct	_	GTtags=RIGHT|SpaceAfter=No
 6	Ton	ton	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	GTtags=Pers,Sg2,Nom
 7	čuõppõõllâd	čuõppõõllâd	VERB	V	VerbForm=Inf	3	parataxis	_	GTtags=Inf,@-FMAINV
-8	õõk	õlggâd	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Valency=1	7	aux:nec	_	GTtags=IV,Ind,Prs,Sg2,@+FAUXV|SpaceAfter=No
+8	õõk	õlggâd	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	7	aux:nec	_	GTtags=IV,Ind,Prs,Sg2,@+FAUXV|SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No
 10	”	”	PUNCT	PUNCT	_	7	punct	_	GTtags=RIGHT
 
@@ -3197,10 +3197,10 @@
 2	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
 3	što	što	SCONJ	CS	_	9	mark	_	_
 4	ååʹn	ååʹn	ADV	Adv	AdvType=Tim	5	orphan	_	GTtags=Sem/Time,Sem/Time
-5	õõk	õlggâd	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Valency=1	9	reparandum	_	GTtags=IV,Ind,Prs,Sg2,@+FAUXV|SpaceAfter=No
+5	õõk	õlggâd	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	9	reparandum	_	GTtags=IV,Ind,Prs,Sg2,@+FAUXV|SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	5	punct	_	_
 7	ååʹn	ååʹn	ADV	Adv	AdvType=Tim	9	advmod:tmod	_	GTtags=Sem/Time,Sem/Time
-8	õõk	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Valency=1	9	aux:nec	_	GTtags=IV,Ind,Prs,Sg2,@+FAUXV
+8	õõk	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	9	aux:nec	_	GTtags=IV,Ind,Prs,Sg2,@+FAUXV
 9	väʹldded	väʹldded	VERB	V	VerbForm=Inf	2	ccomp	_	GTtags=Inf,@-FMAINV
 10	veäʹšǩǩčåkkam	veäʹšǩǩčååǥǥam	NOUN	N	Case=Acc|Number=Sing	9	obj	_	GTtags=Sg,Acc|SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	12	punct	_	_
@@ -3739,4 +3739,46 @@
 3	nåkkam	nåkkam	ADJ	_	_	4	amod	_	_
 4	maainâs	maainâs	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = SKKV2020:107:1:
+# text = Tõn ääiʹj jiõm leʹčče škooulâst.
+1	Tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	2	det	_	CGdephead=#1-&gt;2|CGdeprel=@&gt;N|GTtags=Dem,Sg,Gen
+2	ääiʹj	äiʹǧǧ	NOUN	N	Case=Gen|Number=Sing	4	obl:tmod	_	CGdephead=#2-&gt;4|CGdeprel=@ADVL&gt;|GTtags=Sg,Gen
+3	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	4	aux:neg	_	CGdephead=#3-&gt;0|CGdeprel=@FAUX|GTtags=Neg,Ind,Sg1
+4	leʹčče	leeʹd	VERB	V	Connegative=Yes|Mood=Cnd	0	root	_	CGdephead=#4-&gt;3|CGdeprel=@IMV|GTtags=IV,Cond,ConNeg
+5	škooulâst	škooul	NOUN	N	Case=Loc|Number=Sing	4	obl:lmod	_	CGdephead=#5-&gt;4|CGdeprel=@&lt;ADVL|GTtags=Sg,Loc|SpaceAfter=No
+6	.	.	PUNCT	CLB	_	4	punct	_	CGdephead=#6-&gt;3|CGdeprel=punct|GTtags=CLB
+
+# sent_id = SKKV2020:107:2:
+# text = Mij jeäʹp vuäđče puârast veeʹres põõrtâst.
+# text_en = We would not sleep well in a strange house.
+1	Mij	mon	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	CGdephead=#1-&gt;0|CGdeprel=@X|GTtags=Pers,Pl1,Gen
+2	jeäʹp	ij	AUX	V	Mood=Ind|Number=Plur|Person=1|Polarity=Neg	3	aux:neg	_	CGdephead=#2-&gt;0|CGdeprel=@FAUX|GTtags=Neg,Ind,Pl1
+3	vuäđče	vueʹđđed	VERB	V	Connegative=Yes|Mood=Cnd	0	root	_	CGdephead=#3-&gt;2|CGdeprel=@IMV|GTtags=Cond,ConNeg
+4	puârast	pueʹrr	ADV	Adv	_	3	advmod	_	CGdephead=#4-&gt;3|CGdeprel=@&lt;ADVL|GTtags=Der/Dimin,N,Sg,Loc
+5	veeʹres	veeʹres	ADJ	A	Case=Nom|Number=Sing	6	amod	_	CGdephead=#5-&gt;2|CGdeprel=@&lt;SUBJ|GTtags=Sg,Nom
+6	põõrtâst	põrtt	NOUN	N	Case=Loc|Number=Sing	3	obl:lmod	_	CGdephead=#6-&gt;3|CGdeprel=@&lt;ADVL|GTtags=Sg,Loc|SpaceAfter=No
+7	.	.	PUNCT	CLB	_	3	punct	_	CGdephead=#7-&gt;2|CGdeprel=punct|GTtags=CLB
+
+# sent_id = SKKV2020:88:1:
+# text = Mon leäm leämmaž määŋg vuâra tuõddrest.
+# text_en = I have been out in the northern wilderness many times.
+1	Mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	CGdephead=#1-&gt;0|CGdeprel=@SUBJ&gt;|GTtags=Pers,Sg1,Nom
+2	leäm	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	3	aux	_	CGdephead=#2-&gt;0|CGdeprel=@X|GTtags=IV,Act,PrfPrc
+3	leämmaž	leeʹd	VERB	V	Aspect=Perf|VerbForm=Part	0	root	_	CGdephead=#3-&gt;0|CGdeprel=@X|GTtags=IV,Act,PrfPrc
+4	määŋg	mäŋgg	DET	A	Case=Acc|Number=Sing	5	det	_	CGdephead=#4-&gt;0|CGdeprel=@&lt;SUBJ|GTtags=Pl,Nom
+5	vuâra	vuâra	NOUN	N	Case=Acc|Number=Sing	3	obl:tmod	_	CGdephead=#5-&gt;4|CGdeprel=@&lt;ADVL|GTtags=
+6	tuõddrest	tuõddâr	NOUN	N	Case=Loc|Number=Sing	3	obl:lmod	_	CGdephead=#6-&gt;0|CGdeprel=@X|GTtags=Sg,Loc|SpaceAfter=No
+7	.	.	PUNCT	CLB	_	3	punct	_	CGdephead=#7-&gt;1|CGdeprel=punct|GTtags=CLB
+
+# sent_id = SKKV2020:89:9:
+# text = Son lij suukkâm jooǥǥ nuuʹbb peälla.
+# text_en = She has rowed to the other side of the river.
+1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	CGdephead=#1-&gt;2|CGdeprel=@SUBJ&gt;|GTtags=Pers,Sg3,Nom
+2	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux	_	CGdephead=#2-&gt;0|CGdeprel=@FMV|GTtags=IV,Ind,Prs,Sg3
+3	suukkâm	suukkâd	VERB	V	Aspect=Perf|VerbForm=Part	0	root	_	CGdephead=#3-&gt;0|CGdeprel=@X|GTtags=Act,PrfPrc
+4	jooǥǥ	jokk	NOUN	N	Case=Gen|Number=Sing	6	nmod	_	CGdephead=#4-&gt;2|CGdeprel=@&lt;SUBJ|GTtags=Sem/Game,Pl,Nom
+5	nuuʹbb	nuʹbb	ADJ	A	Case=Gen|Number=Sing|NumType=Ord	6	amod	_	CGdephead=#5-&gt;0|CGdeprel=@X|GTtags=Ord,Pl,Nom
+6	peälla	peälla	NOUN	N	Case=Ill|Number=Sing	3	obl:lmod	_	CGdephead=#6-&gt;2|CGdeprel=@&lt;ADVL|GTtags=Sem/Plc|SpaceAfter=No
+7	.	.	PUNCT	CLB	_	3	punct	_	CGdephead=#7-&gt;2|CGdeprel=punct|GTtags=CLB
 
