@@ -1,3 +1,21 @@
+# sent_id = FeistT2015:288:1
+# text = Son kååʹđđ fiin sääiʹmid juõʹvve da sieʹjji kõʹsǩǩe čuõškid šeeʹllem diõtt.
+# text_en = He spins fine webs on rocky ground and between birch trees in order to catch mosquitos.
+# comment = MM-3
+1	Son	son	Pron	_	Pers|Sg3|Nom	2	nsubj	_	_
+2	kååđđ	kååʹđđed	VERB	_	Ind|Prs|Sg3	_	_	_	_
+3	fiin	fiinâs	ADJ	_	Attr	4	amod	_	_
+4	sääiʹmid	säiʹmm	NOUN	_	Pl|Acc	2	obj	_	_
+5	juõʹvve	juõvv	NOUN	_	Sg|Ill	2	obl	_	_
+6	da	da	CCONJ	_	_	7	cc	_	_
+7	sueʹjji	sueʹǩǩ	NOUN	_	Pl|Gen	5	conj	_	_
+8	kõʹsǩǩe	kõʹsǩǩe	ADP	_	Po|Ill	7	case	_	_
+9	čuõškid	čuõškk	NOUN	_	Pl|Acc	10	obj	_	_
+10	šeeʹllem	šeeʹlled	VERB	_	Der/NomAct|N|Sg|Gen	2	xcomp	_	_
+11	diõtt	diõtt	ADP	_	Po	10	case	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+
 # sent_id = kotus-skak2010-1-5:14:4
 # text = Vuejjle, vuõjju, vuõjju di bieʹss lij vuâmmšõõttâm ... suʹst iʹlla ni vueiʹvv, iʹlla ni njuuʹnn.
 1	Vuejjle	vuejjled	V	_	Ind|Prt|Pl3	_	_	_	_
