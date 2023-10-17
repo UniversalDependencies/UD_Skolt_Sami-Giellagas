@@ -43,6 +43,8 @@ however, we would be no where…
 
 # Changelog
 
+* 2023-10-29
+  * Add CCC variant to train.conllu for minimal data split
 * 2023-04-30
   * Continued annotation of stories from Sääʹmǩiõll, äʹrbbǩiõll.
   * Added some example sentences from Sääʹmǩiõl ǩiõllvueʹppes
