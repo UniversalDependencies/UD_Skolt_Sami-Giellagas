@@ -1,24 +1,24 @@
 # sent_id = kotus-skak2010-1-5:14:4
 # text = Vuejjle, vuõjju, vuõjju di bieʹss lij vuâmmšõõttâm ... suʹst iʹlla ni vueiʹvv, iʹlla ni njuuʹnn.
-1	Vuejjle	vuejjled	V	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	_	_	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	_	_	_	_
-3	vuõjju	vuâjjad	V	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	_	_	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	_	_	_	_
-5	vuõjju	vuâjjad	V	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	_	_	_	_
-6	di	di	CCONJ	_	_	_	_	_	_
-7	bieʹss	bieʹss	N	_	Case=Nom|Number=Sing	_	_	_	_
-8	lij	leeʹd	V	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-9	vuâmmšõõttâm	vuâmmšõõttâd	V	_	Aspect=Perf|VerbForm=Part	_	_	_	SpaceAfter=No
+1	Vuejjle	vuejjled	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	_	_	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	vuõjju	vuâjjad	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	1	conj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	vuõjju	vuâjjad	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	3	conj	_	_
+6	di	di	CCONJ	_	_	9	cc	_	_
+7	bieʹss	bieʹss	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_
+8	lij	leeʹd	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	_
+9	vuâmmšõõttâm	vuâmmšõõttâd	VERB	_	Aspect=Perf|VerbForm=Part	_	_	_	SpaceAfter=No
 10	...	...	PUNCT	_	_	_	_	_	_
-11	suʹst	son	Pron	_	Case=Loc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-12	iʹlla	iʹlla	V	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	_	_	_	_
-13	ni	ni	Pcle	_	Pcle|Polarity=Neg	_	_	_	_
-14	vueiʹvv	vueiʹvv	N	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
+11	suʹst	son	PRON	_	Case=Loc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+12	iʹlla	iʹlla	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	11	aux:neg	_	_
+13	ni	ni	PART	_	Pcle|Polarity=Neg	_	_	_	_
+14	vueiʹvv	vueiʹvv	NOUN	_	Case=Nom|Number=Sing	11	nsubj	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	_	_	_	_
-16	iʹlla	iʹlla	V	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	_	_	_	_
-17	ni	ni	Pcle	_	Polarity=Neg	_	_	_	_
-18	njuuʹnn	njuuʹnn	N	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	_	_	_	_
+16	iʹlla	iʹlla	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	_	_	_	_
+17	ni	ni	PART	_	Polarity=Neg	_	_	_	_
+18	njuuʹnn	njuuʹnn	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = kotus-skak2010-1-5:15:2
 # text = Dõõt šõõddi vââšš, vââšš šõõddi di tõt bieʹss jieʹli...

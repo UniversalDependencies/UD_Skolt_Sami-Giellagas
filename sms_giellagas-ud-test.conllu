@@ -3510,3 +3510,14 @@
 6	peälla	peälla	NOUN	N	Case=Ill|Number=Sing	3	obl:lmod	_	CGdephead=#6-&gt;2|CGdeprel=@&lt;ADVL|GTtags=Sem/Plc|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	3	punct	_	CGdephead=#7-&gt;2|CGdeprel=punct|GTtags=CLB
 
+# sent_id = Juutinen2023:94:60
+# text = Ij-ǥo ǩii siltteʹče mainsted mainnâz?
+# text_fi = Eikö kukaan osaisi kertoa tarinaa?
+# comment = (Kotus 0635_1az, 0:04:10)
+1	Ij-ǥo	ij	AUX	_	Number=Sing|Person=3|Polarity=Neg	3	aux:neg	_	_
+2	ǩii	ǩii	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	3	nsubj	_	_
+3	siltteʹče	siltteed	VERB	V	Connegative=Yes|Mood=Cnd	0	root	_	_
+4	mainsted	mainsted	VERB	V	VerbForm=Inf	3	xcomp	_	_
+5	mainnâz	maainâs	NOUN	N	Case=Acc|Number=Sing	4	obj	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	3	punct	_	_
+
