@@ -34,6 +34,7 @@ however, we would be no where…
 
 ## References
 
+* Markus Juutinen 2023: Koltansaamen kielikontaktit, Vähemmistökieli muuttuvassa kieliympäristössä. Oulun yliopiston tutukijakoulu; Oulun yliopisto, Humanistinen tiedekunta, Giellagas-Instituutti. 
 * Eino Koponen, Jouni Moshnikoff & Satu Moshnikoff. 2010: Sääʹmǩiõll, äʹrbbǩiõll.Helsinki: (Kotimaisten kielten keskus) Institute for the Languages of Finland. Dommjânnmlaž ǩiõli tuʹtǩǩeemkõõskõs. Online publications of the Institute for the Languages of Finland, 14. ISSN 1796-041X. URL: http://scripta.kotus.fi/www/verkkojulkaisut/julk14/
 * Pekka Sammallahti, Jouni Moshnikoff. 1991: Suomi-Koltansaame sanakirja / Lääʹdd-sääʹm sääʹnnǩeʹrjj [Finnish-Skolt Sámi Dictionary]. Girjegiisá Oy. Ohcejohka.
 * Satu da Jouni Moshnikoff, Eino Koponen, Miika Lehtinen. 2020: Sääʹmǩiõl ǩiõllvueʹppes / Koltansaamen kielioppi. Sääʹmteʹǧǧ-Saamelaiskäräjät.
@@ -43,6 +44,8 @@ however, we would be no where…
 
 # Changelog
 
+* 2023-10-29
+  * Add CCC variant to train.conllu for minimal data split
 * 2023-04-30
   * Continued annotation of stories from Sääʹmǩiõll, äʹrbbǩiõll.
   * Added some example sentences from Sääʹmǩiõl ǩiõllvueʹppes
