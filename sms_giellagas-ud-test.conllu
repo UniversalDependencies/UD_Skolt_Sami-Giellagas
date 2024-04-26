@@ -20,7 +20,7 @@
 # text_fi = se palvelusaika oli 25 vuotta.
 1	tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	2	det	_	GTtags=Dem,Sg,Nom
 2	sluužbäiʹǧǧ	sluuʹžbäiʹǧǧ	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	GTtags=Sg,Nom
-3	leäi	leeʹd	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	GTtags=IV,Ind,Prt,Sg3
+3	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	GTtags=IV,Ind,Prt,Sg3
 4	kuâhttlovitt	kuâhttlovitt	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	_
 5	eeʹjj	eeʹǩǩ	NOUN	N	Case=Gen|Number=Sing	0	root	_	GTtags=Sg,Gen|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
@@ -32,14 +32,14 @@
 1	kõõjji	kõõččâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
 2	,	,	PUNCT	CLB	_	5	punct	_	_
 3	štõ	što	SCONJ	CS	_	5	mark	_	_
-4	leäk-a	leeʹd	AUX	Aux	Clitic=QstA|Mood=Ind|Number=Sing|Person=2|Tense=Pres	5	cop	_	GTtags=IV,Ind,Prs,Sg2,Qst/a
+4	leäk-a	leeʹd	AUX	V	Clitic=QstA|Mood=Ind|Number=Sing|Person=2|Tense=Pres	5	cop	_	GTtags=IV,Ind,Prs,Sg2,Qst/a
 5	tiõrvâs	tiõrvâs	ADJ	A	Case=Nom|Number=Sing	1	ccomp	_	GTtags=Sg,Nom|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	9	punct	_	_
 7	jiõk	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	9	aux:neg	_	GTtags=Neg,Ind,Sg2
-8	leäkku	leeʹd	AUX	Aux	Connegative=Yes|Mood=Ind|Tense=Pres	9	aux	_	GTtags=IV,Ind,Prs,ConNeg
+8	leäkku	leeʹd	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres	9	aux	_	GTtags=IV,Ind,Prs,ConNeg
 9	tiõrvâs	tiõrvâs	ADJ	A	Case=Nom|Number=Sing	5	conj	_	GTtags=Sg,Nom|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	12	punct	_	_
-11	lij-a	leeʹd	AUX	Aux	Clitic=QstA|Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	cop	_	GTtags=IV,Ind,Prs,Sg3,Qst/a
+11	lij-a	leeʹd	AUX	V	Clitic=QstA|Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	cop	_	GTtags=IV,Ind,Prs,Sg3,Qst/a
 12	piâr	piâr	NOUN	N	Case=Nom|Number=Sing	5	conj	_	GTtags=N,Sg,Nom
 13	vai	vai	CCONJ	CC	_	14	cc	_	_
 14	iʹlla	iʹlla	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	12	conj	_	GTtags=Neg,Ind,Prs,Sg3|SpaceAfter=No
@@ -78,7 +78,7 @@
 4	čiččâm	čiččâm	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	GTtags=Sg,Nom
 5	eeʹjj	eeʹǩǩ	NOUN	N	Case=Acc|Number=Sing	8	obl:tmod	_	GTtags=Sg,Acc
 6	feʹrttji	feʹrttjed	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	aux	_	GTtags=Ind,Prt,Sg3
-7	leeʹd	leeʹd	AUX	Aux	VerbForm=Inf	8	cop	_	GTtags=IV,Inf
+7	leeʹd	leeʹd	AUX	V	VerbForm=Inf	8	cop	_	GTtags=IV,Inf
 8	säldten	säldten	NOUN	N	Case=Ess	0	root	_	GTtags=Ess
 9	ja	ja	CCONJ	CC	_	11	cc	_	_
 10	vasta	vasta	ADV	Adv	_	11	advmod:tmod	_	_
@@ -272,7 +272,7 @@
 8	kuõʹđi	kueʹđđed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	12	punct	_	_
 10	pirr	pirr	ADP	Pr	AdpType=Prep	11	case	_	GTtags=Pr
-11	njikkõnj	njikkõnj	NOUN	N	_	12	obl	_	_
+11	njikkõnj	njikkõnj	NOUN	N	Case=Gen|Number=Sing	12	obl	_	_
 12	täävtõõđi	täävtõõttâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
 13	,	,	PUNCT	CLB	_	16	punct	_	_
 14	kooum	koumm	NUM	Num	Case=Gen|Number=Sing|NumType=Card	15	nummod	_	GTtags=Sg,Acc
@@ -300,7 +300,7 @@
 6	tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	7	det	_	GTtags=Dem,Sg,Gen
 7	njikkõnja	njikkõnja	NOUN	N	Case=Ill|Number=Sing	5	obl	_	GTtags=Sg,Ill
 8	ja	ja	CCONJ	CC	_	10	cc	_	_
-9	piirâs	piirâs	ADP	Adp	Number[psor]=Sing|Person[psor]=3	10	obl:lmod	_	GTtags=PxSg3
+9	piirâs	piirâs	ADP	Po	Number[psor]=Sing|Person[psor]=3	10	obl:lmod	_	GTtags=PxSg3
 10	jåårǥli	jåårǥled	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	conj	_	GTtags=Ind,Prt,Sg3
 11	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	14	advmod:tmod	_	GTtags=Sem/Time
 12	kooum	koumm	NUM	Num	Case=Acc|Number=Sing|NumType=Card	13	nummod	_	GTtags=Sg,Acc
@@ -371,7 +371,7 @@
 5	tok	tok	DET	Det	Case=Nom|Number=Plur	13	advmod:lmod	_	GTtags=Pl,Nom
 6	kuäʹđ	kueʹtt	NOUN	N	Case=Nom|Number=Plur	13	obj	_	GTtags=Pl,Nom|SpaceAfter=No
 7	...	...	PUNCT	PUNCT	_	6	punct	_	_
-8	jiijjâs	jiõčč	DET	Det	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	amod	_	GTtags=Refl,Acc,Sg3
+8	jiijjâs	jiõčč	PRON	Pron	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	amod	_	GTtags=Refl,Acc,Sg3
 9	kuäʹđ	kueʹtt	NOUN	N	Case=Acc|Number=Sing	6	reparandum	_	GTtags=Sg,Acc
 10	jeeʹres	jeeʹres·årra	DET	Det	_	11	det	_	_
 11	årra	_	NOUN	N	_	13	obl:lmod	_	_
@@ -549,7 +549,7 @@
 3	...	...	PUNCT	CLB	_	6	punct	_	_
 4	kueʹhtt	kueʹhtt	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	GTtags=Sg,Nom
 5	oummu	ooumaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Plur	6	nsubj:cop	_	GTtags=Sem/Hum,Pl,Nom
-6	liâ	leeʹd	AUX	Aux	Mood=Ind|Number=Plur|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
+6	liâ	leeʹd	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_
 8	aʹhtte	äʹhtted	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prs,Pl3
 9	di	di	CCONJ	CC	_	11	cc	_	_
@@ -1261,7 +1261,7 @@
 14	de	de	CCONJ	CC	_	19	cc	_	_
 15	tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	16	det	_	GTtags=Dem,Sg,Gen
 16	suõv	suõvv	NOUN	N	Case=Gen|Number=Sing	19	obl	_	GTtags=Sg,Gen
-17	luzz	luzz	ADP	Po	AdpType=Post	16	case	_	GTtags=Po
+17	luzz	luzz	ADP	Po	AdpType=Post|Case=Ill	16	case	_	GTtags=Po
 18	ko	ko	SCONJ	CS	_	19	mark	_	GTtags=@CVP
 19	väʒʒ	väʹʒʒed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	24	advcl	_	GTtags=Ind,Prs,Sg3,@+FMAINV
 20	de	de	CCONJ	CC	_	24	cc	_	_
@@ -1277,7 +1277,7 @@
 1	Mutta	mutta	CCONJ	CC	_	6	cc	_	GTtags=CC
 2	tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	3	dep	_	GTtags=Dem,Sg,Gen
 3	suõv	suõvv	NOUN	N	Case=Gen|Number=Sing	6	obl:lmod	_	GTtags=Sg,Gen
-4	luzz	luzz	ADP	Po	AdpType=Post	3	case	_	_
+4	luzz	luzz	ADP	Po	AdpType=Post|Case=Ill	3	case	_	_
 5	ko	ko	SCONJ	CS	_	6	mark	_	GTtags=@CVP
 6	väʒʒ	väʹʒʒed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3,@+FMAINV
 7	de	de	CCONJ	CC	_	9	cc	_	GTtags=@CVP
@@ -1523,7 +1523,7 @@
 1	Joo	joo	INTJ	Interj	_	5	discourse	_	_
 2	mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	GTtags=Pers,Sg1,Nom,@<SUBJ
 3	tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	5	obl	_	GTtags=Dem,Sg,Gen
-4	räjja	räjja	ADP	Po	AdpType=Post	3	case	_	_
+4	räjja	räjja	ADP	Po	AdpType=Post|Case=Ill	3	case	_	_
 5	teâđam	tieʹtted	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg1,@+FMAINV|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	9	punct	_	_
 7	jäänab	jäänab	DET	Det	_	9	obj	_	GTtags=@ADVL>
@@ -1903,7 +1903,7 @@
 3	åårr	åårrad	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
 4	tõʹst	tõʹst	ADV	Adv	_	5	advmod:lmod	_	_
 5	jiõŋ	jiõŋŋ	NOUN	N	Case=Gen|Number=Sing	3	obl:lmod	_	GTtags=Sg,Gen
-6	âʹlnn	âʹlnn	ADP	Adp	AdpType=Post	5	case	_	GTtags=Po|SpaceAfter=No
+6	âʹlnn	âʹlnn	ADP	Po	AdpType=Post	5	case	_	GTtags=Po|SpaceAfter=No
 7	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = kotus-skak2010-1-5:2:10
@@ -2969,11 +2969,11 @@
 4	mõõni	mõõnnâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3,@+FAUXV
 5	tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	6	det	_	GTtags=Dem,Sg,Gen
 6	teärmmaz	tieʹrmes	NOUN	N	Case=Nom|Number=Sing	4	obl:lmod	_	GTtags=Sg,Nom
-7	årra	årra	ADP	Adp	Case=Ill	6	case	_	GTtags=Ill
+7	årra	årra	ADP	Po	AdpType=Post|Case=Ill	6	case	_	GTtags=Ill
 8	di	di	CCONJ	CC	_	9	cc	_	_
 9	tieʹrmes	tieʹrmes	NOUN	N	Case=Nom|Number=Sing	4	conj	_	GTtags=Sg,Nom
 10	heäppaž	heävaš	NOUN	N	Case=Gen|Number=Sing	9	orphan	_	GTtags=Sg,Gen
-11	ool	ool	ADP	Po	_	10	case	_	GTtags=<gen>|SpaceAfter=No
+11	ool	ool	ADP	Po	AdpType=Post	10	case	_	GTtags=<gen>|SpaceAfter=No
 12	...	...	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = kotus-skak2010-1-5:14:3
@@ -3055,7 +3055,7 @@
 12	puätt	pueʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	conj	_	GTtags=Ind,Prs,Sg3
 13	tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	14	det	_	GTtags=Dem,Sg,Gen
 14	reäiʹj	reäiʹǧǧ	NOUN	N	Case=Gen|Number=Sing	12	obl:lmod	_	GTtags=Sg,Gen
-15	mieʹldd	mieʹldd	ADP	Adp	AdpType=Post	14	case	_	GTtags=Po|SpaceAfter=No
+15	mieʹldd	mieʹldd	ADP	Po	AdpType=Post	14	case	_	GTtags=Po|SpaceAfter=No
 16	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = kotus-skak2010-1-5:16:2
