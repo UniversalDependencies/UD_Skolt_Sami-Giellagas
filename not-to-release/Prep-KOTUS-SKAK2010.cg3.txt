@@ -1,106 +1,28 @@
-# sent_id = kotus-skak2010-1-5:14:4
-# text = Vuejjle, vuõjju, vuõjju di bieʹss lij vuâmmšõõttâm ... suʹst iʹlla ni vueiʹvv, iʹlla ni njuuʹnn.
-1	Vuejjle	vuejjled	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	_	_	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	3	punct	_	_
-3	vuõjju	vuâjjad	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	1	conj	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	5	punct	_	_
-5	vuõjju	vuâjjad	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	3	conj	_	_
-6	di	di	CCONJ	_	_	9	cc	_	_
-7	bieʹss	bieʹss	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_
-8	lij	leeʹd	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	_
-9	vuâmmšõõttâm	vuâmmšõõttâd	VERB	_	Aspect=Perf|VerbForm=Part	_	_	_	SpaceAfter=No
-10	...	...	PUNCT	_	_	_	_	_	_
-11	suʹst	son	PRON	_	Case=Loc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-12	iʹlla	iʹlla	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	11	aux:neg	_	_
-13	ni	ni	PART	_	Pcle|Polarity=Neg	_	_	_	_
-14	vueiʹvv	vueiʹvv	NOUN	_	Case=Nom|Number=Sing	11	nsubj	_	SpaceAfter=No
-15	,	,	PUNCT	_	_	_	_	_	_
-16	iʹlla	iʹlla	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	_	_	_	_
-17	ni	ni	PART	_	Polarity=Neg	_	_	_	_
-18	njuuʹnn	njuuʹnn	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = kotus-skak2010-1-5:15:2
-# text = Dõõt šõõddi vââšš, vââšš šõõddi di tõt bieʹss jieʹli...
-# comment = Which is the subject? tõt or bieʹss
-1	Dõõt	dõõt	Pron	_	Case=Nom|Number=Sing|Pron	_	_	_	_
-2	šõõddi	šõddâd	V	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
-3	vââšš	vââšš	N	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	_	_	_	_
-5	vââšš	vââšš	N	_	Case=Nom|Number=Sing	_	_	_	_
-6	šõõddi	šõddâd	V	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
-7	di	di	CCONJ	_	_	_	_	_	_
-8	tõt	tõt	Pron	_	Case=Nom|Number=Sing|PronType=Dem	_	_	_	_
-9	bieʹss	bieʹss	N	_	Case=Nom|Number=Sing	_	_	_	_
-10	jieʹli	jieʹlled	V	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	SpaceAfter=No
-11	...	...	PUNCT	_	_	_	_	_	_
-
-# sent_id = kotus-skak2010-1-5:15:3
-# text = ”Äʹn, äʹn äjjan äʹrbbaaušu ko viiǯǯžem”, de vuäǯǯ son reäiʹj.
-1	”	”	PUNCT	_	_	5	punct	_	SpaceAfter=No
-2	Äʹn	äʹn	PART	_	_	5	discourse	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	5	punct	_	_
-4	äʹn	äʹn	PART	_	_	5	discourse	_	_
-5	äjjan	äjjned	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
-6	äʹrbbaaušu	äʹrbbähšš	NOUN	_	Case=Acc|Derivation=Dimin|Number=Sing	5	obj	_	_
-7	ko	ko	SCONJ	_	_	8	mark	_	_
-8	viiǯǯžem	viǯǯâd	VERB	_	Mood=Pot|Number=Sing|Person=1	5	advcl:tcl	_	SpaceAfter=No
-9	”	”	PUNCT	_	_	5	punct	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	12	punct	_	_
-11	de	de	ADV	_	_	12	advmod	_	_
-12	vuäǯǯ	vuäǯǯad	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	conj	_	_
-13	son	son	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
-14	reäiʹj	reäiʹǧǧ	NOUN	_	Case=Acc|Number=Sing	12	obj	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	5	punct	_	_
-
 # sent_id = kotus-skak2010-1-5:16:1
 # text = Eiʹdde mâânn de uurčat, uurčat, uurčat, uurčat tõid tieʹrmes vuejj heäppšin, occnjast ij õõst, occnjast ij õõst.
-"<Eiʹdde>"
-	"eiʹdde" Adv Sem/Time
-"<mâânn>"
-	"mõõnnâd" V Ind Prs Sg3
-"<de>"
-	"de" Adv
-"<uurčat>"
-	"uurčted" V Ind Prs Sg3
-"<,>"
-	"," PUNCT
-"<uurčat>"
-	"uurčted" V Ind Prs Sg3
-"<,>"
-	"," PUNCT
-"<uurčat>"
-	"uurčted" V Ind Prs Sg3
-"<,>"
-	"," PUNCT
-"<uurčat>"
-	"uurčted" V Ind Prs Sg3
-"<tõid>"
-	"tõt" Pron Dem Pl Acc @OBJ>
-"<tieʹrmes>"
-	"tieʹrmes" N Sg Nom
-"<vuejj>"
-	"vuejjad" V Ind Prs Sg3
-"<heäppšin>"
-	"heävaš" N Sg Com
-"<,>"
-	"," PUNCT
-"<occnjast>"
-	"occnjaž" A Sg Loc
-"<ij>"
-	"ij" V Neg Ind Sg3 @+FAUXV
-"<õõst>"
-	"õsttâd" V Ind Prs ConNeg @+FAUXV
-"<,>"
-	"," PUNCT
-"<occnjast>"
-	"occnjaž" A Sg Loc
-"<ij>"
-	"ij" V Neg Ind Sg3 @+FAUXV
-"<õõst>"
-	"õsttâd" V Ind Prs ConNeg
-"<.>"
-	"." PUNCT
+1	Eiʹdde	eiʹdde	Adv	_	Sem/Time	2	advmod	_	_
+2	mâânn	mõõnnâd	V	_	Ind|Prs|Sg3	_	_	_	_
+3	de	de	Adv	_	_	4	advmod	_	_
+4	uurčat	uurčted	V	_	Ind|Prs|Sg3	2	conj	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	uurčat	uurčted	V	_	Ind|Prs|Sg3	4	conj	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	uurčat	uurčted	V	_	Ind|Prs|Sg3	4	conj	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	uurčat	uurčted	V	_	Ind|Prs|Sg3	4	conj	_	_
+11	tõid	tõt	Pron	_	Dem|Pl|Acc|@OBJ>	_	_	_	_
+12	tieʹrmes	tieʹrmes	N	_	Sg|Nom	_	_	_	_
+13	vuejj	vuejjad	V	_	Ind|Prs|Sg3	_	_	_	_
+14	heäppšin	heävaš	N	_	Sg|Com	13	obl	_	_
+15	,	,	PUNCT	_	_	_	_	_	_
+16	occnjast	occnjaž	A	_	Sg|Loc	18	_	_	_
+17	ij	ij	AUX	_	Neg|Ind|Sg3|@+FAUXV	18	aux:neg	_	_
+18	õõst	õsttâd	V	_	Ind|Prs|ConNeg|@+FAUXV	_	_	_	_
+19	,	,	PUNCT	_	_	_	_	_	_
+20	occnjast	occnjaž	A	_	Sg|Loc	_	_	_	_
+21	ij	ij	AUX	_	Neg|Ind|Sg3|@+FAUXV	22	_	_	_
+22	õõst	õsttâd	V	_	Ind|Prs|ConNeg	_	_	_	_
+23	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = kotus-skak2010-1-5:16:3
 # text = Näʹde šõõddi nåkkam dõõt a päʹhtt da dõõt õuʹdde ni ij vuäǯǯ ni koon åʹrnn.
@@ -382,44 +304,6 @@
 
 "<”>"
 	"”" PUNCT RIGHT
-
-# sent_id = kotus-skak2010-1-6:1:4
-# text = Da ij ni tõt leäkku.
-"<Da>"
-	"da" CC
-"<ij>"
-	"ij" V Neg Ind Sg3 @+FAUXV
-"<ni>"
-	"ni" Adv
-	"ni" Pcle Pcle Neg
-"<tõt>"
-	"tõt" Pron Dem Sg Nom
-"<leäkku>"
-	"leeʹd" V Imprt Pl2
-	"leeʹd" V Imprt Sg2
-"<.>"
-	"." PUNCT
-
-# sent_id = kotus-skak2010-1-6:2:1
-# text = Jälste, jälste de suännast šõõddi päʹrnn.
-"<Jälste>"
-	"jälsted" V Ind Prs Pl3
-	"jälsted" V Ind Prt Pl3
-"<,>"
-	"," PUNCT
-"<jälste>"
-	"jälsted" V Ind Prs Pl3
-	"jälsted" V Ind Prt Pl3
-"<de>"
-	"de" CC
-"<suännast>"
-	"son" Pron Pers Du3 Loc
-"<šõõddi>"
-	"šõddâd" V Ind Prt Sg3
-"<päʹrnn>"
-	"päʹrnn" N Sem/Kin Sg Nom
-"<.>"
-	"." PUNCT
 
 # sent_id = kotus-skak2010-1-6:2:2
 # text = Di pieʹnne torkk lij.

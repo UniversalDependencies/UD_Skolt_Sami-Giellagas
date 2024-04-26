@@ -3576,3 +3576,23 @@
 14	reäiʹj	reäiʹǧǧ	NOUN	N	Case=Acc|Number=Sing	12	obj	_	SpaceAfter=No
 15	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
+# sent_id = kotus-skak2010-1-6:2:1
+# text = Jälste, jälste de suännast šõõddi päʹrnn.
+1	Jälste	jälsted	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Pl3|SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	3	punct	_	_
+3	jälste	jälsted	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	1	conj	_	GTtags=Ind,Prt,Pl3
+4	de	de	CCONJ	CC	_	6	cc	_	_
+5	suännast	son	PRON	Pron	Case=Loc|Number=Dual|Person=3|PronType=Prs	6	obl	_	GTtags=Pers,Du3,Loc
+6	šõõddi	šõddâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	1	conj	_	GTtags=Ind,Prt,Sg3
+7	päʹrnn	päʹrnn	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	6	nsubj	_	GTtags=Sem/Kin,Sg,Nom|SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = kotus-skak2010-1-6:1:4
+# text = Da ij ni tõt leäkku.
+1	Da	da	CCONJ	CC	_	5	mark	_	_
+2	ij	ij	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	5	aux:neg	_	GTtags=Neg,Ind,Sg3,@+FAUXV
+3	ni	ni	PART	Pcle	Polarity=Neg	5	advmod	_	GTtags=Neg
+4	tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	5	nsubj	_	GTtags=Dem,Sg,Nom
+5	leäkku	leeʹd	VERB	V	Connegative=Yes|Mood=Ind	0	root	_	GTtags=Ind,ConNeg|SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
