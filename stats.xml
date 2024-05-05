@@ -5,91 +5,93 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>245</sentences><tokens>2902</tokens><words>2902</words><fused>0</fused></total>
+    <total><sentences>250</sentences><tokens>2961</tokens><words>2961</words><fused>0</fused></total>
     <train><sentences>20</sentences><tokens>153</tokens><words>153</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>225</sentences><tokens>2749</tokens><words>2749</words><fused>0</fused></test>
+    <test><sentences>230</sentences><tokens>2808</tokens><words>2808</words><fused>0</fused></test>
   </size>
-  <lemmas unique="503" /><!-- ,, ., ”, leeʹd, son, tõt, de, di, ..., ij, ceäʹlǩǩed, mõõnnâd, mon, pueʹtted, väʹldded -->
-  <forms unique="744" /><!-- ,, ., ”, de, son, di, ..., lij, ceälkk, âʹtte, tõn, tõt, :, mõõni, leäi -->
+  <lemmas unique="509" /><!-- ,, ., ”, leeʹd, son, tõt, de, di, ..., ij, ceäʹlǩǩed, mõõnnâd, mon, pueʹtted, väʹldded -->
+  <forms unique="753" /><!-- ,, ., ”, de, son, di, ..., lij, ceälkk, âʹtte, tõt, tõn, :, mõõni, leäi -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
     <tag name="ADJ">32</tag><!-- jõnn, kuälmad, nuʹbb, šiõǥǥ, nåkkam, tiõrvâs, ekksaž, jåʹttel, kaađâš, kuʹǩǩ -->
     <tag name="ADP">25</tag><!-- ool, luzz, pâʹjjel, årra, âʹlnn, mieʹldd, piirâs, pirr, rââst, räjja -->
-    <tag name="ADV">298</tag><!-- âʹtte, âʹpet, kâʹl, de, tok, mäʹhtt, pâi, âʹte, nuʹtt, teâđast -->
-    <tag name="AUX">160</tag><!-- leeʹd, ij, õlggâd, iʹlla, i-ǥõl, feʹrttjed -->
-    <tag name="CCONJ">174</tag><!-- de, di, da, ja, a, mutta, no, leša, avi, tai -->
-    <tag name="DET">10</tag><!-- tõt, jeeʹres·årra, jiõčč, jäänab, mäŋgg, måkam, tok, tät -->
+    <tag name="ADV">299</tag><!-- âʹtte, âʹpet, de, kâʹl, tok, mäʹhtt, pâi, âʹte, nuʹtt, teâđast -->
+    <tag name="AUX">162</tag><!-- leeʹd, ij, õlggâd, iʹlla, i-ǥõl, feʹrttjed -->
+    <tag name="CCONJ">178</tag><!-- de, di, da, ja, a, mutta, no, leša, avi, tai -->
+    <tag name="DET">10</tag><!-- tõt, jeeʹres·årra, jäänab, mäŋgg, måkam, tok, tät -->
     <tag name="INTJ">60</tag><!-- no, näʹde, na, ij, pii, joo, äʹn, piʒʒ, Oho, a -->
-    <tag name="NOUN">402</tag><!-- ooumaž, heävaš, nijdd, tueʹllj, ääkkaž, eʹčč, triâŋgg, kueʹtt, meäʹcc, päʹrnn -->
+    <tag name="NOUN">411</tag><!-- ooumaž, heävaš, nijdd, tueʹllj, ääkkaž, eʹčč, päʹrnn, triâŋgg, kueʹtt, meäʹcc -->
     <tag name="NUM">17</tag><!-- kueʹhtt, koumm, õhtt, čiččâm, kuâhttlovitt, vitmlo -->
-    <tag name="PART">19</tag><!-- ni, veʹt, äʹn, še, deʹbe, gõs, tâma -->
-    <tag name="PRON">305</tag><!-- son, tõt, mon, ton, mii, dõõt, mâiʹd, puk, tut, nåkkam -->
+    <tag name="PART">24</tag><!-- ni, äʹn, veʹt, še, deʹbe, gõs, tâma -->
+    <tag name="PRON">311</tag><!-- son, tõt, mon, ton, mii, dõõt, mâiʹd, puk, tut, jiõčč -->
     <tag name="PROPN">13</tag><!-- Peter, Mary, Brown, Franskkjânnam, Jane, Laurikainen, Pariizzâst, Smith -->
-    <tag name="PUNCT">687</tag><!-- ,, ., ”, ..., :, ?, –, “, «, » -->
-    <tag name="SCONJ">57</tag><!-- što, ko, ǥu, jos, mäʹhtt, Gu, diǥu, että, håʹt, ku -->
-    <tag name="VERB">642</tag><!-- ceäʹlǩǩed, mõõnnâd, pueʹtted, väʹldded, leeʹd, vueʹlǧǧed, šõddâd, jieʹlled, jååʹtted, puʹhtted -->
+    <tag name="PUNCT">702</tag><!-- ,, ., ”, ..., :, ?, –, “, «, » -->
+    <tag name="SCONJ">58</tag><!-- što, ko, ǥu, jos, mäʹhtt, Gu, diǥu, että, håʹt, ku -->
+    <tag name="VERB">658</tag><!-- ceäʹlǩǩed, mõõnnâd, pueʹtted, väʹldded, leeʹd, vueʹlǧǧed, šõddâd, jieʹlled, jälsted, jååʹtted -->
     <tag name="X">1</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="58">
-    <feat name="AdpType" value="Post" upos="ADP">16</feat><!-- ool, luzz, âʹlnn, årra, mieʹldd, räjja -->
+  <feats unique="60">
+    <feat name="AdpType" value="Post" upos="ADP">18</feat><!-- ool, luzz, årra, âʹlnn, mieʹldd, räjja -->
     <feat name="AdpType" value="Prep" upos="ADP">6</feat><!-- pâʹjjel, Rââst, pirr, čõõđ -->
     <feat name="AdvType" value="Tim" upos="ADV,SCONJ">77</feat><!-- âʹtte, ååʹn, mâŋŋa, teä, eʹpet, kuuʹǩǩ, teʹl, vuõššân, Eiʹdde, Gu -->
-    <feat name="Animacy" value="Hum" upos="NOUN,PROPN">115</feat><!-- ooumaž, nijdd, ääkka, eččad, niõđ, Peter, kaavân, kåʹddpäärnaž, ääkkaž, Mary -->
-    <feat name="Aspect" value="Perf" upos="AUX,VERB">34</feat><!-- teâđstam, välddam, kaunnâm, košklõõvvâm, koǯstam, koǯǯâm, leämmaž, čõnnum, šõddâm, hoʹhssjam -->
+    <feat name="Animacy" value="Hum" upos="NOUN,PROPN">116</feat><!-- ooumaž, nijdd, ääkka, eččad, niõđ, Peter, kaavân, kåʹddpäärnaž, päʹrnn, ääkkaž -->
+    <feat name="Aspect" value="Perf" upos="AUX,VERB">35</feat><!-- teâđstam, välddam, kaunnâm, košklõõvvâm, koǯstam, koǯǯâm, leämmaž, čõnnum, šõddâm, hoʹhssjam -->
     <feat name="Case" value="Abe" upos="NOUN,VERB">2</feat><!-- vaʹlljeeǩâni, čääʹʒʒtää -->
-    <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,NUM,PRON,VERB">156</feat><!-- tõn, muu, tueʹllj, niõđ, muõrid, mâiʹd, suu, čääʹʒʒ, kåʹddtueʹllj, kooʹddid -->
+    <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,NUM,PRON,VERB">158</feat><!-- tõn, muu, tueʹllj, niõđ, muõrid, mâiʹd, suu, čääʹʒʒ, kåʹddtueʹllj, kooʹddid -->
     <feat name="Case" value="Com" upos="NOUN,PRON">11</feat><!-- mannuin, peeiʹvin, heäppšines, jieʹlličaaʹʒʒin, kaarbivuiʹm, mõin, paaʹrnines, peeʹlljin, tõin -->
     <feat name="Case" value="Ess" upos="NOUN,NUM,VERB">26</feat><!-- kaavân, kämmǥižžen, triâŋggân, vueʹtǩǩmen, kueʹllen, näuʹdden, heäppšen, håiddmen, jieʹllmen, jååʹttmen -->
-    <feat name="Case" value="Gen" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">72</feat><!-- tõn, suu, ääkka, dõõn, heäppaž, suõv, tueʹllj, kuäʹđ, kämmǥa, nuuʹbb -->
-    <feat name="Case" value="Ill" upos="ADJ,ADP,ADV,NOUN,PRON">50</feat><!-- koozz, miʹjjid, pärnna, årra, jõnn, kuätta, luzz, põʹrtte, äitta, Pella -->
-    <feat name="Case" value="Loc" upos="ADV,NOUN,NUM,PRON,PROPN">39</feat><!-- mieʹccest, seeʹst, suʹst, koʹst, dââʹst, oummust, ääiʹtest, Pariizzâst, kooumâst, luândstes -->
-    <feat name="Case" value="Nom" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN,VERB">409</feat><!-- son, tõt, ton, ooumaž, mon, heävaš, mii, nijdd, puk, stäʹlmmstääll -->
+    <feat name="Case" value="Gen" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">73</feat><!-- tõn, suu, ääkka, dõõn, heäppaž, suõv, tueʹllj, kuäʹđ, kämmǥa, nuuʹbb -->
+    <feat name="Case" value="Ill" upos="ADJ,ADP,ADV,NOUN,PRON">53</feat><!-- koozz, miʹjjid, luzz, pärnna, årra, jõnn, kuätta, põʹrtte, äitta, Pella -->
+    <feat name="Case" value="Loc" upos="ADV,NOUN,NUM,PRON,PROPN">41</feat><!-- mieʹccest, suʹst, seeʹst, koʹst, dââʹst, oummust, suännast, ääiʹtest, Pariizzâst, kooumâst -->
+    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">421</feat><!-- son, tõt, ton, ooumaž, mon, heävaš, mii, nijdd, puk, stäʹlmmstääll -->
     <feat name="Case" value="Par" upos="NOUN">1</feat><!-- eeʹǩǩed -->
     <feat name="Clitic" value="AddI" upos="ADV,PRON">12</feat><!-- tõt-i, nuʹt-i, tok-i, eʹpet-i, puk-i, pâi-i -->
     <feat name="Clitic" value="Han" upos="NOUN">1</feat><!-- aalmi-han -->
     <feat name="Clitic" value="Os" upos="PRON">1</feat><!-- ton-õs -->
     <feat name="Clitic" value="QstA" upos="ADV,AUX,NOUN,PRON,VERB">10</feat><!-- leäk-a, lij-a, Haaʹlääk-a, jiânnai-a, koozz-a, olgglab-a, vueʹljžiǩ-a, Šurr-a -->
-    <feat name="Connegative" value="Yes" upos="AUX,VERB">39</feat><!-- õõlǥ, leäkku, kuâddam, kueʹst, piâzz, tieʹđ, šõõdd, cieʹlǩ, kaaun, kooǯǯtam -->
+    <feat name="Connegative" value="Yes" upos="AUX,VERB">40</feat><!-- õõlǥ, leäkku, kuâddam, kueʹst, piâzz, tieʹđ, šõõdd, cieʹlǩ, kaaun, kooǯǯtam -->
     <feat name="Degree" value="Cmp" upos="ADJ">2</feat><!-- lääʹđesmiõllsab, šuurab -->
     <feat name="Degree" value="Dim" upos="NOUN">1</feat><!-- vuõddjez -->
+    <feat name="Derivation" value="Dimin" upos="NOUN">1</feat><!-- äʹrbbaaušu -->
     <feat name="Derivation" value="InchL" upos="VERB">7</feat><!-- dõnnõǥškuätt, kâssneškueʹđež, lueʹšttleškuätt, lueʹštškueʹtted, säärntõlškuõʹđi, vuõddmâstõlškuõʹđi, šõllneškuõʹđež -->
     <feat name="Derivation" value="Men" upos="VERB">7</feat><!-- vueʹtǩǩmen, håiddmen, jieʹllmen, jååʹttmen, viikkmen -->
     <feat name="Mood" value="Cnd" upos="VERB">7</feat><!-- õõlǥči, kååddče, leʹčče, piâzzčiǩ, siltteʹče, vuäđče -->
-    <feat name="Mood" value="Imp" upos="AUX,VERB">21</feat><!-- mõõnnâd, tiâr, mõõnsââʹst, puäʹđ, Jeäʹled, kueʹst, kulddâl, säärn, vueiʹn, vueiʹt -->
-    <feat name="Mood" value="Ind" upos="AUX,VERB">646</feat><!-- lij, ceälkk, mõõni, leäi, ij, puõʹđi, jiõk, šõõddi, liâ, vaaʹldi -->
-    <feat name="Mood" value="Pot" upos="AUX,VERB">25</feat><!-- leežž, Mõõnžiǩ, kooʹddže, poouǩeškueʹđež, ǩiʹcstež, aaudže, kâssneškueʹđež, piijže, piijžik, piijžiǩ -->
+    <feat name="Mood" value="Imp" upos="AUX,VERB">22</feat><!-- mõõnnâd, tiâr, mõõnsââʹst, puäʹđ, Jeäʹled, kueʹst, kulddâl, säärn, vueiʹn, vueiʹt -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">661</feat><!-- lij, ceälkk, mõõni, leäi, ij, puõʹđi, šõõddi, jiõk, liâ, vaaʹldi -->
+    <feat name="Mood" value="Pot" upos="AUX,VERB">26</feat><!-- leežž, Mõõnžiǩ, kooʹddže, poouǩeškueʹđež, ǩiʹcstež, aaudže, kâssneškueʹđež, piijže, piijžik, piijžiǩ -->
     <feat name="NameType" value="Geo" upos="PROPN">2</feat><!-- Franskkjânnam, Pariizzâst -->
     <feat name="NameType" value="Giv" upos="PROPN">8</feat><!-- Peter, Mary, Jane -->
     <feat name="NameType" value="Prs" upos="PROPN">1</feat><!-- Laurikainen -->
     <feat name="NameType" value="Sur" upos="PROPN">2</feat><!-- Brown, Smith -->
-    <feat name="Number" value="Dual" upos="PRON">3</feat><!-- muännaid, suäna, suännast -->
-    <feat name="Number" value="Plur" upos="AUX,DET,NOUN,PRON,VERB">183</feat><!-- liâ, jälste, ceäʹlǩǩe, miʹjjid, muõrid, mõõnnâd, puõʹtte, räʹjje, kooʹddid, seeʹst -->
-    <feat name="Number" value="Sing" upos="ADJ,ADV,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">1200</feat><!-- son, lij, ceälkk, tõn, tõt, mõõni, leäi, ton, ij, ooumaž -->
+    <feat name="Number" value="Dual" upos="PRON">4</feat><!-- suännast, muännaid, suäna -->
+    <feat name="Number" value="Plur" upos="AUX,DET,NOUN,PRON,VERB">188</feat><!-- liâ, jälste, ceäʹlǩǩe, miʹjjid, muõrid, mõõnnâd, puõʹtte, räʹjje, kooʹddid, seeʹst -->
+    <feat name="Number" value="Sing" upos="ADJ,ADV,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">1227</feat><!-- son, lij, ceälkk, tõt, tõn, mõõni, leäi, ton, ij, ooumaž -->
     <feat name="Number[psor]" value="Plur" upos="NOUN">4</feat><!-- eeʹjjed, jällmõõžžâz, neävveez, vuõddjez -->
     <feat name="Number[psor]" value="Sing" upos="ADP,NOUN">39</feat><!-- eččad, jeäʹnnes, villjâs, vuäʹbbes, ääušas, triâŋgâs, Jeänn’jam, eččan, heäppšines, jeännam -->
+    <feat name="NumType" value="Card" upos="NUM">17</feat><!-- kueʹhtt, õhtt, čiččâm, kooum, kooumâst, koummân, kuâhttlovitt, vitmlo -->
     <feat name="NumType" value="Ord" upos="ADJ">5</feat><!-- kuälmad, nuuʹbb -->
-    <feat name="Person" value="1" upos="AUX,PRON,VERB">83</feat><!-- mon, muu, ǩiõzzam, jiõm, miʹjjid, vääldam, čuõlmmääm, jeäʹp, leäm, vuâlǥam -->
-    <feat name="Person" value="2" upos="AUX,PRON,VERB">100</feat><!-- ton, jiõk, õõk, mõõnnâd, leäk, tiâr, tuu, mõõnsââʹst, puäʹđ, Mõõnžiǩ -->
-    <feat name="Person" value="3" upos="AUX,DET,PRON,VERB">631</feat><!-- son, lij, ceälkk, mõõni, leäi, ij, puõʹđi, šõõddi, liâ, vaaʹldi -->
+    <feat name="Person" value="1" upos="AUX,PRON,VERB">84</feat><!-- mon, muu, ǩiõzzam, jiõm, miʹjjid, vääldam, čuõlmmääm, jeäʹp, leäm, vuâlǥam -->
+    <feat name="Person" value="2" upos="AUX,PRON,VERB">101</feat><!-- ton, jiõk, õõk, mõõnnâd, leäk, tiâr, tuu, mõõnsââʹst, puäʹđ, Mõõnžiǩ -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">648</feat><!-- son, lij, ceälkk, mõõni, leäi, ij, puõʹđi, šõõddi, liâ, vaaʹldi -->
     <feat name="Person[psor]" value="1" upos="NOUN">4</feat><!-- Jeänn’jam, eččan, jeännam, vuäbbam -->
     <feat name="Person[psor]" value="2" upos="NOUN">9</feat><!-- eččad, eeʹjjed, jeänn’jad, juâlǥad -->
     <feat name="Person[psor]" value="3" upos="ADP,NOUN">30</feat><!-- jeäʹnnes, villjâs, vuäʹbbes, ääušas, triâŋgâs, heäppšines, jueʹljes, jällmõõžžâz, kuättses, kuõjâs -->
-    <feat name="Polarity" value="Neg" upos="AUX,INTJ,PART">63</feat><!-- ij, jiõk, jiõm, ni, jeäʹp, iʹlla, iʹlleäk, jiâ, Ij-ǥo, Jeäʹled -->
-    <feat name="PronType" value="Dem" upos="DET,PRON">98</feat><!-- tõn, tõt, tõt-i, tõid, tuk, tut, tät, dõõn, dõõt, tän -->
+    <feat name="Polarity" value="Neg" upos="AUX,INTJ,PART,VERB">69</feat><!-- ij, jiõk, ni, jiõm, iʹlla, jeäʹp, iʹlleäk, jiâ, Ij-ǥo, Jeäʹled -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">100</feat><!-- tõt, tõn, tõt-i, tõid, tuk, tut, tät, dõõn, dõõt, tän -->
     <feat name="PronType" value="Int" upos="ADV,PRON">11</feat><!-- mâiʹd, Mii, Koozz, ǩii -->
-    <feat name="PronType" value="Prs" upos="DET,PRON">155</feat><!-- son, ton, mon, suu, muu, miʹjjid, seeʹst, suʹst, tuu, jiijj -->
+    <feat name="PronType" value="Prs" upos="PRON">158</feat><!-- son, ton, mon, suu, muu, miʹjjid, suʹst, seeʹst, tuu, jiijj -->
     <feat name="PronType" value="Rel" upos="ADV,PRON">14</feat><!-- mii, kååʹtt, mâʹst, mõin, mõõn, mõõzz, ǩeäzz -->
     <feat name="PronType" value="Tot" upos="PRON">3</feat><!-- puk -->
-    <feat name="Reflex" value="Yes" upos="DET,PRON">5</feat><!-- jiijj, jiõčč, jiijjâs -->
-    <feat name="Tense" value="Past" upos="AUX,VERB">293</feat><!-- mõõni, leäi, puõʹđi, šõõddi, vaaʹldi, ǩieʹzzi, jälste, vuõʹlji, vuejai, lueʹšti -->
-    <feat name="Tense" value="Pres" upos="AUX,VERB">310</feat><!-- lij, ceälkk, liâ, õõk, õõlǥ, ǩiõzzam, ceäʹlǩǩe, jåått, mâânn, pohtt -->
+    <feat name="Reflex" value="Yes" upos="PRON">5</feat><!-- jiijj, jiõčč, jiijjâs -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">302</feat><!-- mõõni, leäi, puõʹđi, šõõddi, vaaʹldi, jälste, ǩieʹzzi, vuõʹlji, vuejai, lueʹšti -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">314</feat><!-- lij, ceälkk, liâ, õõk, õõlǥ, ǩiõzzam, ceäʹlǩǩe, jåått, mâânn, pohtt -->
     <feat name="Typo" value="Yes" upos="ADV,NOUN,VERB">7</feat><!-- nuʹt, Tuõddâr, nuʹt-i, piijžik, villjâs, Čääʹʒʒid -->
     <feat name="VerbForm" value="Ger" upos="VERB">1</feat><!-- vaʹlljeeǩâni -->
     <feat name="VerbForm" value="Inf" upos="AUX,VERB">49</feat><!-- jieʹlled, kooǯǯted, väʹldded, hiâvted, jååʹtted, mõõnnâd, leeʹd, mainsted, njuiʹǩǩeed, ǩiččâd -->
-    <feat name="VerbForm" value="Part" upos="AUX,VERB">34</feat><!-- teâđstam, välddam, kaunnâm, košklõõvvâm, koǯstam, koǯǯâm, leämmaž, čõnnum, šõddâm, hoʹhssjam -->
+    <feat name="VerbForm" value="Part" upos="AUX,VERB">35</feat><!-- teâđstam, välddam, kaunnâm, košklõõvvâm, koǯstam, koǯǯâm, leämmaž, čõnnum, šõddâm, hoʹhssjam -->
     <feat name="VerbForm" value="Vnoun" upos="VERB">1</feat><!-- puälddmõõžž -->
     <feat name="Voice" value="Pass" upos="VERB">3</feat><!-- čõnnum, tuåimtum -->
   </feats>
@@ -98,8 +100,8 @@
     <dep name="acl">1</dep>
     <dep name="acl:relcl">1</dep>
     <dep name="advcl">22</dep>
-    <dep name="advcl:tcl">4</dep>
-    <dep name="advmod">94</dep>
+    <dep name="advcl:tcl">5</dep>
+    <dep name="advmod">98</dep>
     <dep name="advmod:deg">3</dep>
     <dep name="advmod:eval">17</dep>
     <dep name="advmod:foc">2</dep>
@@ -109,41 +111,41 @@
     <dep name="advmod:tmod">98</dep>
     <dep name="amod">23</dep>
     <dep name="appos">8</dep>
-    <dep name="aux">30</dep>
+    <dep name="aux">31</dep>
     <dep name="aux:nec">13</dep>
-    <dep name="aux:neg">45</dep>
+    <dep name="aux:neg">46</dep>
     <dep name="aux:tense">10</dep>
     <dep name="case">24</dep>
-    <dep name="cc">171</dep>
+    <dep name="cc">174</dep>
     <dep name="cc:preconj">1</dep>
-    <dep name="ccomp">45</dep>
-    <dep name="conj">356</dep>
+    <dep name="ccomp">46</dep>
+    <dep name="conj">365</dep>
     <dep name="cop">37</dep>
     <dep name="dep">2</dep>
-    <dep name="det">59</dep>
-    <dep name="discourse">67</dep>
+    <dep name="det">60</dep>
+    <dep name="discourse">69</dep>
     <dep name="dislocated">4</dep>
     <dep name="expl">4</dep>
     <dep name="fixed">16</dep>
     <dep name="flat:name">2</dep>
     <dep name="goeswith">1</dep>
-    <dep name="mark">57</dep>
+    <dep name="mark">59</dep>
     <dep name="nmod">10</dep>
     <dep name="nmod:poss">9</dep>
-    <dep name="nsubj">271</dep>
+    <dep name="nsubj">279</dep>
     <dep name="nsubj:cop">23</dep>
     <dep name="nsubj:pass">3</dep>
     <dep name="nummod">15</dep>
-    <dep name="obj">136</dep>
-    <dep name="obl">38</dep>
+    <dep name="obj">140</dep>
+    <dep name="obl">40</dep>
     <dep name="obl:agent">3</dep>
     <dep name="obl:lmod">51</dep>
     <dep name="obl:tmod">15</dep>
     <dep name="orphan">18</dep>
     <dep name="parataxis">17</dep>
-    <dep name="punct">687</dep>
+    <dep name="punct">702</dep>
     <dep name="reparandum">18</dep>
-    <dep name="root">245</dep>
+    <dep name="root">250</dep>
     <dep name="vocative">9</dep>
     <dep name="xcomp">47</dep>
   </deps>
