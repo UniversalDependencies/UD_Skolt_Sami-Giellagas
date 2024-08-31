@@ -3,7 +3,7 @@
 # aannotation="yes" begintime="0:39:13" endtime=""
 # text = Ij kuuʹǩǩ leämmaž mieʹccest, iʹttli kuʹmpp väʹst mååust.
 # text_fi = Ei ollut kauaa metsässä, susi ilmestyi takaisin.
-1	Ij	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	2	aux:neg	_	GTtags=Neg,Ind,Sg3
+1	Ij	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	2	aux	_	GTtags=Neg,Ind,Sg3
 2	kuuʹǩǩ	kuʹǩǩ	ADV	Adv	_	4	advmod:tmod	_	GTtags=Sg,Nom
 3	leämmaž	leeʹd	AUX	V	Aspect=Perf|VerbForm=Part	4	cop	_	GTtags=IV,Act,PrfPrc
 4	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	0	root	_	GTtags=Sg,Loc|SpaceAfter=No
@@ -35,7 +35,7 @@
 4	leäk-a	leeʹd	AUX	V	Clitic=QstA|Mood=Ind|Number=Sing|Person=2|Tense=Pres	5	cop	_	GTtags=IV,Ind,Prs,Sg2,Qst/a
 5	tiõrvâs	tiõrvâs	ADJ	A	Case=Nom|Number=Sing	1	ccomp	_	GTtags=Sg,Nom|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	9	punct	_	_
-7	jiõk	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	9	aux:neg	_	GTtags=Neg,Ind,Sg2
+7	jiõk	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	9	aux	_	GTtags=Neg,Ind,Sg2
 8	leäkku	leeʹd	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres	9	aux	_	GTtags=IV,Ind,Prs,ConNeg
 9	tiõrvâs	tiõrvâs	ADJ	A	Case=Nom|Number=Sing	5	conj	_	GTtags=Sg,Nom|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	12	punct	_	_
@@ -459,7 +459,7 @@
 7	ko	ko	SCONJ	CS	_	8	mark	_	_
 8	kooʹddže	kåʹdded	VERB	V	Mood=Pot|Number=Plur|Person=3	12	advcl:tcl	_	GTtags=Pot,Pl3
 9	ton	ton	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	GTtags=Pers,Sg2,Nom
-10	jiõk	ij	AUX	_	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	12	aux:neg	_	GTtags=Neg,Ind,Sg2
+10	jiõk	ij	AUX	_	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	12	aux	_	GTtags=Neg,Ind,Sg2
 11	õõlǥ	õlggâd	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres	12	aux	_	GTtags=Ind,Prs,ConNeg
 12	käggõõttâd	käggõõttâd	VERB	V	VerbForm=Inf	3	ccomp	_	GTtags=Inf
 13	vuõʹste	vuõʹste	ADV	Adv	_	12	advmod	_	SpaceAfter=No
@@ -496,7 +496,7 @@
 26	tueʹllj	tueʹllj	NOUN	N	Case=Gen|Number=Sing	24	obl:lmod	_	GTtags=Sg,Gen
 27	de	de	CCONJ	CC	_	30	cc	_	_
 28	teʹl	teʹl	ADV	Adv	AdvType=Tim	30	advmod:tmod	_	GTtags=Sem/Time
-29	jiâ	ij	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	30	aux:neg	_	GTtags=Neg,Ind,Pl3
+29	jiâ	ij	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	30	aux	_	GTtags=Neg,Ind,Pl3
 30	kååʹdd	kåʹdded	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	0	root	_	GTtags=Ind,Prs,ConNeg
 31	tuu	ton	PRON	Pron	Case=Acc|Number=Sing|Person=2|PronType=Prs	30	obj	_	GTtags=Pers,Sg2,Acc|SpaceAfter=No
 32	.	.	PUNCT	PUNCT	_	30	punct	_	GTtags=RIGHT|SpaceAfter=No
@@ -621,7 +621,7 @@
 16	leʹjjiǩ	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	17	cop	_	GTtags=Ind,Prt,Sg2
 17	mõõnnâd	mõõnnâd	VERB	V	VerbForm=Inf	11	conj	_	GTtags=Inf
 18	mutta	mutta	CCONJ	CC	_	20	cc	_	_
-19	jeäʹp	ij	AUX	V	Mood=Ind|Number=Plur|Person=1|Polarity=Neg	20	aux:neg	_	GTtags=Neg,Ind,Pl1
+19	jeäʹp	ij	AUX	V	Mood=Ind|Number=Plur|Person=1|Polarity=Neg	20	aux	_	GTtags=Neg,Ind,Pl1
 20	teâttam	tieʹtted	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past	11	conj	_	GTtags=Ind,Prt,ConNeg|SpaceAfter=No
 21	.	.	PUNCT	CLB	_	3	punct	_	SpaceAfter=No
 22	”	”	PUNCT	PUNCT	_	3	punct	_	GTtags=RIGHT
@@ -705,11 +705,11 @@
 6	što	što	SCONJ	CS	_	10	mark	_	_
 7	”	”	PUNCT	PUNCT	_	10	punct	_	GTtags=RIGHT|SpaceAfter=No
 8	tueʹllj	tueʹllj	NOUN	N	Case=Acc|Number=Sing	10	obj	_	GTtags=Sg,Acc
-9	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	10	aux:neg	_	GTtags=Neg,Ind,Sg2
+9	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	10	aux	_	GTtags=Neg,Ind,Sg2
 10	õõlǥ	õlggâd	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	5	ccomp	_	GTtags=Ind,Prs,ConNeg|SpaceAfter=No
 11	,	,	PUNCT	CLB	_	14	punct	_	_
 12	kåʹddtueʹlljid	kåʹddtueʹllj	NOUN	N	Case=Acc|Number=Plur	15	obj	_	GTtags=Pl,Acc
-13	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	14	aux:neg	_	GTtags=Neg,Ind,Sg2
+13	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	14	aux	_	GTtags=Neg,Ind,Sg2
 14	õõlǥ	õlggâd	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres	10	appos	_	GTtags=Ind,Prs,ConNeg
 15	kooǯǯted	kooǯǯted	VERB	V	VerbForm=Inf	14	xcomp	_	GTtags=Inf|SpaceAfter=No
 16	”	”	PUNCT	PUNCT	_	10	punct	_	GTtags=RIGHT|SpaceAfter=No
@@ -729,7 +729,7 @@
 9	što	što	SCONJ	CS	_	13	mark	_	_
 10	pärnna	päʹrnn	NOUN	N	Animacy=Hum|Case=Ill|Number=Sing	14	obl:agent	_	GTtags=Kin,Sem/Kin,Sg,Ill
 11	tueʹllj	tueʹllj	NOUN	N	Case=Acc|Number=Sing	14	nsubj:pass	_	GTtags=Sg,Acc
-12	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	13	aux:neg	_	GTtags=Neg,Ind,Sg2
+12	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	13	aux	_	GTtags=Neg,Ind,Sg2
 13	õõlǥ	õlggâd	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres	8	ccomp	_	GTtags=Ind,Prs,ConNeg
 14	kooǯǯted	kooǯǯted	VERB	V	VerbForm=Inf	13	xcomp	_	GTtags=Inf|SpaceAfter=No
 15	.	.	PUNCT	CLB	_	3	punct	_	_
@@ -768,7 +768,7 @@
 4	”	”	PUNCT	PUNCT	_	10	punct	_	GTtags=RIGHT|SpaceAfter=No
 5	Muu	mon	PRON	Pron	Case=Acc|Number=Sing|Person=1|PronType=Prs	10	obj	_	GTtags=Pers,Sg1,Acc
 6	kâʹl	kâʹl	ADV	Adv	_	10	advmod:eval	_	_
-7	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	10	aux:neg	_	GTtags=Neg,Ind,Sg2
+7	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	10	aux	_	GTtags=Neg,Ind,Sg2
 8	teänab	teänab	ADV	Adv	_	10	advmod:tmod	_	_
 9	kuuʹǩǩ	kuuʹǩǩ	ADV	Adv	AdvType=Tim	10	advmod:tmod	_	GTtags=Sem/Time
 10	vueiʹn	vueiʹnned	VERB	V	Mood=Imp|Number=Sing|Person=2	2	ccomp	_	GTtags=Imprt,Sg2
@@ -976,7 +976,7 @@
 5	,	,	PUNCT	CLB	_	9	punct	_	_
 6	što	što	SCONJ	CS	_	9	mark	_	_
 7	tueʹllj	tueʹllj	NOUN	N	Case=Acc|Number=Sing	9	nsubj:pass	_	GTtags=Sg,Acc
-8	i-ǥõl	i-ǥõl	AUX	V	_	9	aux:neg	_	_
+8	i-ǥõl	i-ǥõl	AUX	V	Polarity=Neg	9	aux	_	_
 9	kooǯǯted	kooǯǯted	VERB	V	VerbForm=Inf	4	ccomp	_	GTtags=Inf|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	14	punct	_	_
 11	kåʹddtueʹllj	kåʹddtueʹllj	NOUN	N	Case=Acc|Number=Sing	14	nsubj:pass	_	GTtags=Sg,Acc
@@ -1000,7 +1000,7 @@
 10	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	parataxis	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 11	,	,	PUNCT	CLB	_	10	punct	_	_
 12	”	”	PUNCT	PUNCT	_	15	punct	_	GTtags=RIGHT|SpaceAfter=No
-13	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	15	aux:neg	_	GTtags=Neg,Ind,Sg1
+13	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	15	aux	_	GTtags=Neg,Ind,Sg1
 14	leäkku	leeʹd	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres	15	aux	_	GTtags=Ind,Prs,ConNeg
 15	kooǯǯtam	kooǯǯted	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past	5	conj	_	GTtags=Ind,Prt,ConNeg|SpaceAfter=No
 16	.	.	PUNCT	CLB	_	5	punct	_	_
@@ -1059,7 +1059,7 @@
 3	vuâlǥam	vueʹlǧǧed	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg1
 4	ja	ja	CCONJ	CC	_	7	cc	_	_
 5	muu	mon	PRON	Pron	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	_	GTtags=Pers,Sg1,Acc
-6	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	7	aux:neg	_	GTtags=Neg,Ind,Sg2
+6	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	7	aux	_	GTtags=Neg,Ind,Sg2
 7	kaaun	kaunnâd	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	3	conj	_	GTtags=Ind,Prs,ConNeg
 8	teänab	teänab	ADV	Adv	_	7	advmod:tmod	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	3	punct	_	SpaceAfter=No
@@ -1124,7 +1124,7 @@
 10	jååʹtted	jååʹtted	VERB	V	VerbForm=Inf	9	xcomp	_	GTtags=Inf
 11	što	što	SCONJ	CS	_	14	mark	_	_
 12	oummooumaž	oummooumaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	14	nsubj	_	GTtags=Sem/Hum,Sg,Nom
-13	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	14	aux:neg	_	GTtags=Neg,Ind,Sg3
+13	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	14	aux	_	GTtags=Neg,Ind,Sg3
 14	kååddče	kåʹdded	VERB	V	Connegative=Yes|Mood=Cnd	10	ccomp	_	GTtags=Cond,ConNeg
 15	tuu	ton	PRON	Pron	Case=Acc|Number=Sing|Person=2|PronType=Prs	14	obj	_	GTtags=Pers,Sg2,Acc|SpaceAfter=No
 16	,	,	PUNCT	CLB	_	14	punct	_	_
@@ -1265,7 +1265,7 @@
 18	ko	ko	SCONJ	CS	_	19	mark	_	GTtags=@CVP
 19	väʒʒ	väʹʒʒed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	24	advcl	_	GTtags=Ind,Prs,Sg3,@+FMAINV
 20	de	de	CCONJ	CC	_	24	cc	_	_
-21	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	24	aux:neg	_	GTtags=Neg,Ind,Sg3,@+FAUXV
+21	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	24	aux	_	GTtags=Neg,Ind,Sg3,@+FAUXV
 22	ni	ni	PART	Pcle	_	23	advmod:neg	_	_
 23	mii	mii	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	24	nsubj	_	GTtags=Rel,Sg,Nom,@<SUBJ
 24	kueʹst	kueʹstted	VERB	V	Mood=Imp|Number=Sing|Person=2	10	conj	_	GTtags=Imprt,Sg2,@+FMAINV|SpaceAfter=No
@@ -1416,7 +1416,7 @@
 3	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	7	punct	_	_
 5	jos	jos	SCONJ	CS	_	7	mark	_	GTtags=@CVP
-6	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	7	aux:neg	_	GTtags=Neg,Ind,Sg3,@+FAUXV
+6	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	7	aux	_	GTtags=Neg,Ind,Sg3,@+FAUXV
 7	täätt	tättad	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	3	advcl	_	GTtags=Ind,Prs,ConNeg,@+FAUXV
 8	puk	puk	PRON	Pron	Case=Nom|Number=Sing	9	obj	_	GTtags=Pron,Sg,Nom,@<SUBJ
 9	väʹldded	väʹldded	VERB	V	VerbForm=Inf	7	xcomp	_	GTtags=Inf,@-FMAINV|SpaceAfter=No
@@ -1475,7 +1475,7 @@
 13	,	,	PUNCT	CLB	_	17	punct	_	_
 14	leša	leša	CCONJ	CC	_	17	cc	_	GTtags=@CVP
 15	tõʹst	tõʹst	ADV	Adv	_	17	advmod:lmod	_	GTtags=@ADVL>
-16	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	17	aux:neg	_	GTtags=Neg,Ind,Sg3,@+FAUXV
+16	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	17	aux	_	GTtags=Neg,Ind,Sg3,@+FAUXV
 17	šõõdd	šõddâd	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	12	conj	_	GTtags=Ind,Prs,ConNeg,@+FMAINV
 18	šiõǥǥ	šiõǥǥ	ADJ	A	_	19	amod	_	GTtags=Attr
 19	jieʹllem	jieʹllem	NOUN	N	Case=Nom|Number=Sing	17	nsubj	_	GTtags=Sg,Nom,@<SUBJ|SpaceAfter=No
@@ -1491,7 +1491,7 @@
 # story_id = ČEÄKKLEEMAAINÂS:12:1:1
 # text = Tõzz ij šõõdd šiõǥǥ jieʹllem, mutta kååʹtt ko peäʹl väldd tai kuälmõõzz ko väldd ni tõt lij reeʹǧǧesvuõtt ja šiõǥǥ jieʹllem lij tõn oummust.
 1	Tõzz	tõzz	ADV	Adv	_	3	obl:lmod	_	GTtags=@ADVL>
-2	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	3	aux:neg	_	GTtags=Neg,Ind,Sg3,@+FAUXV
+2	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	3	aux	_	GTtags=Neg,Ind,Sg3,@+FAUXV
 3	šõõdd	šõddâd	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	0	root	_	GTtags=Ind,Prs,ConNeg,@+FMAINV
 4	šiõǥǥ	šiõǥǥ	ADJ	A	_	5	amod	_	GTtags=Attr
 5	jieʹllem	jieʹllem	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	GTtags=Sg,Nom,@<SUBJ|SpaceAfter=No
@@ -1527,7 +1527,7 @@
 5	teâđam	tieʹtted	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg1,@+FMAINV|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	9	punct	_	_
 7	jäänab	jäänab	DET	Det	_	9	obj	_	GTtags=@ADVL>
-8	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	9	aux:neg	_	GTtags=Neg,Ind,Sg1,@+FAUXV
+8	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	9	aux	_	GTtags=Neg,Ind,Sg1,@+FAUXV
 9	tieʹđ	tieʹtted	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	5	conj	_	GTtags=Ind,Prs,ConNeg,@+FMAINV|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	5	punct	_	_
 
@@ -1536,7 +1536,7 @@
 # text = Mutta mon jiõm muuʹšt mainsted puârast.
 1	Mutta	mutta	CCONJ	CC	_	4	cc	_	GTtags=CC
 2	mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	GTtags=Pers,Sg1,Nom
-3	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	4	aux:neg	_	GTtags=Neg,Ind,Sg1,@+FAUXV
+3	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	4	aux	_	GTtags=Neg,Ind,Sg1,@+FAUXV
 4	muuʹšt	muʹštted	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	0	root	_	GTtags=Ind,Prs,ConNeg,@+FMAINV
 5	mainsted	mainsted	VERB	V	VerbForm=Inf	4	xcomp	_	GTtags=Inf
 6	puârast	puârast	ADV	Adv	_	5	advmod	_	SpaceAfter=No
@@ -1623,7 +1623,7 @@
 2	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	6	punct	_	_
 4	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	GTtags=Pers,Sg3,Nom
-5	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	6	aux:neg	_	GTtags=Neg,Ind,Sg3
+5	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	6	aux	_	GTtags=Neg,Ind,Sg3
 6	tieʹđ	tieʹtted	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	2	ccomp	_	GTtags=Ind,Prs,ConNeg|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	11	punct	_	_
 8	näʹde	näʹde	INTJ	Interj	_	11	discourse	_	_
@@ -1797,7 +1797,7 @@
 6	poʹhtte	puʹhtted	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	12	punct	_	_
 8	vuäʹbbes	vuäʹbb	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	nsubj	_	GTtags=Sem/Kin,Sg,Nom,PxSg3
-9	i-ǥõl	i-ǥõl	AUX	_	_	12	aux:neg	_	_
+9	i-ǥõl	i-ǥõl	AUX	_	Polarity=Neg	12	aux	_	_
 10	ni	ni	PART	Pcle	Polarity=Neg	11	advmod:neg	_	GTtags=Pcle,Neg
 11	koʹst	koʹst	ADV	Adv	Case=Loc	12	advmod:lmod	_	GTtags=Loc
 12	jååʹtted	jååʹtted	VERB	V	VerbForm=Inf	6	conj	_	GTtags=Inf|SpaceAfter=No
@@ -1815,7 +1815,7 @@
 8	kuâđđam	kueʹđđed	VERB	V	Aspect=Perf|VerbForm=Part	3	conj	_	GTtags=Act,PrfPrc|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	12	punct	_	_
 10	čääʹʒʒ	čääʹcc	NOUN	N	Case=Acc|Number=Sing	12	obj	_	GTtags=Sg,Acc
-11	jeäʹla	iʹlla	AUX	V	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres	12	aux:neg	_	GTtags=Neg,Ind,Prs,Pl3
+11	jeäʹla	iʹlla	AUX	V	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres	12	aux	_	GTtags=Neg,Ind,Prs,Pl3
 12	kuâddam	kueʹdded	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past	3	conj	_	GTtags=Ind,Prt,ConNeg|SpaceAfter=No
 13	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
@@ -1828,7 +1828,7 @@
 5	puäʹtte	pueʹtted	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	9	punct	_	_
 7	čuõvv	čuõvv	NOUN	N	Case=Nom|Number=Sing	9	nsubj	_	GTtags=Sg,Nom
-8	ij	ij	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	9	aux:neg	_	GTtags=Neg,Ind,Sg3
+8	ij	ij	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	9	aux	_	GTtags=Neg,Ind,Sg3
 9	kueʹst	kueʹstted	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	2	conj	_	GTtags=Ind,Prs,ConNeg|SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
@@ -1842,7 +1842,7 @@
 # text = ”Čuõvv ij kueʹst, leäk-a dõõn... čääʹʒʒ kuõʹddiǩ jiõk?”
 1	”	”	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT|SpaceAfter=No
 2	Čuõvv	čuõvv	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	GTtags=Sg,Nom
-3	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	4	aux:neg	_	GTtags=Neg,Ind,Sg3
+3	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	4	aux	_	GTtags=Neg,Ind,Sg3
 4	kueʹst	kueʹstted	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	0	root	_	GTtags=Ind,Prs,ConNeg|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	7	punct	_	_
 6	leäk-a	leeʹd	VERB	V	Clitic=QstA|Mood=Ind|Number=Sing|Person=2|Tense=Pres	7	orphan	_	GTtags=Ind,Prs,Sg2,Qst/a
@@ -1861,7 +1861,7 @@
 3	:	:	PUNCT	PUNCT	_	7	punct	_	_
 4	”	”	PUNCT	PUNCT	_	7	punct	_	GTtags=RIGHT|SpaceAfter=No
 5	Mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	GTtags=Pers,Sg1,Nom
-6	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	7	aux:neg	_	GTtags=Neg,Ind,Sg1
+6	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	7	aux	_	GTtags=Neg,Ind,Sg1
 7	kuâddam	kueʹdded	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past	2	parataxis	_	GTtags=Ind,Prt,ConNeg
 8	čääʹʒʒ	čääʹcc	NOUN	N	Case=Acc|Number=Sing	7	obj	_	GTtags=Sg,Acc,@<OBJ|SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No
@@ -1879,7 +1879,7 @@
 8	go	ko	ADV	Adv	_	7	advmod	_	_
 9	jo	jo	ADV	Adv	AdvType=Tim	13	advmod:tmod	_	GTtags=Err/Lex,Sem/Time
 10	čääʹʒʒ	čääʹcc	NOUN	N	Case=Acc|Number=Sing	13	obj	_	GTtags=Sg,Acc
-11	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	13	aux:neg	_	GTtags=Neg,Ind,Sg2
+11	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	13	aux	_	GTtags=Neg,Ind,Sg2
 12	leäkku	leeʹd	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres	13	aux:tense	_	GTtags=Ind,Prs,ConNeg
 13	kuâddam	kueʹdded	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past	0	root	_	GTtags=Ind,Prt,ConNeg|SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No
@@ -2158,7 +2158,7 @@
 1	”	”	PUNCT	PUNCT	_	6	punct	_	GTtags=RIGHT|SpaceAfter=No
 2	A	a	CCONJ	CC	_	6	cc	_	_
 3	mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	GTtags=Pers,Sg1,Nom
-4	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	6	aux:neg	_	GTtags=Neg,Ind,Sg1,@+FAUXV
+4	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	6	aux	_	GTtags=Neg,Ind,Sg1,@+FAUXV
 5	ni	ni	PART	Pcle	Polarity=Neg	6	advmod:neg	_	GTtags=Pcle,Neg
 6	vuâmmšõõttâm	vuâmmšõõttâd	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past	0	root	_	GTtags=Ind,Prt,ConNeg
 7	mååusat	mååusat	ADV	Adv	_	6	advmod:lmod	_	_
@@ -2249,7 +2249,7 @@
 8	tõn	tõt	PRON	Pron	Case=Acc|Number=Sing|PronType=Dem	12	obj	_	GTtags=Dem,Sg,Acc,@OBJ>
 9	vaaʹldi	väʹldded	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	reparandum	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
 10	...	...	PUNCT	PUNCT	_	12	punct	_	_
-11	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	12	aux:neg	_	GTtags=Neg,Ind,Sg3,@+FAUXV
+11	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	12	aux	_	GTtags=Neg,Ind,Sg3,@+FAUXV
 12	välddam	väʹldded	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past	4	conj	_	GTtags=Ind,Prt,ConNeg|SpaceAfter=No
 13	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
@@ -2374,7 +2374,7 @@
 4	...	...	PUNCT	PUNCT	_	5	punct	_	_
 5	võʹll’ji	võʹllʼjed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	1	conj	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
 6	...	...	PUNCT	PUNCT	_	8	punct	_	_
-7	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	8	aux:neg	_	GTtags=Neg,Ind,Sg3,@+FAUXV
+7	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	8	aux	_	GTtags=Neg,Ind,Sg3,@+FAUXV
 8	võʹll’jam	võʹllʼjed	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past	1	conj	_	GTtags=Ind,Prt,ConNeg|SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
@@ -2680,17 +2680,17 @@
 11	tõʹst	tõʹst	ADV	Adv	_	16	advmod:lmod	_	SpaceAfter=No
 12	,	,	PUNCT	CLB	_	13	punct	_	_
 13	tõʹst	tõʹst	ADV	Adv	_	11	conj	_	_
-14	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	16	aux:neg	_	GTtags=Neg,Ind,Sg2,@+FAUXV
+14	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	16	aux	_	GTtags=Neg,Ind,Sg2,@+FAUXV
 15	õõlǥ	õlggâd	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres	16	aux:nec	_	GTtags=Ind,Prs,ConNeg,@+FAUXV
 16	jieʹlled	jieʹlled	VERB	V	VerbForm=Inf	5	conj	_	GTtags=Inf,@-FMAINV|SpaceAfter=No
 17	,	,	PUNCT	CLB	_	21	punct	_	_
 18	tõʹst	tõʹst	ADV	Adv	_	21	advmod:lmod	_	_
-19	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	21	aux:neg	_	GTtags=Neg,Ind,Sg2,@+FAUXV
+19	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	21	aux	_	GTtags=Neg,Ind,Sg2,@+FAUXV
 20	õõlǥ	õlggâd	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres	21	aux:nec	_	GTtags=Ind,Prs,ConNeg,@+FAUXV
 21	jieʹlled	jieʹlled	VERB	V	VerbForm=Inf	5	conj	_	GTtags=Inf,@-FMAINV
 22	ja	ja	CCONJ	CC	_	26	cc	_	_
 23	tõʹst	tõʹst	ADV	Adv	_	26	advmod:lmod	_	_
-24	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	26	aux:neg	_	GTtags=Neg,Ind,Sg2,@+FAUXV
+24	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	26	aux	_	GTtags=Neg,Ind,Sg2,@+FAUXV
 25	õõlǥ	õlggâd	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres	26	aux:nec	_	GTtags=Ind,Prs,ConNeg,@+FAUXV
 26	jieʹlled	jieʹlled	VERB	V	VerbForm=Inf	21	conj	_	GTtags=Inf,@-FMAINV|SpaceAfter=No
 27	,	,	PUNCT	CLB	_	31	punct	_	_
@@ -2700,7 +2700,7 @@
 31	jieʹlled	jieʹlled	VERB	V	VerbForm=Inf	5	conj	_	GTtags=Inf,@-FMAINV|SpaceAfter=No
 32	,	,	PUNCT	CLB	_	36	punct	_	_
 33	kooumâst	koumm	NUM	Num	Case=Loc|Number=Sing|NumType=Card	36	obl:lmod	_	GTtags=Sg,Loc
-34	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	36	aux:neg	_	GTtags=Neg,Ind,Sg2,@+FAUXV
+34	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	36	aux	_	GTtags=Neg,Ind,Sg2,@+FAUXV
 35	õõlǥ	õlggâd	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres	36	aux:nec	_	GTtags=Ind,Prs,ConNeg,@+FAUXV
 36	jieʹlled	jieʹlled	VERB	V	VerbForm=Inf	5	conj	_	GTtags=Inf,@-FMAINV|SpaceAfter=No
 37	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
@@ -2716,7 +2716,7 @@
 6	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	GTtags=Ind,Prs,Sg3
 7	ko	ko	SCONJ	CS	_	10	mark	_	_
 8	toʹb	toʹb	ADV	Adv	_	10	advmod:lmod	_	_
-9	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	10	aux:neg	_	GTtags=Neg,Ind,Sg3,@+FAUXV
+9	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	10	aux	_	GTtags=Neg,Ind,Sg3,@+FAUXV
 10	lueʹšt	lueʹštted	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	4	advcl	_	GTtags=Ind,Prs,ConNeg
 11	jååʹtted	jååʹtted	VERB	V	VerbForm=Inf	10	xcomp	_	GTtags=Inf|SpaceAfter=No
 12	.	.	PUNCT	PUNCT	_	2	punct	_	_
@@ -2831,7 +2831,7 @@
 # text = – ”Jeäʹled cieʹlǩ vueʹǯǯ mutta triâŋgg.”
 1	–	–	PUNCT	PUNCT	_	4	punct	_	_
 2	”	”	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT|SpaceAfter=No
-3	Jeäʹled	ij	AUX	V	Mood=Imp|Number=Plur|Person=2|Polarity=Neg	4	aux:neg	_	GTtags=Neg,Imprt,Pl2,@+FAUXV
+3	Jeäʹled	ij	AUX	V	Mood=Imp|Number=Plur|Person=2|Polarity=Neg	4	aux	_	GTtags=Neg,Imprt,Pl2,@+FAUXV
 4	cieʹlǩ	ceäʹlǩǩed	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	0	root	_	GTtags=Ind,Prs,ConNeg
 5	vueʹǯǯ	vueʹǯǯ	NOUN	N	Case=Acc|Number=Sing	4	obj	_	GTtags=N,Sg,Acc,@OBJ>
 6	mutta	mutta	CCONJ	CC	_	7	cc	_	GTtags=Err/Lex,@CNP
@@ -3117,7 +3117,7 @@
 6	roʹttai	roʹttjed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	10	punct	_	_
 8	mååust	mååust	ADV	Adv	_	10	advmod	_	_
-9	ij	ij	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	10	aux:neg	_	GTtags=Neg,Ind,Sg3,@+FAUXV
+9	ij	ij	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	10	aux	_	GTtags=Neg,Ind,Sg3,@+FAUXV
 10	piâzz	piâssâd	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	6	ccomp	_	GTtags=Ind,Prs,ConNeg|SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
@@ -3153,7 +3153,7 @@
 2	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	GTtags=Pers,Sg3,Nom
 3	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	4	advmod:tmod	_	GTtags=Sem/Time
 4	piâzzad	piâzzeed	VERB	V	Mood=Ind|Number=Sing|Person=3	0	root	_	GTtags=Ind,Sg3
-5	ij	ij	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	6	aux:neg	_	GTtags=Neg,Ind,Sg3,@+FAUXV
+5	ij	ij	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	6	aux	_	GTtags=Neg,Ind,Sg3,@+FAUXV
 6	piâzz	piâssâd	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	4	conj	_	GTtags=Ind,Prs,ConNeg
 7	di	di	CCONJ	CC	_	13	cc	_	_
 8	tuk	tut	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	13	nsubj	_	GTtags=Dem,Pl,Nom
@@ -3186,7 +3186,7 @@
 5	ceäʹlǩǩe	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	9	punct	_	_
 7	”	”	PUNCT	_	_	9	punct	_	SpaceAfter=No
-8	jiâ	ij	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	9	aux:neg	_	_
+8	jiâ	ij	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	9	aux	_	_
 9	pieʹrǧǧe	pieʹrǧǧe	VERB	V	_	5	parataxis	_	_
 10	ni	ni	PART	_	Polarity=Neg	9	advmod	_	_
 11	mäʹhtt	mäʹhtt	ADV	Adv	_	10	fixed	_	SpaceAfter=No
@@ -3265,7 +3265,7 @@
 9	vuõrji	vuõrjjâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	ccomp	_	GTtags=Ind,Prt,Sg3
 10	miʹjjid	mon	PRON	Pron	Case=Acc|Number=Plur|Person=1|PronType=Prs	9	obl	_	GTtags=Pers,Pl1,Acc,@OBJ>
 11	da	da	CCONJ	CC	_	15	cc	_	_
-12	jeäʹp	ij	AUX	_	Mood=Ind|Number=Plur|Person=1|Polarity=Neg	15	aux:neg	_	GTtags=Neg,Ind,Pl1,@+FAUXV
+12	jeäʹp	ij	AUX	_	Mood=Ind|Number=Plur|Person=1|Polarity=Neg	15	aux	_	GTtags=Neg,Ind,Pl1,@+FAUXV
 13	ni	ni	PART	Pcle	Polarity=Neg	15	advmod	_	GTtags=Neg
 14	mäʹhtt	mäʹhtt	SCONJ	CS	_	13	fixed	_	_
 15	vueiʹt	vueiʹtted	VERB	V	Mood=Imp|Number=Sing|Person=2	9	conj	_	GTtags=Imprt,Sg2|SpaceAfter=No
@@ -3294,7 +3294,7 @@
 1	–	–	PUNCT	PUNCT	_	7	punct	_	_
 2	”	”	PUNCT	PUNCT	_	7	punct	_	GTtags=RIGHT|SpaceAfter=No
 3	No	no	INTJ	Interj	_	7	discourse	_	_
-4	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	7	aux:neg	_	GTtags=Neg,Ind,Sg3,@+FAUXV
+4	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	7	aux	_	GTtags=Neg,Ind,Sg3,@+FAUXV
 5	kâʹl	kâʹl	ADV	Adv	_	7	advmod	_	_
 6	leäkku	leeʹd	AUX	V	Connegative=Yes	7	cop	_	GTtags=ConNeg
 7	šurr	šurr	ADJ	A	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom|SpaceAfter=No
@@ -3472,7 +3472,7 @@
 # text = Tõn ääiʹj jiõm leʹčče škooulâst.
 1	Tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	2	det	_	CGdephead=#1-&gt;2|CGdeprel=@&gt;N|GTtags=Dem,Sg,Gen
 2	ääiʹj	äiʹǧǧ	NOUN	N	Case=Gen|Number=Sing	4	obl:tmod	_	CGdephead=#2-&gt;4|CGdeprel=@ADVL&gt;|GTtags=Sg,Gen
-3	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	4	aux:neg	_	CGdephead=#3-&gt;0|CGdeprel=@FAUX|GTtags=Neg,Ind,Sg1
+3	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	4	aux	_	CGdephead=#3-&gt;0|CGdeprel=@FAUX|GTtags=Neg,Ind,Sg1
 4	leʹčče	leeʹd	VERB	V	Connegative=Yes|Mood=Cnd	0	root	_	CGdephead=#4-&gt;3|CGdeprel=@IMV|GTtags=IV,Cond,ConNeg
 5	škooulâst	škooul	NOUN	N	Case=Loc|Number=Sing	4	obl:lmod	_	CGdephead=#5-&gt;4|CGdeprel=@&lt;ADVL|GTtags=Sg,Loc|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	4	punct	_	CGdephead=#6-&gt;3|CGdeprel=punct|GTtags=CLB
@@ -3481,7 +3481,7 @@
 # text = Mij jeäʹp vuäđče puârast veeʹres põõrtâst.
 # text_en = We would not sleep well in a strange house.
 1	Mij	mon	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	CGdephead=#1-&gt;0|CGdeprel=@X|GTtags=Pers,Pl1,Gen
-2	jeäʹp	ij	AUX	V	Mood=Ind|Number=Plur|Person=1|Polarity=Neg	3	aux:neg	_	CGdephead=#2-&gt;0|CGdeprel=@FAUX|GTtags=Neg,Ind,Pl1
+2	jeäʹp	ij	AUX	V	Mood=Ind|Number=Plur|Person=1|Polarity=Neg	3	aux	_	CGdephead=#2-&gt;0|CGdeprel=@FAUX|GTtags=Neg,Ind,Pl1
 3	vuäđče	vueʹđđed	VERB	V	Connegative=Yes|Mood=Cnd	0	root	_	CGdephead=#3-&gt;2|CGdeprel=@IMV|GTtags=Cond,ConNeg
 4	puârast	pueʹrr	ADV	Adv	_	3	advmod	_	CGdephead=#4-&gt;3|CGdeprel=@&lt;ADVL|GTtags=Der/Dimin,N,Sg,Loc
 5	veeʹres	veeʹres	ADJ	A	Case=Nom|Number=Sing	6	amod	_	CGdephead=#5-&gt;2|CGdeprel=@&lt;SUBJ|GTtags=Sg,Nom
@@ -3514,7 +3514,7 @@
 # text = Ij-ǥo ǩii siltteʹče mainsted mainnâz?
 # text_fi = Eikö kukaan osaisi kertoa tarinaa?
 # comment = (Kotus 0635_1az, 0:04:10)
-1	Ij-ǥo	ij	AUX	_	Number=Sing|Person=3|Polarity=Neg	3	aux:neg	_	_
+1	Ij-ǥo	ij	AUX	_	Number=Sing|Person=3|Polarity=Neg	3	aux	_	_
 2	ǩii	ǩii	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	3	nsubj	_	_
 3	siltteʹče	siltteed	VERB	V	Connegative=Yes|Mood=Cnd	0	root	_	_
 4	mainsted	mainsted	VERB	V	VerbForm=Inf	3	xcomp	_	_
@@ -3590,7 +3590,7 @@
 # sent_id = kotus-skak2010-1-6:1:4
 # text = Da ij ni tõt leäkku.
 1	Da	da	CCONJ	CC	_	5	mark	_	_
-2	ij	ij	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	5	aux:neg	_	GTtags=Neg,Ind,Sg3,@+FAUXV
+2	ij	ij	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	5	aux	_	GTtags=Neg,Ind,Sg3,@+FAUXV
 3	ni	ni	PART	Pcle	Polarity=Neg	5	advmod	_	GTtags=Neg
 4	tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	5	nsubj	_	GTtags=Dem,Sg,Nom
 5	leäkku	leeʹd	VERB	V	Connegative=Yes|Mood=Ind	0	root	_	GTtags=Ind,ConNeg|SpaceAfter=No
