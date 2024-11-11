@@ -79,7 +79,7 @@
     <feat name="Person[psor]" value="1" upos="NOUN">4</feat><!-- Jeänn’jam, eččan, jeännam, vuäbbam -->
     <feat name="Person[psor]" value="2" upos="NOUN">9</feat><!-- eččad, eeʹjjed, jeänn’jad, juâlǥad -->
     <feat name="Person[psor]" value="3" upos="ADP,NOUN">30</feat><!-- jeäʹnnes, villjâs, vuäʹbbes, ääušas, triâŋgâs, heäppšines, jueʹljes, jällmõõžžâz, kuättses, kuõjâs -->
-    <feat name="Polarity" value="Neg" upos="AUX,INTJ,PART,VERB">69</feat><!-- ij, jiõk, ni, jiõm, iʹlla, jeäʹp, iʹlleäk, jiâ, Ij-ǥo, Jeäʹled -->
+    <feat name="Polarity" value="Neg" upos="AUX,INTJ,PART,VERB">71</feat><!-- ij, jiõk, ni, jiõm, iʹlla, jeäʹp, i-ǥõl, iʹlleäk, jiâ, Ij-ǥo -->
     <feat name="PronType" value="Dem" upos="DET,PRON">100</feat><!-- tõt, tõn, tõt-i, tõid, tuk, tut, tät, dõõn, dõõt, tän -->
     <feat name="PronType" value="Int" upos="ADV,PRON">11</feat><!-- mâiʹd, Mii, Koozz, ǩii -->
     <feat name="PronType" value="Prs" upos="PRON">158</feat><!-- son, ton, mon, suu, muu, miʹjjid, suʹst, seeʹst, tuu, jiijj -->
@@ -96,7 +96,7 @@
     <feat name="Voice" value="Pass" upos="VERB">3</feat><!-- čõnnum, tuåimtum -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="51">
+  <deps unique="50">
     <dep name="acl">1</dep>
     <dep name="acl:relcl">1</dep>
     <dep name="advcl">22</dep>
@@ -111,9 +111,8 @@
     <dep name="advmod:tmod">98</dep>
     <dep name="amod">23</dep>
     <dep name="appos">8</dep>
-    <dep name="aux">31</dep>
+    <dep name="aux">77</dep>
     <dep name="aux:nec">13</dep>
-    <dep name="aux:neg">46</dep>
     <dep name="aux:tense">10</dep>
     <dep name="case">24</dep>
     <dep name="cc">174</dep>
@@ -122,7 +121,7 @@
     <dep name="conj">365</dep>
     <dep name="cop">37</dep>
     <dep name="dep">2</dep>
-    <dep name="det">60</dep>
+    <dep name="det">58</dep>
     <dep name="discourse">69</dep>
     <dep name="dislocated">4</dep>
     <dep name="expl">4</dep>
@@ -131,7 +130,7 @@
     <dep name="goeswith">1</dep>
     <dep name="mark">59</dep>
     <dep name="nmod">10</dep>
-    <dep name="nmod:poss">9</dep>
+    <dep name="nmod:poss">11</dep>
     <dep name="nsubj">279</dep>
     <dep name="nsubj:cop">23</dep>
     <dep name="nsubj:pass">3</dep>
