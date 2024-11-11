@@ -44,6 +44,10 @@ however, we would be no where…
 
 # Changelog
 
+* 2024-11-01
+  * Use nmod:poss with possessive pronouns
+* 2024-04-29
+  * Continue adding
 * 2023-10-29
   * Add CCC variant to train.conllu for minimal data split
 * 2023-04-30
