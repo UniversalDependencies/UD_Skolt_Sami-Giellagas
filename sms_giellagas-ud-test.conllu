@@ -3565,7 +3565,7 @@
 3	,	,	PUNCT	PUNCT	_	5	punct	_	_
 4	äʹn	äʹn	PART	Pcle	_	5	discourse	_	_
 5	äjjan	äjjned	VERB	V	Mood=Imp|Number=Sing|Person=2	0	root	_	GTtags=Mood=Imp,Number=Sing,Person=2
-6	äʹrbbaaušu	äʹrbbähšš	NOUN	N	Case=Acc|Derivation=Dimin|Number=Sing	5	obj	_	GTtags=Der/Dimin,Sg,Acc
+6	äʹrbbaaušu	äʹrbbähšš	NOUN	N	Case=Acc|Degree=Dim|Number=Sing	5	obj	_	GTtags=Der/Dimin,Sg,Acc
 7	ko	ko	SCONJ	CS	_	8	mark	_	_
 8	viiǯǯžem	viǯǯâd	VERB	V	Mood=Pot|Number=Sing|Person=1	5	advcl:tcl	_	SpaceAfter=No
 9	”	”	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
