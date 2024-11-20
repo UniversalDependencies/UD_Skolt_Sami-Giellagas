@@ -46,6 +46,7 @@ however, we would be no where…
 
 * 2024-11-01
   * Use nmod:poss with possessive pronouns
+  * Degree with value Dim cleanup
 * 2024-04-29
   * Continue adding
 * 2023-10-29
