@@ -2590,7 +2590,7 @@
 
 # sent_id = kotus-skak2010-1-5:10:4
 # text = Ij ko villjâs, tõt-i lij tõt kååʹtt ko kuâđđji tõt villj, tõt-i lij.
-1	Ij	ij	INTJ	ExtPos=CCONJ	Polarity=Neg	3	orphan	_	_
+1	Ij	ij	INTJ	_	ExtPos=CCONJ|Polarity=Neg	3	orphan	_	_
 2	ko	ko	SCONJ	CS	_	1	fixed	_	_
 3	villjâs	villj	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	3	punct	_	_
@@ -3188,7 +3188,7 @@
 7	”	”	PUNCT	_	_	9	punct	_	SpaceAfter=No
 8	jiâ	ij	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	9	aux	_	_
 9	pieʹrǧǧe	pieʹrǧǧe	VERB	V	_	5	parataxis	_	_
-10	ni	ni	PART	ExtPos=ADV	Polarity=Neg	9	advmod	_	_
+10	ni	ni	PART	_	ExtPos=ADV|Polarity=Neg	9	advmod	_	_
 11	mäʹhtt	mäʹhtt	ADV	Adv	_	10	fixed	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	9	punct	_	SpaceAfter=No
 13	”	”	PUNCT	_	_	9	punct	_	_
