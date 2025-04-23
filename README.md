@@ -44,6 +44,10 @@ however, we would be no where…
 
 # Changelog
 
+* 2025-04-30
+  * Introduce PartType=Int
+  * Adjust use of :tmod to accusative that is not obj
+  * Adjust use of :lmod
 * 2024-11-01
   * Use nmod:poss with possessive pronouns
   * Degree with value Dim cleanup
