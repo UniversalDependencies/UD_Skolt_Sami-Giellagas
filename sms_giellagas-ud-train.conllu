@@ -239,7 +239,7 @@
 6	ǥu	ǥu	SCONJ	CS	_	10	mark	_	_
 7	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	GTtags=Pers,Sg3,Nom
 8	leäi	leeʹd	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	cop	_	GTtags=IV,Ind,Prt,Sg3
-9	samai	samai	ADV	Adv	_	10	advmod:deg	_	_
+9	samai	samai	ADV	Adv	_	10	advmod	_	_
 10	jåʹttel	jåʹttel	ADJ	A	Case=Nom|Number=Sing	2	advcl	_	GTtags=Sg,Nom|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	2	punct	_	_
 
