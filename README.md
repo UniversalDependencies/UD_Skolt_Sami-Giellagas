@@ -48,6 +48,7 @@ however, we would be no where…
   * Introduce PartType=Int
   * Adjust use of :tmod to accusative that is not obj
   * Adjust use of :lmod
+  * remove :eval, :mmod, :nec, :foc
 * 2024-11-01
   * Use nmod:poss with possessive pronouns
   * Degree with value Dim cleanup
