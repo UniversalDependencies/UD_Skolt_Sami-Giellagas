@@ -44,6 +44,9 @@ however, we would be no where…
 
 # Changelog
 
+* 2025-10-30
+  * Add VerbForm attributes for words with Mood
+  * Add PronType feature attributes for DET and PRON.
 * 2025-04-30
   * Introduce PartType=Int
   * Adjust use of :tmod to accusative that is not obj
