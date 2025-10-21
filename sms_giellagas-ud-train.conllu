@@ -146,7 +146,7 @@
 3	ǩeeʹrjteeʹjest	ǩeeʹrjteei	NOUN	N	Case=Loc|Number=Sing	2	obl	_	GTtags=Sg,Loc
 4	võl	võl	ADV	Adv	AdvType=Tim	2	advmod	_	GTtags=Sem/Time
 5	ni	ni	PART	Pcle	_	6	advmod:neg	_	_
-6	måkam	måkam	DET	Det	_	7	det	_	GTtags=Attr
+6	måkam	måkam	ADJ	A	_	7	amod	_	GTtags=Attr
 7	jurddi	juurd	NOUN	N	Case=Nom|Number=Plur	2	nsubj	_	GTtags=Pl,Nom|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	2	punct	_	_
 
