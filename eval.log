@@ -1,11 +1,15 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Skolt_Sami-Giellagas:
-commit 7ebc7c6d0aeebd1ffc126f0144e602b6cc9f27e1
-Merge: b3e2d14 cbcfa31
+commit 13b4cd128e444aa37a1d41f64d020a7d597ef0fa
+Merge: 319a537 d99b357
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'sms_giellagas'
+Language code (from CoNLL-U file name) = 'sms'
+Found the following data files: sms_giellagas-ud-test.conllu, sms_giellagas-ud-train.conllu
 Size: counted 2961 of 2961 words (nodes).
 Size: min(0, log((N/1000)**2)) = 2.17105409823891.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -15,28 +19,23 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 1731 out of 2961 total words have one or more features.
+Features: 1741 out of 2961 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi:
-               TOTAL        615
-Udapi: found 615 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 2961 words.
 Genres: found 3 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang sms --max-err=10 UD_Skolt_Sami-Giellagas/sms_giellagas-ud-test.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang sms --max-err=10 UD_Skolt_Sami-Giellagas/sms_giellagas-ud-train.conllu
 *** PASSED ***
 Validity: 1
-(weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
-(weight=0.0769230769230769) * (score{genres}=0.166666666666667) = 0.0128205128205128
-(weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
-(weight=0.256410256410256) * (score{size}=0.157146135796433) = 0.0402938809734444
-(weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
-(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.691891891891892) = 0.0532224532224532
-(TOTAL score=0.290922065719276) * (availability=1) * (validity=1) = 0.290922065719276
-STARS = 1.5
-UD_Skolt_Sami-Giellagas	0.290922065719276	1.5
+(weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
+(weight=0.111111111111111) * (score{genres}=0.166666666666667) = 0.0185185185185185
+(weight=0.111111111111111) * (score{lemmas}=0.8) = 0.0888888888888889
+(weight=0.37037037037037) * (score{size}=0.157146135796433) = 0.0582022725171974
+(weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
+(weight=0.111111111111111) * (score{tags}=0.752941176470588) = 0.0836601307189542
+(weight=0.111111111111111) * (score{udeprels}=0.691891891891892) = 0.0768768768768769
+(TOTAL score=0.415776317150066) * (availability=1) * (validity=1) = 0.415776317150066
+STARS = 2
+UD_Skolt_Sami-Giellagas	0.415776317150066	2
