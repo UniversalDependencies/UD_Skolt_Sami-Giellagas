@@ -44,6 +44,10 @@ however, we would be no where…
 
 # Changelog
 
+* 2025-10-30
+  * Add VerbForm attributes for words with Mood
+  * Connegatives illogically are tagged as VerbForm=Fin according to Northern Sami and Finnish TreeBank practices.
+  * Add PronType feature attributes for DET and PRON.
 * 2025-04-30
   * Introduce PartType=Int
   * Adjust use of :tmod to accusative that is not obj
@@ -87,6 +91,7 @@ however, we would be no where…
 Data available since: UD v2.5
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: nonfiction news spoken
 Lemmas: converted from manual
 UPOS: converted from manual
