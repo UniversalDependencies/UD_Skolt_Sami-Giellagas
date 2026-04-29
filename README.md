@@ -44,6 +44,8 @@ however, we would be no where…
 
 # Changelog
 
+* 2026-04-30
+  * Add new trees, examples from 2020 grammar (SK2020), featuring the conditional and potential moods.
 * 2025-10-30
   * Add VerbForm attributes for words with Mood
   * Connegatives illogically are tagged as VerbForm=Fin according to Northern Sami and Finnish TreeBank practices.

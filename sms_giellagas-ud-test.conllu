@@ -3596,3 +3596,146 @@
 5	leäkku	leeʹd	VERB	V	Connegative=Yes|Mood=Ind|VerbForm=Fin	0	root	_	GTtags=Ind,ConNeg|SpaceAfter=No
 6	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
+# sent_id = SK2020-95:1
+# text = Leʹččem dååma, jõs leʹčči pannšõŋŋ.
+# text_en = I would be at home if it were bad weather.
+# text_fi = Olisin kotona, jos olisi huono ilma.
+1	Leʹččem	leeʹd	VERB	V	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	0	root	_	GTtags=IV,Cond,Sg1
+2	dååma	dååma	ADV	Adv	_	1	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	CLB	_	1	punct	_	GTtags=CLB
+4	jõs	jõs	SCONJ	CS	_	5	mark	_	GTtags=
+5	leʹčči	leeʹd	VERB	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	1	conj	_	GTtags=IV,Cond,Sg3
+6	pannšõŋŋ	pannšõŋŋ	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	GTtags=Sem/Wthr,Sg,Nom|SpaceAfter=No
+7	.	.	PUNCT	CLB	_	1	punct	_	GTtags=CLB
+
+# sent_id = SK2020-95:2
+# text = Jiõm puäʹđ kuâssa, ko ton leʹččiǩ teʹl tuõddrest.
+# text_en = I won't come to visit, because you would be up in the highlands then.
+# text_fi = En tule vieraisille, kun sinä olisit silloin tunturissa.
+1	Jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	2	aux:neg	_	GTtags=Neg,Ind,Sg1
+2	puäʹđ	pueʹtted	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	0	root	_	GTtags=IV,Ind,Prs,ConNeg
+3	kuâssa	kueʹss	NOUN	N	Case=Ill|Number=Sing	2	obl	_	GTtags=Sg,Ill|SpaceAfter=No
+4	,	,	PUNCT	CLB	_	5	punct	_	GTtags=CLB
+5	ko	ko	SCONJ	CS	_	7	mark	_	GTtags=
+6	ton	ton	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	GTtags=Pers,Sg2,Nom
+7	leʹččiǩ	leeʹd	VERB	V	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	2	advcl	_	GTtags=IV,Cond,Sg2
+8	teʹl	teʹl	ADV	Adv	AdvType=Tim	7	advmod	_	GTtags=Sem/Time
+9	tuõddrest	tuõddâr	NOUN	N	Case=Loc|Number=Sing	7	obl	_	GTtags=Sg,Loc|SpaceAfter=No
+10	.	.	PUNCT	CLB	_	2	punct	_	GTtags=CLB
+
+# sent_id = SK2020-95:6
+# text = Aautin mon piâzzčem jåʹttlubun ko väʹʒʒeeʹl.
+# text_en = I would get there faster by car than on foot.
+# text_fi = Autolla pääsisin nopeammin kuin kävellen.
+1	Aautin	aaut	NOUN	N	Case=Loc|Number=Plur	3	obl	_	GTtags=Pl,Loc
+2	mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	GTtags=Pers,Sg1,Nom
+3	piâzzčem	piâssâd	VERB	V	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	0	root	_	GTtags=Cond,Sg1
+4	jåʹttlubun	jåʹttlubun	ADV	Adv	_	3	advmod	_	_
+5	ko	ko	SCONJ	CS	_	6	mark	_	GTtags=
+6	väʹʒʒeeʹl	väʹʒʒeeʹl	VERB	_	VerbForm=Conv	3	advcl	_	GTtags=?|SpaceAfter=No
+7	.	.	PUNCT	CLB	_	3	punct	_	GTtags=CLB
+
+# sent_id = SK2020-95:7
+# text = Ǩeässa ton vuejčiǩ teâđast motorvõnnsin.
+# text_en = In the summer, you would go by boat, of course.
+# text_fi = Kesällä ajaisit tietenkin moottoriveneellä.
+1	Ǩeässa	ǩeässa	ADV	Adv	AdvType=Tim	3	advmod	_	GTtags=Sem/Time,Sem/Time
+2	ton	ton	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	GTtags=Pers,Sg2,Nom
+3	vuejčiǩ	vuejjad	VERB	V	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	GTtags=IV,Cond,Sg2
+4	teâđast	teâđast	ADV	Adv	_	3	advmod	_	GTtags=Sg,Loc
+5	motorvõnnsin	motorvõõnâs	NOUN	N	Case=Com|Number=Sing	3	obl	_	GTtags=Pl,Loc|SpaceAfter=No
+6	.	.	PUNCT	CLB	_	3	punct	_	GTtags=CLB
+
+# sent_id = SK2020-95:11
+# text = Sij mõõnče ouddâl buussin ko aautin.
+# text_en = The would rather go by bus than by car.
+# text_fi = He menisivät mieluummin bussilla kuin autolla.
+1	Sij	son	PRON	Pron	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Pl3,Gen
+2	mõõnče	mõõnnâd	VERB	V	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	GTtags=IV,Cond,Pl3
+3	ouddâl	ouddâl	ADV	Adv	AdvType=Tim	2	advmod	_	GTtags=
+4	buussin	buss	NOUN	N	Case=Com|Number=Sing	2	obl	_	GTtags=Pl,Loc
+5	ko	ko	SCONJ	CS	_	6	mark	_	GTtags=
+6	aautin	aaut	NOUN	N	Case=Com|Number=Sing	2	obl	_	GTtags=Pl,Loc|SpaceAfter=No
+7	.	.	PUNCT	CLB	_	2	punct	_	GTtags=CLB
+
+# sent_id = SK2020-97:5
+# text = Ko leʹččep välddam jeäʹvvsid, leʹččep vuäittam väʹʒʒed Aanar räjja.
+# text_en = If we had taken food along, we could have walked all the way to Inari.
+# text_fi = Jos olisimme ottaneet eväät, olisimme jaksaneet kävellä Inariin saakka.
+1	Ko	ko	SCONJ	CS	_	3	mark	_	GTtags=
+2	leʹččep	leeʹd	AUX	V	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	3	aux	_	GTtags=IV,Cond,Pl1
+3	välddam	väʹldded	VERB	V	Aspect=Perf|VerbForm=Part	7	advcl	_	GTtags=TV,Act,PrfPrc
+4	jeäʹvvsid	jeäʹves	NOUN	N	Case=Acc|Number=Plur	3	obj	_	GTtags=Pl,Acc|SpaceAfter=No
+5	,	,	PUNCT	CLB	_	3	punct	_	GTtags=CLB
+6	leʹččep	leeʹd	AUX	V	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	7	aux	_	GTtags=IV,Cond,Pl1
+7	vuäittam	vueiʹtted	VERB	V	Aspect=Perf|VerbForm=Part	0	root	_	GTtags=TV,Act,PrfPrc
+8	väʹʒʒed	väʹʒʒed	VERB	V	VerbForm=Inf	7	xcomp	_	GTtags=IV,Inf
+9	Aanar	Aanar	PROPN	N	Case=Gen|Number=Sing	8	obl	_	GTtags=Prop,Sg,Gen
+10	räjja	räjja	ADP	Po	AdpType=Post	9	case	_	GTtags=Po|SpaceAfter=No
+11	.	.	PUNCT	CLB	_	7	punct	_	GTtags=CLB
+
+# sent_id = SK2020-97:7
+# text = Tuänna leʹččid mõõnnâm Taʹrre, jõs leʹččid vuäǯǯam aaut.
+# text_en = The two of you would have gone to Norway if you had gotten a car.
+# text_fi = Te kaksi olisitte menneet Norjaan, jos olisitte saaneet auton.
+1	Tuänna	Tuänna	PRON	Pron	Case=Nom|Number=Dual|Person=2|PronType=Prs	3	nsubj	_	GTtags=?
+2	leʹččid	leeʹd	AUX	V	Mood=Cnd|Number=Plur|Person=2|VerbForm=Fin	3	aux	_	GTtags=IV,Cond,Pl2
+3	mõõnnâm	mõõnnâd	VERB	V	Aspect=Perf|VerbForm=Part	0	root	_	GTtags=IV,Act,PrfPrc
+4	Taʹrre	Taarr	PROPN	N	Case=Ill|Number=Sing	3	obl	_	GTtags=Prop,Sem/Plc,Sg,Ill|SpaceAfter=No
+5	,	,	PUNCT	CLB	_	3	punct	_	GTtags=CLB
+6	jõs	jõs	SCONJ	CS	_	8	mark	_	GTtags=
+7	leʹččid	leeʹd	AUX	V	Mood=Cnd|Number=Plur|Person=2|VerbForm=Fin	8	aux	_	GTtags=IV,Cond,Pl2
+8	vuäǯǯam	vuäǯǯad	VERB	V	Aspect=Perf|VerbForm=Part	3	advcl	_	GTtags=TV,Act,PrfPrc
+9	aaut	aaut	NOUN	N	Case=Nom|Number=Plur	8	obj	_	GTtags=Pl,Nom|SpaceAfter=No
+10	.	.	PUNCT	CLB	_	3	punct	_	GTtags=CLB
+
+# sent_id = SK2020-98:1
+# text = Mon leʹjjem vueʹlǧǧed aautin, jõs muʹst leäi leeʹd bensiin.
+# text_en = I would have left by car if I had had gasoline.
+# text_fi = Olisin lähtenyt autolla, jos minulla olisi ollut bensiiniä.
+1	Mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	GTtags=Pers,Sg1,Nom
+2	leʹjjem	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	aux	_	GTtags=IV,Ind,Prt,Sg1
+3	vueʹlǧǧed	vueʹlǧǧed	VERB	V	VerbForm=Inf	0	root	_	GTtags=IV,Inf
+4	aautin	aaut	NOUN	N	Case=Com|Number=Sing	3	obl	_	GTtags=Pl,Loc|SpaceAfter=No
+5	,	,	PUNCT	CLB	_	3	punct	_	GTtags=CLB
+6	jõs	jõs	SCONJ	CS	_	9	mark	_	_
+7	muʹst	mon	PRON	Pron	Case=Loc|Number=Sing|Person=1|PronType=Prs	9	obl	_	GTtags=Pers,Sg1,Loc
+8	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	GTtags=IV,Ind,Prt,Sg3
+9	leeʹd	leeʹd	VERB	V	VerbForm=Inf	3	advcl	_	GTtags=IV,Inf
+10	bensiin	bensiin	NOUN	N	Case=Nom|Number=Plur	9	nsubj	_	GTtags=Pl,Nom|SpaceAfter=No
+11	.	.	PUNCT	CLB	_	3	punct	_	GTtags=CLB
+
+# sent_id = SK2020-98:6
+# text = Sij leʹjje påǥsted tän ääʹšš diõtt.
+# text_en = They would have laughed at this matter.
+# text_fi = He olisivat nauraneet tälle asialle.
+1	Sij	son	PRON	Pron	Case=Gen|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	GTtags=Pers,Pl3,Gen
+2	leʹjje	leeʹd	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	GTtags=IV,Ind,Prt,Pl3
+3	påǥsted	påǥsted	VERB	V	VerbForm=Inf	0	root	_	GTtags=Inf
+4	tän	tät	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	5	det	_	GTtags=Dem,Sg,Gen
+5	ääʹšš	äʹšš	NOUN	N	Case=Gen|Number=Sing	3	obl	_	GTtags=Sg,Gen
+6	diõtt	diõtt	ADP	Po	AdpType=Post	5	case	_	GTtags=Po|SpaceAfter=No
+7	.	.	PUNCT	CLB	_	3	punct	_	GTtags=CLB
+
+# sent_id = SK2020-100:7
+# text = Mon vuõʹljžem tok puõʹtti neäʹttlest.
+# text_en = I might head there next week.
+# text_fi = Lähtenen sinne ensi viikolla.
+1	Mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg1,Nom
+2	vuõʹljžem	vueʹlǧǧed	VERB	V	Mood=Pot|Number=Sing|Person=1|VerbForm=Fin	0	root	_	GTtags=IV,Pot,Sg1
+3	tok	tok	ADV	Adv	_	2	advmod	_	GTtags=
+4	puõʹtti	puõʹtti	ADJ	A	_	5	amod	_	GTtags=Attr
+5	neäʹttlest	neäʹttel	NOUN	N	Case=Loc|Number=Sing	2	obl	_	GTtags=Sg,Loc|SpaceAfter=No
+6	.	.	PUNCT	CLB	_	2	punct	_	GTtags=CLB
+
+# sent_id = SK2020-100:13
+# text = Muäna vuõʹljžep Njeäʹlma tij mieʹldd.
+# text_en = The two of us might leave for Nellimi with you.
+# text_fi = Me kaksi lähtenemme Nellimiin teidän mukananne.
+1	Muäna	mon	PRON	Pron	Case=Nom|Number=Dual|Person=1|PronType=Prs	2	nsubj	_	GTtags=Pers,Du1,Nom
+2	vuõʹljžep	vueʹlǧǧed	VERB	V	Mood=Pot|Number=Plur|Person=1|VerbForm=Fin	0	root	_	GTtags=IV,Pot,Pl1
+3	Njeäʹlma	Njeäʹlma	PROPN	N	Case=Ill|Number=Sing	2	obl	_	_
+4	tij	ton	PRON	Pron	Case=Gen|Number=Plur|Person=2|PronType=Prs	2	obl	_	GTtags=Pers,Pl2,Gen
+5	mieʹldd	mieʹldd	ADP	Adp	_	4	case	_	GTtags=|SpaceAfter=No
+6	.	.	PUNCT	CLB	_	2	punct	_	GTtags=CLB
+
