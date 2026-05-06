@@ -1,17 +1,17 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Skolt_Sami-Giellagas:
-commit 13b4cd128e444aa37a1d41f64d020a7d597ef0fa
-Merge: 319a537 d99b357
+commit 195debed157ba90fb565f4a3273492687feea8a0
+Merge: db54920 6dd04e4
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'sms_giellagas'
 Language code (from CoNLL-U file name) = 'sms'
 Found the following data files: sms_giellagas-ud-test.conllu, sms_giellagas-ud-train.conllu
-Size: counted 2961 of 2961 words (nodes).
-Size: min(0, log((N/1000)**2)) = 2.17105409823891.
+Size: counted 3049 of 3049 words (nodes).
+Size: min(0, log((N/1000)**2)) = 2.22962733601224.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -19,7 +19,7 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 1741 out of 2961 total words have one or more features.
+Features: 1800 out of 3049 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
@@ -32,10 +32,10 @@ Validity: 1
 (weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
 (weight=0.111111111111111) * (score{genres}=0.166666666666667) = 0.0185185185185185
 (weight=0.111111111111111) * (score{lemmas}=0.8) = 0.0888888888888889
-(weight=0.37037037037037) * (score{size}=0.157146135796433) = 0.0582022725171974
+(weight=0.37037037037037) * (score{size}=0.161385808121794) = 0.0597725215265902
 (weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
 (weight=0.111111111111111) * (score{tags}=0.752941176470588) = 0.0836601307189542
 (weight=0.111111111111111) * (score{udeprels}=0.691891891891892) = 0.0768768768768769
-(TOTAL score=0.415776317150066) * (availability=1) * (validity=1) = 0.415776317150066
+(TOTAL score=0.417346566159458) * (availability=1) * (validity=1) = 0.417346566159458
 STARS = 2
-UD_Skolt_Sami-Giellagas	0.415776317150066	2
+UD_Skolt_Sami-Giellagas	0.417346566159458	2
