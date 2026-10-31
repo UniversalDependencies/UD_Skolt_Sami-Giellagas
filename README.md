@@ -44,6 +44,9 @@ however, we would be no where…
 
 # Changelog
 
+* 2026-10-31
+  * New trees from Truth and reconciliation
+  * Cleansing and testing new tools
 * 2026-04-30
   * Add new trees, examples from 2020 grammar (SK2020), featuring the conditional and potential moods.
 * 2025-10-30
